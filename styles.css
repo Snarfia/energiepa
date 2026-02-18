@@ -30,36 +30,17 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem 1rem;
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 1rem;
-  align-items: start;
-}
-
-.brand {
-  display: inline-flex;
-  align-items: center;
-  justify-self: end;
-  align-self: start;
-}
-
-.brand-logo {
-  width: clamp(120px, 15vw, 180px);
-  height: auto;
-  display: block;
 }
 
 .header h1 {
   margin: 0;
   font-size: clamp(1.6rem, 3vw, 2.4rem);
-  grid-column: 1 / 2;
 }
 
 .header p {
   margin-top: 0.6rem;
   color: var(--muted);
-  grid-column: 1 / 2;
-  max-width: 760px;
+  max-width: 860px;
 }
 
 .layout {
@@ -146,20 +127,6 @@ body {
 }
 
 @media (max-width: 900px) {
-  .header {
-    grid-template-columns: 1fr;
-  }
-
-  .brand {
-    justify-self: start;
-    order: -1;
-    margin-bottom: 0.2rem;
-  }
-
-  .brand-logo {
-    width: clamp(110px, 36vw, 170px);
-  }
-
   .layout {
     grid-template-columns: 1fr;
   }
