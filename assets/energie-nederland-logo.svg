@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" role="img" aria-label="Energie Nederland">
+  <defs>
+    <style>
+      .txt{font-family:Arial, Helvetica, sans-serif;font-weight:700;letter-spacing:1px}
+    </style>
+  </defs>
+  <rect x="24" y="22" width="56" height="56" rx="28" fill="#10a8c6"/>
+  <rect x="96" y="22" width="122" height="56" rx="28" fill="#d55235"/>
+  <rect x="24" y="85" width="122" height="56" rx="28" fill="#7a6dac"/>
+  <rect x="160" y="85" width="56" height="56" rx="28" fill="#21a5dc"/>
+  <rect x="24" y="148" width="56" height="56" rx="28" fill="#4cc5a1"/>
+  <rect x="96" y="148" width="122" height="56" rx="28" fill="#ea9b4b"/>
+
+  <text x="290" y="110" font-size="64" fill="#0f93c2" class="txt">ENERGIE</text>
+  <text x="290" y="162" font-size="54" fill="#0f93c2" class="txt">NEDERLAND</text>
+</svg>

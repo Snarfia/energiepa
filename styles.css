@@ -1,12 +1,15 @@
 :root {
-  --bg: #f2f6f8;
+  --bg: #eef8fb;
   --surface: #ffffff;
-  --text: #112432;
-  --muted: #5a6a75;
-  --accent: #0f6e88;
-  --accent-2: #0a4f63;
-  --border: #d4e0e6;
-  --chip: #e6f2f6;
+  --text: #0f2f42;
+  --muted: #4a6573;
+  --accent: #0f93c2;
+  --accent-2: #0a7499;
+  --border: #c6dfeb;
+  --chip: #e7f6fb;
+  --orange: #e48e3e;
+  --purple: #7a6dac;
+  --mint: #4cc5a1;
 }
 
 * {
@@ -17,13 +20,28 @@ body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: var(--text);
-  background: radial-gradient(circle at top right, #dbeef4, var(--bg) 40%);
+  background:
+    radial-gradient(circle at 90% 0%, #ffd8b7 0%, transparent 28%),
+    radial-gradient(circle at 0% 0%, #d7eff8 0%, transparent 34%),
+    linear-gradient(180deg, #f7fcfe 0%, var(--bg) 100%);
 }
 
 .header {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem 1rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.brand-logo {
+  width: clamp(220px, 28vw, 340px);
+  height: auto;
+  display: block;
 }
 
 .header h1 {
@@ -83,7 +101,7 @@ body {
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 0.75rem;
-  background: #fcfeff;
+  background: #fafdff;
 }
 
 .item a {
@@ -103,9 +121,9 @@ body {
 }
 
 .chip {
-  background: var(--chip);
-  color: var(--accent-2);
-  border: 1px solid #c8dce4;
+  background: linear-gradient(120deg, var(--chip), #fff8ef);
+  color: var(--purple);
+  border: 1px solid #d4caea;
   border-radius: 999px;
   padding: 0.2rem 0.65rem;
   font-size: 0.82rem;
