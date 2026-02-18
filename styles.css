@@ -30,16 +30,19 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem 1rem;
+  position: relative;
 }
 
 .brand {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
   display: inline-flex;
   align-items: center;
-  margin-bottom: 0.6rem;
 }
 
 .brand-logo {
-  width: clamp(220px, 28vw, 340px);
+  width: clamp(95px, 11vw, 135px);
   height: auto;
   display: block;
 }
