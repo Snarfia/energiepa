@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Energie-overzicht overheid</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Energie en Klimaat: Overheidsupdates</h1>
+      <p>
+        Recente publicaties van Rijksoverheid.nl en aankomende debatten van de
+        Tweede Kamer.
+      </p>
+    </header>
+
+    <main class="layout">
+      <section class="card left">
+        <div class="card-head">
+          <h2>Publicaties Rijksoverheid (laatste 7 dagen)</h2>
+        </div>
+        <p id="pub-status" class="status">Laden...</p>
+        <ul id="pub-list" class="list"></ul>
+      </section>
+
+      <aside class="card right">
+        <div class="card-head">
+          <h2>Aankomende debatten</h2>
+          <span class="chip">Tweede Kamer</span>
+        </div>
+        <p id="debate-status" class="status">Laden...</p>
+        <ul id="debate-list" class="list"></ul>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <small>Bronnen: rijksoverheid.nl en tweedekamer.nl (Open Data).</small>
+    </footer>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
