@@ -11,12 +11,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      PLESK_HOST: ${{ secrets.PLESK_HOST }}
-      PLESK_USER: ${{ secrets.PLESK_USER }}
-      PLESK_SSH_KEY: ${{ secrets.PLESK_SSH_KEY }}
-      PLESK_PASSWORD: ${{ secrets.PLESK_PASSWORD }}
-      PLESK_TARGET: ${{ secrets.PLESK_TARGET }}
 
     steps:
       - name: Checkout
@@ -38,26 +32,21 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update energie data"
           git push
 
-      - name: Deploy updated data to Plesk (SSH key)
-        if: ${{ env.PLESK_SSH_KEY != '' }}
-        uses: appleboy/scp-action@v0.1.7
+      - name: Deploy updated data to Plesk (FTP)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          host: ${{ env.PLESK_HOST }}
-          username: ${{ env.PLESK_USER }}
-          key: ${{ env.PLESK_SSH_KEY }}
-          port: 22
-          source: "index.html,app.js,styles.css,data/**,assets/**"
-          target: ${{ env.PLESK_TARGET }}
-          strip_components: 0
-
-      - name: Deploy updated data to Plesk (password)
-        if: ${{ env.PLESK_SSH_KEY == '' && env.PLESK_PASSWORD != '' }}
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ env.PLESK_HOST }}
-          username: ${{ env.PLESK_USER }}
-          password: ${{ env.PLESK_PASSWORD }}
-          port: 22
-          source: "index.html,app.js,styles.css,data/**,assets/**"
-          target: ${{ env.PLESK_TARGET }}
-          strip_components: 0
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          protocol: ftps
+          local-dir: ./
+          server-dir: /httpdocs/
+          exclude: |
+            **/.git*
+            **/.github/**
+            **/.pycache/**
+            **/server.py
+            **/server.js
+            **/scripts/**
+            **/README.md
