@@ -8,6 +8,7 @@ Deze website is volledig statisch en kan op GitHub Pages draaien zonder Python-b
   - `data/publicaties.json` (Rijksoverheid laatste 7 dagen inclusief vandaag)
   - `data/debatten.json` (aankomende energie/klimaatdebatten Tweede Kamer)
 - Een GitHub Action (`.github/workflows/update-energy-data.yml`) ververst deze JSON elk uur.
+- Een deploy Action (`.github/workflows/deploy-to-plesk.yml`) uploadt de site direct naar Plesk bij elke push naar `main`.
 
 ## Publiceren op GitHub Pages
 
@@ -37,6 +38,19 @@ git push -u origin main
 In GitHub:
 - Ga naar `Actions` -> `Update energy data`
 - Klik `Run workflow`
+
+## Automatisch deployen naar Plesk via GitHub Actions
+
+Maak in GitHub deze repository secrets aan via `Settings` -> `Secrets and variables` -> `Actions`:
+
+- `PLESK_HOST`: jouw server hostnaam (bijv. `energiepa.snarfia.nl` of server-IP)
+- `PLESK_USER`: Plesk/SSH gebruikersnaam
+- `PLESK_SSH_KEY`: private SSH key van die gebruiker (hele key inclusief `BEGIN/END`)
+- `PLESK_TARGET`: doelmap op server, meestal `/var/www/vhosts/snarfia.nl/httpdocs`
+
+Daarna:
+- Push naar `main` -> workflow `Deploy to Plesk` draait automatisch.
+- De uur-workflow `Update energy data` deployt na update ook direct naar Plesk.
 
 ## Lokaal testen zonder Python
 
