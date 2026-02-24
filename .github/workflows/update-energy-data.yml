@@ -32,12 +32,25 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update energie data"
           git push
 
-      - name: Deploy updated data to Plesk
+      - name: Deploy updated data to Plesk (SSH key)
+        if: ${{ secrets.PLESK_SSH_KEY != '' }}
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.PLESK_HOST }}
           username: ${{ secrets.PLESK_USER }}
           key: ${{ secrets.PLESK_SSH_KEY }}
+          port: 22
+          source: "index.html,app.js,styles.css,data/**,assets/**"
+          target: ${{ secrets.PLESK_TARGET }}
+          strip_components: 0
+
+      - name: Deploy updated data to Plesk (password)
+        if: ${{ secrets.PLESK_SSH_KEY == '' && secrets.PLESK_PASSWORD != '' }}
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.PLESK_HOST }}
+          username: ${{ secrets.PLESK_USER }}
+          password: ${{ secrets.PLESK_PASSWORD }}
           port: 22
           source: "index.html,app.js,styles.css,data/**,assets/**"
           target: ${{ secrets.PLESK_TARGET }}
