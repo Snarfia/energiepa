@@ -9,30 +9,36 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      PLESK_HOST: ${{ secrets.PLESK_HOST }}
+      PLESK_USER: ${{ secrets.PLESK_USER }}
+      PLESK_SSH_KEY: ${{ secrets.PLESK_SSH_KEY }}
+      PLESK_PASSWORD: ${{ secrets.PLESK_PASSWORD }}
+      PLESK_TARGET: ${{ secrets.PLESK_TARGET }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Upload static site to Plesk (SSH key)
-        if: ${{ secrets.PLESK_SSH_KEY != '' }}
+        if: ${{ env.PLESK_SSH_KEY != '' }}
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.PLESK_HOST }}
-          username: ${{ secrets.PLESK_USER }}
-          key: ${{ secrets.PLESK_SSH_KEY }}
+          host: ${{ env.PLESK_HOST }}
+          username: ${{ env.PLESK_USER }}
+          key: ${{ env.PLESK_SSH_KEY }}
           port: 22
           source: "index.html,app.js,styles.css,data/**,assets/**"
-          target: ${{ secrets.PLESK_TARGET }}
+          target: ${{ env.PLESK_TARGET }}
           strip_components: 0
 
       - name: Upload static site to Plesk (password)
-        if: ${{ secrets.PLESK_SSH_KEY == '' && secrets.PLESK_PASSWORD != '' }}
+        if: ${{ env.PLESK_SSH_KEY == '' && env.PLESK_PASSWORD != '' }}
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.PLESK_HOST }}
-          username: ${{ secrets.PLESK_USER }}
-          password: ${{ secrets.PLESK_PASSWORD }}
+          host: ${{ env.PLESK_HOST }}
+          username: ${{ env.PLESK_USER }}
+          password: ${{ env.PLESK_PASSWORD }}
           port: 22
           source: "index.html,app.js,styles.css,data/**,assets/**"
-          target: ${{ secrets.PLESK_TARGET }}
+          target: ${{ env.PLESK_TARGET }}
           strip_components: 0
