@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T08:22:47.124Z",
+  "updatedAt": "2026-02-25T10:43:18.410Z",
   "items": [
     {
       "onderwerp": "Voorstel van het Presidium tot wijziging van het Reglement van Orde en tot vaststelling van een afzonderlijke regeling in verband met het in buitengewone omstandigheden tijdelijk mogelijk maken van digitale vergadermogelijkheden",
@@ -101,6 +101,15 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01431"
     },
     {
+      "onderwerp": "Onderzoekrapport van de Auditdienst Rijk over 'Onderzoek database met administratieve vastleggingen van verzonden brieven en ontvangen reacties vanuit het massale uitvraagproces'",
+      "soort": "Technische briefing",
+      "datum": "2026-03-10T18:45:00+01:00",
+      "aanvangstijd": "2026-03-10T18:45:00+01:00",
+      "locatie": "",
+      "nummer": "2026A01644",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01644"
+    },
+    {
       "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
       "soort": "Procedurevergadering",
       "datum": "2026-03-11T11:15:00+01:00",
@@ -128,15 +137,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08404"
     },
     {
-      "onderwerp": "Onderzoekrapport van de Auditdienst Rijk over 'Onderzoek database met administratieve vastleggingen van verzonden brieven en ontvangen reacties vanuit het massale uitvraagproces'",
-      "soort": "Technische briefing",
-      "datum": "2026-03-12T18:45:00+01:00",
-      "aanvangstijd": "2026-03-12T18:45:00+01:00",
-      "locatie": "",
-      "nummer": "2026A01421",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01421"
-    },
-    {
       "onderwerp": "Expertgroep Gezondheid IJmond en Commissie mer over de gezondheidseffecten van de Joint Letter of Intent met Tata Steel",
       "soort": "Gesprek",
       "datum": "2026-03-19T11:30:00+01:00",
@@ -153,15 +153,6 @@
       "locatie": "",
       "nummer": "2025A06583",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06583"
-    },
-    {
-      "onderwerp": "Klimaatakkoord gebouwde omgeving",
-      "soort": "Commissiedebat",
-      "datum": "2026-03-25T10:00:00+01:00",
-      "aanvangstijd": "2026-03-25T10:00:00+01:00",
-      "locatie": "",
-      "nummer": "2025A03529",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A03529"
     }
   ]
 }
