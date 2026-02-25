@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-02-24T23:49:23.422Z",
+  "updatedAt": "2026-02-25T07:35:50.116Z",
   "items": [
-    {
-      "onderwerp": "Petitie 'Bescherm onze gezondheid: stop PFAS nu!' door DeGoedeZaak met brede coalitie ",
-      "soort": "Petitie",
-      "datum": "2026-02-24T13:15:00+01:00",
-      "aanvangstijd": "2026-02-24T13:15:00+01:00",
-      "locatie": "",
-      "nummer": "2026A00915",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00915"
-    },
     {
       "onderwerp": "Voorstel van het Presidium tot wijziging van het Reglement van Orde en tot vaststelling van een afzonderlijke regeling in verband met het in buitengewone omstandigheden tijdelijk mogelijk maken van digitale vergadermogelijkheden",
       "soort": "Inbreng verslag (wetsvoorstel)",
@@ -162,6 +153,24 @@
       "locatie": "",
       "nummer": "2025A06583",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06583"
+    },
+    {
+      "onderwerp": "Klimaatakkoord gebouwde omgeving",
+      "soort": "Commissiedebat",
+      "datum": "2026-03-25T10:00:00+01:00",
+      "aanvangstijd": "2026-03-25T10:00:00+01:00",
+      "locatie": "",
+      "nummer": "2025A03529",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A03529"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-03-25T10:15:00+01:00",
+      "aanvangstijd": "2026-03-25T10:15:00+01:00",
+      "locatie": "",
+      "nummer": "2025A06496",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06496"
     }
   ]
 }
