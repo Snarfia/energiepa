@@ -29,7 +29,7 @@ jobs:
           protocol: ftp
           timeout: 120000
           local-dir: ./
-          server-dir: /
+          server-dir: /energiepa.snarfia.nl/
           exclude: |
             **/.git*
             **/.github/**
