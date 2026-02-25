@@ -15,6 +15,20 @@ function formatDate(iso) {
   });
 }
 
+function formatDateTime(iso) {
+  if (!iso) return 'Onbekende datum/tijd';
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return 'Onbekende datum/tijd';
+  return date.toLocaleString('nl-NL', {
+    weekday: 'short',
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+}
+
 function formatTime(value) {
   if (!value) return '';
   const raw = String(value).slice(0, 5);
@@ -105,7 +119,7 @@ async function loadPublicaties() {
     }
 
     renderPublicaties(data.items || []);
-    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDate(data.updatedAt)}.` : '';
+    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDateTime(data.updatedAt)}.` : '';
     pubStatus.textContent = `${(data.items || []).length} publicaties gevonden.${suffix}`;
   } catch (error) {
     clearList(pubList);
@@ -125,7 +139,7 @@ async function loadDebatten() {
     }
 
     renderDebatten(data.items || []);
-    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDate(data.updatedAt)}.` : '';
+    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDateTime(data.updatedAt)}.` : '';
     debateStatus.textContent = `${(data.items || []).length} aankomende debatten gevonden.${suffix}`;
   } catch (error) {
     clearList(debateList);
