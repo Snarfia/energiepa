@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T11:12:22.561Z",
+  "updatedAt": "2026-02-25T14:34:31.000Z",
   "items": [
     {
       "onderwerp": "Voorstel van het Presidium tot wijziging van het Reglement van Orde en tot vaststelling van een afzonderlijke regeling in verband met het in buitengewone omstandigheden tijdelijk mogelijk maken van digitale vergadermogelijkheden",
@@ -9,15 +9,6 @@
       "locatie": "",
       "nummer": "2026A01339",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01339"
-    },
-    {
-      "onderwerp": "Voorstel van het lid Van Asten (D66), gesteund door VVD, GroenLinks-PvdA en CDA, om voor 23 april a.s. een rondetafelgesprek over netcongestie en woningbouw in te plannen",
-      "soort": "E-mailprocedure",
-      "datum": "2026-02-25T15:00:00+01:00",
-      "aanvangstijd": "2026-02-25T15:00:00+01:00",
-      "locatie": "",
-      "nummer": "2026A01602",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01602"
     },
     {
       "onderwerp": "Wijziging van de Omgevingswet, Algemene wet bestuursrecht en de Wet windenergie op zee ter implementatie van onderdelen van de met Richtlijn 2023/2413 gewijzigde richtlijn hernieuwbare energie (REDIII, vergunnen)",
@@ -153,6 +144,24 @@
       "locatie": "",
       "nummer": "2025A06583",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06583"
+    },
+    {
+      "onderwerp": "Klimaatakkoord gebouwde omgeving",
+      "soort": "Commissiedebat",
+      "datum": "2026-03-25T10:00:00+01:00",
+      "aanvangstijd": "2026-03-25T10:00:00+01:00",
+      "locatie": "",
+      "nummer": "2025A03529",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A03529"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-03-25T10:15:00+01:00",
+      "aanvangstijd": "2026-03-25T10:15:00+01:00",
+      "locatie": "",
+      "nummer": "2025A06496",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06496"
     }
   ]
 }
