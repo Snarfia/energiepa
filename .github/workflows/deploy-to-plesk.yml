@@ -5,10 +5,15 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows:
+      - Update energy data
+    types:
+      - completed
 
 jobs:
   deploy:
-    if: ${{ github.actor != 'github-actions[bot]' }}
+    if: ${{ (github.event_name != 'push' || github.actor != 'github-actions[bot]') && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success') }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
