@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-03-03T23:56:52.917Z",
+  "updatedAt": "2026-03-04T05:00:30.927Z",
   "items": [
-    {
-      "onderwerp": "Tweeminutendebat Vrouwengezondheid (CD 10/2)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-03-03T16:35:00+01:00",
-      "aanvangstijd": "2026-03-03T16:35:00+01:00",
-      "locatie": "",
-      "nummer": "2026A01305",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01305"
-    },
-    {
-      "onderwerp": "Begroting Volksgezondheid, Welzijn en Sport (36800-XVI) 1e TK",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-03-03T18:05:00+01:00",
-      "aanvangstijd": "2026-03-03T18:05:00+01:00",
-      "locatie": "",
-      "nummer": "2025A06456",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2025A06456"
-    },
     {
       "onderwerp": "Bedrijven en experts over het schrappen en afzwakken van Europese duurzaamheidsregels voor bedrijven ",
       "soort": "Rondetafelgesprek",
@@ -171,6 +153,15 @@
       "locatie": "",
       "nummer": "2026A01769",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01769"
+    },
+    {
+      "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-03-30T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01386",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01386"
     }
   ]
 }
