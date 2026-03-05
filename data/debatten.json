@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T10:09:37.968Z",
+  "updatedAt": "2026-03-05T11:50:33.532Z",
   "items": [
     {
       "onderwerp": "Begroting Volksgezondheid, Welzijn en Sport (36800-XVI) voortzetting",
@@ -144,6 +144,15 @@
       "locatie": "",
       "nummer": "2025A08123",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08123"
+    },
+    {
+      "onderwerp": "Hernieuwbare energie",
+      "soort": "Commissiedebat",
+      "datum": "2026-04-01T13:30:00+02:00",
+      "aanvangstijd": "2026-04-01T13:30:00+02:00",
+      "locatie": "",
+      "nummer": "2025A07397",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A07397"
     }
   ]
 }
