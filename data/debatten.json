@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T11:50:33.532Z",
+  "updatedAt": "2026-03-05T14:35:21.382Z",
   "items": [
     {
       "onderwerp": "Begroting Volksgezondheid, Welzijn en Sport (36800-XVI) voortzetting",
@@ -128,6 +128,15 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06496"
     },
     {
+      "onderwerp": "Staat van ons Klimaat 2025 door KNMI",
+      "soort": "Technische briefing",
+      "datum": "2026-03-26T13:30:00+01:00",
+      "aanvangstijd": "2026-03-26T13:30:00+01:00",
+      "locatie": "",
+      "nummer": "2026A01153",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01153"
+    },
+    {
       "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
       "soort": "Plenair debat (wetgeving)",
       "datum": "2026-03-30T00:00:00+02:00",
@@ -153,6 +162,15 @@
       "locatie": "",
       "nummer": "2025A07397",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A07397"
+    },
+    {
+      "onderwerp": "Rondetafelgesprek Netcongestie en woningbouw",
+      "soort": "Rondetafelgesprek",
+      "datum": "2026-04-02T13:00:00+02:00",
+      "aanvangstijd": "2026-04-02T13:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01607",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01607"
     }
   ]
 }
