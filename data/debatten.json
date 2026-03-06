@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T11:44:44.772Z",
+  "updatedAt": "2026-03-06T14:08:12.345Z",
   "items": [
     {
       "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
@@ -72,6 +72,15 @@
       "locatie": "",
       "nummer": "2026A00860",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00860"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-03-23T00:00:00+01:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01875",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
     },
     {
       "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
