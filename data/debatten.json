@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T11:49:40.138Z",
+  "updatedAt": "2026-03-10T15:13:35.617Z",
   "items": [
     {
       "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
@@ -11,7 +11,7 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06582"
     },
     {
-      "onderwerp": "Informele kennismaking nieuwe bewindslieden op het ministerie van Defensie",
+      "onderwerp": "Informele kennismaking nieuwe bewindslieden op het ministerie van Defensie (gewijzigde eindtijd)",
       "soort": "Gesprek",
       "datum": "2026-03-10T17:00:00+01:00",
       "aanvangstijd": "2026-03-10T17:00:00+01:00",
@@ -54,6 +54,15 @@
       "locatie": "",
       "nummer": "2025A08404",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08404"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-03-16T00:00:00+01:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01983",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
     },
     {
       "onderwerp": "Expertgroep Gezondheid IJmond en Commissie mer over de gezondheidseffecten van de Joint Letter of Intent met Tata Steel",
