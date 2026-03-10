@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-03-10T18:00:51.189Z",
+  "updatedAt": "2026-03-10T19:55:11.702Z",
   "items": [
-    {
-      "onderwerp": "Onderzoekrapport van de Auditdienst Rijk over 'Onderzoek database met administratieve vastleggingen van verzonden brieven en ontvangen reacties vanuit het massale uitvraagproces'",
-      "soort": "Technische briefing",
-      "datum": "2026-03-10T18:00:00+01:00",
-      "aanvangstijd": "2026-03-10T18:00:00+01:00",
-      "locatie": "",
-      "nummer": "2026A01644",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01644"
-    },
     {
       "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
       "soort": "Procedurevergadering",
@@ -144,6 +135,15 @@
       "locatie": "",
       "nummer": "2026A01607",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01607"
+    },
+    {
+      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-04-06T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01008",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
     }
   ]
 }
