@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T15:08:34.161Z",
+  "updatedAt": "2026-03-11T18:04:42.282Z",
   "items": [
     {
       "onderwerp": "Internationale Klimaatstrategie",
@@ -83,6 +83,15 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06496"
     },
     {
+      "onderwerp": "Europees Gezondheidspakket",
+      "soort": "Inbreng schriftelijk overleg",
+      "datum": "2026-03-25T14:00:00+01:00",
+      "aanvangstijd": "2026-03-25T14:00:00+01:00",
+      "locatie": "",
+      "nummer": "2026A02084",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02084"
+    },
+    {
       "onderwerp": "Staat van ons Klimaat 2025 door KNMI",
       "soort": "Technische briefing",
       "datum": "2026-03-26T13:30:00+01:00",
@@ -144,15 +153,6 @@
       "locatie": "",
       "nummer": "2026A01008",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
-    },
-    {
-      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
-      "soort": "Procedurevergadering",
-      "datum": "2026-04-07T17:00:00+02:00",
-      "aanvangstijd": "2026-04-07T17:00:00+02:00",
-      "locatie": "",
-      "nummer": "2025A06608",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06608"
     }
   ]
 }
