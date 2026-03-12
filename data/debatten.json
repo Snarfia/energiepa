@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T23:56:04.562Z",
+  "updatedAt": "2026-03-12T05:08:15.737Z",
   "items": [
     {
       "onderwerp": "Internationale Klimaatstrategie",
@@ -153,6 +153,24 @@
       "locatie": "",
       "nummer": "2026A01008",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
+    },
+    {
+      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
+      "soort": "Procedurevergadering",
+      "datum": "2026-04-07T17:00:00+02:00",
+      "aanvangstijd": "2026-04-07T17:00:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06608",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06608"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-04-08T10:15:00+02:00",
+      "aanvangstijd": "2026-04-08T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06498",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06498"
     }
   ]
 }
