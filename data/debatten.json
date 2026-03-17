@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-03-17T11:10:33.406Z",
+  "updatedAt": "2026-03-17T14:41:48.912Z",
   "items": [
-    {
-      "onderwerp": "Petitie aanbieding  'Behoud landbouw, versnel de energietransitie: combineer zonnepanelen en landbouwgrond met Agri-PV' namens Holland Solar",
-      "soort": "Petitie",
-      "datum": "2026-03-17T13:15:00+01:00",
-      "aanvangstijd": "2026-03-17T13:15:00+01:00",
-      "locatie": "",
-      "nummer": "2026A01481",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01481"
-    },
     {
       "onderwerp": "Expertgroep Gezondheid IJmond en Commissie mer over de gezondheidseffecten van de Joint Letter of Intent met Tata Steel",
       "soort": "Gesprek",
@@ -56,10 +47,19 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02047"
     },
     {
-      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
-      "soort": "Procedurevergadering",
+      "onderwerp": "Verkiezing van de voorzitter en ondervoorzitter van de commissie Klimaat en Groene Groei",
+      "soort": "Constituerende vergadering",
       "datum": "2026-03-24T17:00:00+01:00",
       "aanvangstijd": "2026-03-24T17:00:00+01:00",
+      "locatie": "",
+      "nummer": "2026A02270",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02270"
+    },
+    {
+      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
+      "soort": "Procedurevergadering",
+      "datum": "2026-03-24T17:15:00+01:00",
+      "aanvangstijd": "2026-03-24T17:15:00+01:00",
       "locatie": "",
       "nummer": "2025A06583",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06583"
@@ -99,6 +99,15 @@
       "locatie": "",
       "nummer": "2026A01153",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01153"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-03-30T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02265",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
     },
     {
       "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
