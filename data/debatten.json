@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-03-19T15:08:28.232Z",
+  "updatedAt": "2026-03-19T16:06:43.967Z",
   "items": [
-    {
-      "onderwerp": "Expertgroep Gezondheid IJmond en Commissie mer over de gezondheidseffecten van de Joint Letter of Intent met Tata Steel",
-      "soort": "Gesprek",
-      "datum": "2026-03-19T11:30:00+01:00",
-      "aanvangstijd": "2026-03-19T11:30:00+01:00",
-      "locatie": "",
-      "nummer": "2025A08281",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08281"
-    },
     {
       "onderwerp": "Kabinetsreactie op het onderzoek ‘A theoretical upper limit for offshore wind energy extraction’",
       "soort": "Technische briefing",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2025A06498",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06498"
+    },
+    {
+      "onderwerp": "Energiebesparing",
+      "soort": "Commissiedebat",
+      "datum": "2026-04-08T13:00:00+02:00",
+      "aanvangstijd": "2026-04-08T13:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A00632",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00632"
     }
   ]
 }
