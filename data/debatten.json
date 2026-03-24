@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T21:51:40.899Z",
+  "updatedAt": "2026-03-24T22:49:30.047Z",
   "items": [
     {
       "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
@@ -153,6 +153,15 @@
       "locatie": "",
       "nummer": "2026A00632",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00632"
+    },
+    {
+      "onderwerp": "Betaalbare energierekening voor huishoudens",
+      "soort": "Commissiedebat",
+      "datum": "2026-04-09T14:30:00+02:00",
+      "aanvangstijd": "2026-04-09T14:30:00+02:00",
+      "locatie": "",
+      "nummer": "2025A05890",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05890"
     }
   ]
 }
