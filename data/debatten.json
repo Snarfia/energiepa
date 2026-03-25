@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T17:16:50.712Z",
+  "updatedAt": "2026-03-25T19:10:30.066Z",
   "items": [
     {
       "onderwerp": "Staat van ons Klimaat 2025 door KNMI",
@@ -126,6 +126,15 @@
       "locatie": "",
       "nummer": "2025A05890",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05890"
+    },
+    {
+      "onderwerp": "Advies \"Duurzame doorbraken. Naar systeeminnovatie in de energietransitie\" door AWTI",
+      "soort": "Technische briefing",
+      "datum": "2026-04-15T10:00:00+02:00",
+      "aanvangstijd": "2026-04-15T10:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01155",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01155"
     }
   ]
 }
