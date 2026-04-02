@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-02T11:56:40.996Z",
+  "updatedAt": "2026-04-02T13:55:27.632Z",
   "items": [
-    {
-      "onderwerp": "Rondetafelgesprek Netcongestie en woningbouw",
-      "soort": "Rondetafelgesprek",
-      "datum": "2026-04-02T13:00:00+02:00",
-      "aanvangstijd": "2026-04-02T13:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A01607",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01607"
-    },
     {
       "onderwerp": "Wijziging van de Mijnbouwwet en enkele andere wetten in verband met de uitvoering van verordening (EU) 2024/1787 over de vermindering van methaanemissies in de energiesector (Uitvoeringswet methaanverordening)",
       "soort": "Inbreng verslag (wetsvoorstel)",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
+    },
+    {
+      "onderwerp": "Petitie over netcongestie door NetConnext",
+      "soort": "Petitie",
+      "datum": "2026-04-21T13:15:00+02:00",
+      "aanvangstijd": "2026-04-21T13:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02369",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02369"
     }
   ]
 }
