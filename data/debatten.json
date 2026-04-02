@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T11:09:27.957Z",
+  "updatedAt": "2026-04-02T11:56:40.996Z",
   "items": [
     {
       "onderwerp": "Rondetafelgesprek Netcongestie en woningbouw",
@@ -101,7 +101,7 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02568"
     },
     {
-      "onderwerp": "Nog te ontvangen - Wijziging van de begrotingsstaten van het ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
+      "onderwerp": "Wijziging van de begrotingsstaten van het ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota) (TK 36915-XVI)",
       "soort": "Inbreng feitelijke vragen",
       "datum": "2026-04-09T14:00:00+02:00",
       "aanvangstijd": "2026-04-09T14:00:00+02:00",
@@ -126,6 +126,15 @@
       "locatie": "",
       "nummer": "2026A02732",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02732"
+    },
+    {
+      "onderwerp": "Wijziging van de begrotingsstaat van het Klimaatfonds voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-04-09T14:00:00+02:00",
+      "aanvangstijd": "2026-04-09T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02892",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02892"
     },
     {
       "onderwerp": "Betaalbare energierekening voor huishoudens",
@@ -171,15 +180,6 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
-    },
-    {
-      "onderwerp": "Petitie over netcongestie door NetConnext",
-      "soort": "Petitie",
-      "datum": "2026-04-21T13:15:00+02:00",
-      "aanvangstijd": "2026-04-21T13:15:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02369",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02369"
     }
   ]
 }
