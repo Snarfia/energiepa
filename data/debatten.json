@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-01T23:49:32.968Z",
+  "updatedAt": "2026-04-02T03:24:41.266Z",
   "items": [
-    {
-      "onderwerp": "De verwachte gevolgen van de ontwikkelingen in Iran op de energieprijzen",
-      "soort": "Technische briefing",
-      "datum": "2026-04-01T14:00:00+02:00",
-      "aanvangstijd": "2026-04-01T14:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02309",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02309"
-    },
     {
       "onderwerp": "Rondetafelgesprek Netcongestie en woningbouw",
       "soort": "Rondetafelgesprek",
@@ -171,6 +162,24 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
+    },
+    {
+      "onderwerp": "Petitie over netcongestie door NetConnext",
+      "soort": "Petitie",
+      "datum": "2026-04-21T13:15:00+02:00",
+      "aanvangstijd": "2026-04-21T13:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02369",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02369"
+    },
+    {
+      "onderwerp": "Bijzondere procedure: United Liberation Movement for West Papua (ULMWP)",
+      "soort": "Bijzondere procedure",
+      "datum": "2026-04-21T16:30:00+02:00",
+      "aanvangstijd": "2026-04-21T16:30:00+02:00",
+      "locatie": "",
+      "nummer": "2025A08418",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08418"
     }
   ]
 }
