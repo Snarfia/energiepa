@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T23:49:17.923Z",
+  "updatedAt": "2026-04-03T03:26:39.939Z",
   "items": [
     {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
@@ -162,6 +162,24 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
+    },
+    {
+      "onderwerp": "Petitie over netcongestie door NetConnext",
+      "soort": "Petitie",
+      "datum": "2026-04-21T13:15:00+02:00",
+      "aanvangstijd": "2026-04-21T13:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02369",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02369"
+    },
+    {
+      "onderwerp": "Bijzondere procedure: United Liberation Movement for West Papua (ULMWP)",
+      "soort": "Bijzondere procedure",
+      "datum": "2026-04-21T16:30:00+02:00",
+      "aanvangstijd": "2026-04-21T16:30:00+02:00",
+      "locatie": "",
+      "nummer": "2025A08418",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08418"
     }
   ]
 }
