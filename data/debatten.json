@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-07T11:13:30.083Z",
+  "updatedAt": "2026-04-07T12:03:08.200Z",
   "items": [
-    {
-      "onderwerp": "Aanbieding petitie m.b.t. klimaatbeleid namens Grootouders voor het Klimaat ",
-      "soort": "Petitie",
-      "datum": "2026-04-07T13:00:00+02:00",
-      "aanvangstijd": "2026-04-07T13:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02634",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02634"
-    },
     {
       "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
       "soort": "Procedurevergadering",
@@ -171,6 +162,24 @@
       "locatie": "",
       "nummer": "2026A02369",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02369"
+    },
+    {
+      "onderwerp": "Bijzondere procedure: United Liberation Movement for West Papua (ULMWP)",
+      "soort": "Bijzondere procedure",
+      "datum": "2026-04-21T16:30:00+02:00",
+      "aanvangstijd": "2026-04-21T16:30:00+02:00",
+      "locatie": "",
+      "nummer": "2025A08418",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08418"
+    },
+    {
+      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
+      "soort": "Procedurevergadering",
+      "datum": "2026-04-21T17:00:00+02:00",
+      "aanvangstijd": "2026-04-21T17:00:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06609",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06609"
     }
   ]
 }
