@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-08T14:00:55.428Z",
+  "updatedAt": "2026-04-08T15:41:20.315Z",
   "items": [
-    {
-      "onderwerp": "Betaalbare energierekening voor huishoudens",
-      "soort": "Rondetafelgesprek",
-      "datum": "2026-04-08T13:00:00+02:00",
-      "aanvangstijd": "2026-04-08T13:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02568",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02568"
-    },
     {
       "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
       "soort": "Plenair debat (wetgeving)",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02361",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02361"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-04-22T10:15:00+02:00",
+      "aanvangstijd": "2026-04-22T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06500",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06500"
     }
   ]
 }
