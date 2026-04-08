@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-04-08T09:17:40.645Z",
+  "updatedAt": "2026-04-08T11:14:42.947Z",
   "items": [
-    {
-      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
-      "soort": "Procedurevergadering",
-      "datum": "2026-04-08T10:15:00+02:00",
-      "aanvangstijd": "2026-04-08T10:15:00+02:00",
-      "locatie": "",
-      "nummer": "2025A06498",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06498"
-    },
-    {
-      "onderwerp": "Procedurevergadering Klimaat en Groene Groei ",
-      "soort": "Procedurevergadering",
-      "datum": "2026-04-08T11:45:00+02:00",
-      "aanvangstijd": "2026-04-08T11:45:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02958",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02958"
-    },
-    {
-      "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-04-08T12:45:00+02:00",
-      "aanvangstijd": "2026-04-08T12:45:00+02:00",
-      "locatie": "",
-      "nummer": "2026A01386",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01386"
-    },
     {
       "onderwerp": "Betaalbare energierekening voor huishoudens",
       "soort": "Rondetafelgesprek",
@@ -36,6 +9,15 @@
       "locatie": "",
       "nummer": "2026A02568",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02568"
+    },
+    {
+      "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-04-08T13:01:00+02:00",
+      "aanvangstijd": "2026-04-08T13:01:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01386",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01386"
     },
     {
       "onderwerp": "Tweeminutendebat Klimaatbeleid gebouwde omgeving (CD 25/3)",
@@ -180,6 +162,24 @@
       "locatie": "",
       "nummer": "2025A06609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06609"
+    },
+    {
+      "onderwerp": "Filmvertoning 'The Promise’ ",
+      "soort": "Bijzondere procedure",
+      "datum": "2026-04-21T17:30:00+02:00",
+      "aanvangstijd": "2026-04-21T17:30:00+02:00",
+      "locatie": "",
+      "nummer": "2026A00426",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00426"
+    },
+    {
+      "onderwerp": "Netcongestie en elektriciteitsnet ",
+      "soort": "Commissiedebat",
+      "datum": "2026-04-22T10:00:00+02:00",
+      "aanvangstijd": "2026-04-22T10:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02361",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02361"
     }
   ]
 }
