@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T15:54:48.834Z",
+  "updatedAt": "2026-04-09T17:21:06.237Z",
   "items": [
     {
       "onderwerp": "Tweeminutendebat Klimaatbeleid gebouwde omgeving (CD 25/3)",
@@ -18,15 +18,6 @@
       "locatie": "",
       "nummer": "2026A02732",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02732"
-    },
-    {
-      "onderwerp": "Betaalbare energierekening voor huishoudens",
-      "soort": "Commissiedebat",
-      "datum": "2026-04-09T14:30:00+02:00",
-      "aanvangstijd": "2026-04-09T14:30:00+02:00",
-      "locatie": "",
-      "nummer": "2025A05890",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05890"
     },
     {
       "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A01065",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
+    },
+    {
+      "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
+      "soort": "Inbreng verslag (wetsvoorstel)",
+      "datum": "2026-05-12T12:00:00+02:00",
+      "aanvangstijd": "2026-05-12T12:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01820",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01820"
     }
   ]
 }
