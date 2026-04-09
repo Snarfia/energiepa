@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T11:16:10.154Z",
+  "updatedAt": "2026-04-09T14:12:48.885Z",
   "items": [
     {
       "onderwerp": "Tweeminutendebat Klimaatbeleid gebouwde omgeving (CD 25/3)",
@@ -11,24 +11,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02614"
     },
     {
-      "onderwerp": "Wijziging van de begrotingsstaten van het ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota) (TK 36915-XVI)",
-      "soort": "Inbreng feitelijke vragen",
-      "datum": "2026-04-09T14:00:00+02:00",
-      "aanvangstijd": "2026-04-09T14:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02325",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02325"
-    },
-    {
-      "onderwerp": "Wijziging van de begrotingsstaten van het ministerie van Klimaat en Groene Groei voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
-      "soort": "Inbreng feitelijke vragen",
-      "datum": "2026-04-09T14:00:00+02:00",
-      "aanvangstijd": "2026-04-09T14:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02796",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02796"
-    },
-    {
       "onderwerp": "Wijziging van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
       "soort": "Inbreng feitelijke vragen",
       "datum": "2026-04-09T14:00:00+02:00",
@@ -38,15 +20,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02732"
     },
     {
-      "onderwerp": "Wijziging van de begrotingsstaat van het Klimaatfonds voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
-      "soort": "Inbreng feitelijke vragen",
-      "datum": "2026-04-09T14:00:00+02:00",
-      "aanvangstijd": "2026-04-09T14:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02892",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02892"
-    },
-    {
       "onderwerp": "Betaalbare energierekening voor huishoudens",
       "soort": "Commissiedebat",
       "datum": "2026-04-09T14:30:00+02:00",
@@ -54,6 +27,15 @@
       "locatie": "",
       "nummer": "2025A05890",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05890"
+    },
+    {
+      "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
+      "soort": "E-mailprocedure",
+      "datum": "2026-04-10T15:00:00+02:00",
+      "aanvangstijd": "2026-04-10T15:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03103",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03103"
     },
     {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
@@ -108,6 +90,15 @@
       "locatie": "",
       "nummer": "2026A02307",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02307"
+    },
+    {
+      "onderwerp": "Gesprek met UN Special Rapporteur klimaatverandering en mensenrechten",
+      "soort": "Gesprek",
+      "datum": "2026-04-16T09:00:00+02:00",
+      "aanvangstijd": "2026-04-16T09:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03056",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03056"
     },
     {
       "onderwerp": "Beleidsreactie bij het advies van de Gezondheidsraad 'Risicoreductie en vroegdiagnostiek dementie'",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02359",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02359"
+    },
+    {
+      "onderwerp": "(Informele) Energieraad d.d. 12 en 13 mei 2026 ",
+      "soort": "Inbreng schriftelijk overleg",
+      "datum": "2026-05-06T12:00:00+02:00",
+      "aanvangstijd": "2026-05-06T12:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01065",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
     }
   ]
 }
