@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-08T23:52:00.495Z",
+  "updatedAt": "2026-04-09T03:27:01.462Z",
   "items": [
-    {
-      "onderwerp": "Wijziging van de Tijdelijke wet Groningen en de Mijnbouwwet in verband met de uitvoering van diverse maatregelen uit de kabinetsreactie op het rapport van de parlementaire enquêtecommissie aardgaswinning Groningen (36836)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-04-08T13:01:00+02:00",
-      "aanvangstijd": "2026-04-08T13:01:00+02:00",
-      "locatie": "",
-      "nummer": "2026A01386",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01386"
-    },
     {
       "onderwerp": "Tweeminutendebat Klimaatbeleid gebouwde omgeving (CD 25/3)",
       "soort": "Plenair debat (tweeminutendebat)",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2025A06500",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06500"
+    },
+    {
+      "onderwerp": "Strategische procedurevergadering Klimaat en Groene Groei",
+      "soort": "Strategische procedurevergadering",
+      "datum": "2026-04-23T11:15:00+02:00",
+      "aanvangstijd": "2026-04-23T11:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02359",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02359"
     }
   ]
 }
