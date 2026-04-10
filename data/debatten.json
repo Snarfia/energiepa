@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-10T11:58:40.598Z",
+  "updatedAt": "2026-04-10T13:47:55.760Z",
   "items": [
-    {
-      "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
-      "soort": "E-mailprocedure",
-      "datum": "2026-04-10T15:00:00+02:00",
-      "aanvangstijd": "2026-04-10T15:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A03103",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03103"
-    },
     {
       "onderwerp": "Advies \"Duurzame doorbraken. Naar systeeminnovatie in de energietransitie\" door AWTI",
       "soort": "Technische briefing",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2025A06502",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06502"
+    },
+    {
+      "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02609",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
     }
   ]
 }
