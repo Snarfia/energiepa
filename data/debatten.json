@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T11:11:14.443Z",
+  "updatedAt": "2026-04-10T11:58:40.598Z",
   "items": [
     {
       "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
@@ -63,15 +63,6 @@
       "locatie": "",
       "nummer": "2026A01875",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
-    },
-    {
-      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-04-20T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01008",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
     },
     {
       "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
@@ -153,6 +144,15 @@
       "locatie": "",
       "nummer": "2026A01065",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
+    },
+    {
+      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01008",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
     },
     {
       "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
