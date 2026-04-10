@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-04-09T23:52:06.404Z",
+  "updatedAt": "2026-04-10T03:39:22.988Z",
   "items": [
-    {
-      "onderwerp": "Tweeminutendebat Klimaatbeleid gebouwde omgeving (CD 25/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-09T10:15:00+02:00",
-      "aanvangstijd": "2026-04-09T10:15:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02614",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02614"
-    },
-    {
-      "onderwerp": "Wijziging van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
-      "soort": "Inbreng feitelijke vragen",
-      "datum": "2026-04-09T14:00:00+02:00",
-      "aanvangstijd": "2026-04-09T14:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02732",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02732"
-    },
     {
       "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
       "soort": "E-mailprocedure",
@@ -180,6 +162,24 @@
       "locatie": "",
       "nummer": "2026A01820",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01820"
+    },
+    {
+      "onderwerp": "Externe juristen over de rechtelijke uitspraak in de Bonaire-klimaatzaak",
+      "soort": "Technische briefing",
+      "datum": "2026-05-13T10:00:00+02:00",
+      "aanvangstijd": "2026-05-13T10:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02438",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02438"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-05-13T10:15:00+02:00",
+      "aanvangstijd": "2026-05-13T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06502",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06502"
     }
   ]
 }
