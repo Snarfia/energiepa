@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T09:37:13.758Z",
+  "updatedAt": "2026-04-10T11:11:14.443Z",
   "items": [
     {
       "onderwerp": "[E-MAILPROCEDURE] Overhevelen kabinetsbrief Lionlink van commissiedebat Netcongestie d.d. 22 april naar commissiedebat Hernieuwbare energie d.d. 15 april ",
@@ -9,42 +9,6 @@
       "locatie": "",
       "nummer": "2026A03103",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03103"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-13T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02265",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-13T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01875",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
-    },
-    {
-      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-04-13T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01008",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-13T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01983",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
     },
     {
       "onderwerp": "Advies \"Duurzame doorbraken. Naar systeeminnovatie in de energietransitie\" door AWTI",
@@ -81,6 +45,42 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-04-20T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02265",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-04-20T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01875",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
+    },
+    {
+      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-04-20T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01008",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-04-20T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01983",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
     },
     {
       "onderwerp": "Petitie over netcongestie door NetConnext",
