@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-15T15:21:56.458Z",
+  "updatedAt": "2026-04-15T17:18:16.750Z",
   "items": [
-    {
-      "onderwerp": "Hernieuwbare energie ",
-      "soort": "Commissiedebat",
-      "datum": "2026-04-15T15:30:00+02:00",
-      "aanvangstijd": "2026-04-15T15:30:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02307",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02307"
-    },
     {
       "onderwerp": "VN speciaal rapporteur voor klimaatverandering en mensenrechten",
       "soort": "Bijzondere procedure",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
+    },
+    {
+      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
+      "soort": "Procedurevergadering",
+      "datum": "2026-05-19T17:00:00+02:00",
+      "aanvangstijd": "2026-05-19T17:00:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06610",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06610"
     }
   ]
 }
