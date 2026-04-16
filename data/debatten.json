@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-16T11:18:55.055Z",
+  "updatedAt": "2026-04-16T14:10:59.985Z",
   "items": [
-    {
-      "onderwerp": "[E-MAILPROCEDURE] Verzoek van het lid Vermeer (BBB) om de minister van VRO uit te nodigen voor het commissiedebat Netcongestie en elektriciteitsnet op 22 april 2026",
-      "soort": "E-mailprocedure",
-      "datum": "2026-04-16T13:00:00+02:00",
-      "aanvangstijd": "2026-04-16T13:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A03265",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03265"
-    },
     {
       "onderwerp": "Beleidsreactie bij het advies van de Gezondheidsraad 'Risicoreductie en vroegdiagnostiek dementie'",
       "soort": "Inbreng schriftelijk overleg",
@@ -126,6 +117,15 @@
       "locatie": "",
       "nummer": "2026A01008",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A03355",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
     },
     {
       "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
