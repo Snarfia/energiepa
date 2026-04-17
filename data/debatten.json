@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T06:12:58.724Z",
+  "updatedAt": "2026-04-17T08:03:31.644Z",
   "items": [
     {
       "onderwerp": "Beleidsreactie bij het advies van de Gezondheidsraad 'Risicoreductie en vroegdiagnostiek dementie'",
@@ -9,33 +9,6 @@
       "locatie": "",
       "nummer": "2026A02546",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02546"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-20T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02265",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-20T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01875",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-04-20T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01983",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
     },
     {
       "onderwerp": "Petitie over netcongestie door NetConnext",
@@ -110,6 +83,24 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
     },
     {
+      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02265",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01875",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
+    },
+    {
       "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
       "soort": "Plenair debat (wetgeving)",
       "datum": "2026-05-11T00:00:00+02:00",
@@ -117,6 +108,15 @@
       "locatie": "",
       "nummer": "2026A01008",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01983",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
     },
     {
       "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
