@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T09:45:13.830Z",
+  "updatedAt": "2026-04-17T11:11:20.879Z",
   "items": [
     {
       "onderwerp": "Beleidsreactie bij het advies van de Gezondheidsraad 'Risicoreductie en vroegdiagnostiek dementie'",
@@ -63,6 +63,24 @@
       "locatie": "",
       "nummer": "2025A06500",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06500"
+    },
+    {
+      "onderwerp": "Debat over de maatregelen van het kabinet inzake de hoge energie-en brandstofprijzen",
+      "soort": "Plenair debat (debat)",
+      "datum": "2026-04-22T11:10:00+02:00",
+      "aanvangstijd": "2026-04-22T11:10:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02996",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02996"
+    },
+    {
+      "onderwerp": "Wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de implementatie van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken (PbEU 2024, L 825) (Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten) (36873)",
+      "soort": "Hamerstukken",
+      "datum": "2026-04-23T10:15:00+02:00",
+      "aanvangstijd": "2026-04-23T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03346",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03346"
     },
     {
       "onderwerp": "Strategische procedurevergadering Klimaat en Groene Groei",
@@ -162,15 +180,6 @@
       "locatie": "",
       "nummer": "2026A02609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
-    },
-    {
-      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
-      "soort": "Procedurevergadering",
-      "datum": "2026-05-19T17:00:00+02:00",
-      "aanvangstijd": "2026-05-19T17:00:00+02:00",
-      "locatie": "",
-      "nummer": "2025A06610",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06610"
     }
   ]
 }
