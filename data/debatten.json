@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T12:02:55.460Z",
+  "updatedAt": "2026-04-17T13:57:33.888Z",
   "items": [
     {
       "onderwerp": "Beleidsreactie bij het advies van de Gezondheidsraad 'Risicoreductie en vroegdiagnostiek dementie'",
@@ -101,51 +101,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
     },
     {
-      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-05-11T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02265",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-05-11T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01875",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
-    },
-    {
-      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-05-11T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01008",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-05-11T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01983",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-05-11T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A03355",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
-    },
-    {
       "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
       "soort": "Inbreng verslag (wetsvoorstel)",
       "datum": "2026-05-12T12:00:00+02:00",
@@ -173,6 +128,42 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06502"
     },
     {
+      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02265",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01875",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
+    },
+    {
+      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01008",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A01983",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
+    },
+    {
       "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
       "soort": "Plenair debat (wetgeving)",
       "datum": "2026-05-18T00:00:00+02:00",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-18T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A03355",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
     }
   ]
 }
