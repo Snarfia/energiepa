@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T14:06:56.789Z",
+  "updatedAt": "2026-04-21T15:41:18.665Z",
   "items": [
     {
       "onderwerp": "Bijzondere procedure: United Liberation Movement for West Papua (ULMWP)",
@@ -9,15 +9,6 @@
       "locatie": "",
       "nummer": "2025A08418",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08418"
-    },
-    {
-      "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
-      "soort": "Procedurevergadering",
-      "datum": "2026-04-21T17:00:00+02:00",
-      "aanvangstijd": "2026-04-21T17:00:00+02:00",
-      "locatie": "",
-      "nummer": "2025A06609",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06609"
     },
     {
       "onderwerp": "Filmvertoning 'The Promise’ ",
@@ -171,6 +162,15 @@
       "locatie": "",
       "nummer": "2025A06610",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06610"
+    },
+    {
+      "onderwerp": "Technische briefing over de AR-rapport Resultaten verantwoordingsonderzoek 2025 bij het Ministerie Klimaat en Groene Groei  door de Algemene Rekenkamer",
+      "soort": "Technische briefing",
+      "datum": "2026-05-21T15:00:00+02:00",
+      "aanvangstijd": "2026-05-21T15:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02080",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02080"
     }
   ]
 }
