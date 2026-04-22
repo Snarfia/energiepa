@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-22T11:20:43.227Z",
+  "updatedAt": "2026-04-22T14:06:40.765Z",
   "items": [
-    {
-      "onderwerp": "Netcongestie en elektriciteitsnet ",
-      "soort": "Commissiedebat",
-      "datum": "2026-04-22T10:00:00+02:00",
-      "aanvangstijd": "2026-04-22T10:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02361",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02361"
-    },
     {
       "onderwerp": "Debat over de maatregelen van het kabinet inzake de hoge energie-en brandstofprijzen",
       "soort": "Plenair debat (debat)",
@@ -36,6 +27,15 @@
       "locatie": "",
       "nummer": "2026A02359",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02359"
+    },
+    {
+      "onderwerp": "Antwoorden VGO-onderzoekers naar aanleiding van Gezondheidsraadadvies over gezondheidsrisico’s voor omwonenden van geitenhouderijen",
+      "soort": "Inbreng schriftelijk overleg",
+      "datum": "2026-05-04T12:00:00+02:00",
+      "aanvangstijd": "2026-05-04T12:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03509",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03509"
     },
     {
       "onderwerp": "(Informele) Energieraad d.d. 12 en 13 mei 2026 ",
@@ -126,6 +126,15 @@
       "locatie": "",
       "nummer": "2026A03355",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
+    },
+    {
+      "onderwerp": "Zienswijzeprocedure Woo-verzoeken emissiegegevens",
+      "soort": "Inbreng schriftelijk overleg",
+      "datum": "2026-05-18T12:00:00+02:00",
+      "aanvangstijd": "2026-05-18T12:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03499",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03499"
     },
     {
       "onderwerp": "Procedurevergadering Klimaat en Groene Groei",
