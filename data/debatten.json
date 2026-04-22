@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T18:13:03.422Z",
+  "updatedAt": "2026-04-22T19:39:07.955Z",
   "items": [
     {
       "onderwerp": "Debat over de maatregelen van het kabinet inzake de hoge energie-en brandstofprijzen",
@@ -9,6 +9,15 @@
       "locatie": "",
       "nummer": "2026A02996",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02996"
+    },
+    {
+      "onderwerp": "Aanvang middagvergadering: STEMMINGEN (over moties ingediend bij het Tweeminutendebat Telecomraad, Tweeminutendebat Landbouw- en Visserijraad en over moties ingediend bij het Debat over de maatregelen van het kabinet inzake de hoge energie-en brandstofprijzen)",
+      "soort": "Stemmingen",
+      "datum": "2026-04-23T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A03459",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03459"
     },
     {
       "onderwerp": "Wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de implementatie van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken (PbEU 2024, L 825) (Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten) (36873)",
@@ -171,15 +180,6 @@
       "locatie": "",
       "nummer": "2026A03081",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03081"
-    },
-    {
-      "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-05-25T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02609",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
     }
   ]
 }
