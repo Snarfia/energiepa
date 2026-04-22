@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-04-21T23:50:37.491Z",
+  "updatedAt": "2026-04-22T03:40:37.678Z",
   "items": [
-    {
-      "onderwerp": "Bijzondere procedure: United Liberation Movement for West Papua (ULMWP)",
-      "soort": "Bijzondere procedure",
-      "datum": "2026-04-21T16:30:00+02:00",
-      "aanvangstijd": "2026-04-21T16:30:00+02:00",
-      "locatie": "",
-      "nummer": "2025A08418",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A08418"
-    },
-    {
-      "onderwerp": "Filmvertoning 'The Promise’ ",
-      "soort": "Bijzondere procedure",
-      "datum": "2026-04-21T17:30:00+02:00",
-      "aanvangstijd": "2026-04-21T17:30:00+02:00",
-      "locatie": "",
-      "nummer": "2026A00426",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00426"
-    },
     {
       "onderwerp": "Netcongestie en elektriciteitsnet ",
       "soort": "Commissiedebat",
@@ -171,6 +153,24 @@
       "locatie": "",
       "nummer": "2026A03371",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03371"
+    },
+    {
+      "onderwerp": "Technische briefing over de AR-rapport Resultaten verantwoordingsonderzoek 2025 bij het Ministerie Klimaat en Groene Groei  door de Algemene Rekenkamer",
+      "soort": "Technische briefing",
+      "datum": "2026-05-21T15:00:00+02:00",
+      "aanvangstijd": "2026-05-21T15:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02080",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02080"
+    },
+    {
+      "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-05-25T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A03081",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03081"
     }
   ]
 }
