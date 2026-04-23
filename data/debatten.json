@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T12:07:43.362Z",
+  "updatedAt": "2026-04-23T14:08:51.562Z",
   "items": [
     {
       "onderwerp": "Wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de implementatie van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken (PbEU 2024, L 825) (Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten) (36873)",
@@ -9,15 +9,6 @@
       "locatie": "",
       "nummer": "2026A03346",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03346"
-    },
-    {
-      "onderwerp": "Aanvang middagvergadering: STEMMINGEN (over moties ingediend bij het Tweeminutendebat Telecomraad, Tweeminutendebat Landbouw- en Visserijraad en over moties ingediend bij het Debat over de maatregelen van het kabinet inzake de hoge energie-en brandstofprijzen)",
-      "soort": "Stemmingen",
-      "datum": "2026-04-23T14:05:00+02:00",
-      "aanvangstijd": "2026-04-23T14:05:00+02:00",
-      "locatie": "",
-      "nummer": "2026A03459",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03459"
     },
     {
       "onderwerp": "Antwoorden VGO-onderzoekers naar aanleiding van Gezondheidsraadadvies over gezondheidsrisico’s voor omwonenden van geitenhouderijen",
@@ -36,6 +27,15 @@
       "locatie": "",
       "nummer": "2026A01065",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01065"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Netcongestie en elektriciteitsnet (CD 22/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-11T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A03557",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03557"
     },
     {
       "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
