@@ -1,7 +1,13 @@
 {
   "range": "last7days",
-  "updatedAt": "2026-04-24T12:04:46.072Z",
+  "updatedAt": "2026-04-24T14:05:23.771Z",
   "items": [
+    {
+      "title": "Kamerbrief bij Partieel Herziene Programma Noordzee 2022-2027",
+      "link": "https://www.rijksoverheid.nl/documenten/kamerstukken/2026/03/20/partieel-herziene-programma-noordzee-2022-2027",
+      "description": "Minister Karremans (IenW) stuurt de Tweede Kamer het Partieel Herziene Programma Noordzee 2022-2027. Hij licht het inhoudelijk toe.Kamerbrief bij Partieel Herziene Programma Noordzee 2022-2027",
+      "pubDate": "2026-04-24T12:28:07.000Z"
+    },
     {
       "title": "Beslisnota bij Antwoorden Kamervragen over risico’s van windturbines",
       "link": "https://www.rijksoverheid.nl/documenten/beleidsnotas/2026/04/23/bijlage1onderliggendebeslisnotavragenoverveiligheidsengezondheidsrisicosvanwindturbines",
@@ -115,12 +121,6 @@
       "link": "https://www.rijksoverheid.nl/documenten/beleidsnotas/2026/04/20/bijlage1onderliggendebeslisnotabeantwoordingkamervragenlidzwinkels",
       "description": "In een beslisnota staat achtergrondinformatie die bewindspersonen gebruiken bij de besluitvorming over een Kamerstuk. Beslisnota bij Antwoorden Kamervragen over social leasing",
       "pubDate": "2026-04-20T16:24:16.000Z"
-    },
-    {
-      "title": "Beslisnota bij Kamerbrief met geannoteerde agenda extra informele videoconferentie van EU-transportministers april 2026",
-      "link": "https://www.rijksoverheid.nl/documenten/beleidsnotas/2026/04/20/bijlage1onderliggendebeslisnotageannoteerdeagendaextrainformelevideoconferentieeutransportministersdd21april2026",
-      "description": "In een beslisnota staat achtergrondinformatie die bewindspersonen gebruiken bij de besluitvorming over een Kamerstuk. Beslisnota bij Kamerbrief met geannoteerde agenda extra informele videoconferentie van EU-transportministers april 2026",
-      "pubDate": "2026-04-20T11:10:19.000Z"
     }
   ]
 }
