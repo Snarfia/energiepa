@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-04-23T23:04:57.661Z",
+  "updatedAt": "2026-04-24T00:00:59.173Z",
   "items": [
-    {
-      "onderwerp": "Wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de implementatie van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken (PbEU 2024, L 825) (Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten) (36873)",
-      "soort": "Hamerstukken",
-      "datum": "2026-04-23T10:15:00+02:00",
-      "aanvangstijd": "2026-04-23T10:15:00+02:00",
-      "locatie": "",
-      "nummer": "2026A03346",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03346"
-    },
     {
       "onderwerp": "Antwoorden VGO-onderzoekers naar aanleiding van Gezondheidsraadadvies over gezondheidsrisico’s voor omwonenden van geitenhouderijen",
       "soort": "Inbreng schriftelijk overleg",
@@ -171,6 +162,15 @@
       "locatie": "",
       "nummer": "2026A02609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
+    },
+    {
+      "onderwerp": "Kernenergie",
+      "soort": "Commissiedebat",
+      "datum": "2026-05-27T09:30:00+02:00",
+      "aanvangstijd": "2026-05-27T09:30:00+02:00",
+      "locatie": "",
+      "nummer": "2026A00774",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00774"
     }
   ]
 }
