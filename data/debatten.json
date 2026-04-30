@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T06:42:37.583Z",
+  "updatedAt": "2026-04-30T11:52:11.782Z",
   "items": [
     {
       "onderwerp": "Antwoorden VGO-onderzoekers naar aanleiding van Gezondheidsraadadvies over gezondheidsrisico’s voor omwonenden van geitenhouderijen",
@@ -171,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A00774",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00774"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-05-27T10:15:00+02:00",
+      "aanvangstijd": "2026-05-27T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06508",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06508"
     }
   ]
 }
