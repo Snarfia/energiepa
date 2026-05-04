@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T12:54:25.821Z",
+  "updatedAt": "2026-05-04T15:19:40.459Z",
   "items": [
     {
       "onderwerp": "(Informele) Energieraad d.d. 12 en 13 mei 2026 ",
@@ -162,6 +162,15 @@
       "locatie": "",
       "nummer": "2026A00774",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00774"
+    },
+    {
+      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
+      "soort": "Procedurevergadering",
+      "datum": "2026-05-27T10:15:00+02:00",
+      "aanvangstijd": "2026-05-27T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2025A06508",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06508"
     }
   ]
 }
