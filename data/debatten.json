@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-05-13T10:41:37.794Z",
+  "updatedAt": "2026-05-13T13:27:05.661Z",
   "items": [
-    {
-      "onderwerp": "Rechtelijke uitspraak in de Bonaire-klimaatzaak ",
-      "soort": "Technische briefing",
-      "datum": "2026-05-13T10:00:00+02:00",
-      "aanvangstijd": "2026-05-13T10:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A02438",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02438"
-    },
     {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
       "soort": "Plenair debat (tweeminutendebat)",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02798",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02798"
+    },
+    {
+      "onderwerp": "Slotwet Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur en het Diergezondheidsfonds 2025",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02733",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02733"
     }
   ]
 }
