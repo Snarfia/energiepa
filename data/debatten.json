@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-05-12T23:17:26.452Z",
+  "updatedAt": "2026-05-13T04:10:42.543Z",
   "items": [
-    {
-      "onderwerp": "Wijziging van de Plantgezondheidswet in verband met het opnemen van regels over een spoedige bekendmaking en inwerkingtreding van beschermende maatregelen tegen plaagorganismen bij planten",
-      "soort": "Inbreng verslag (wetsvoorstel)",
-      "datum": "2026-05-12T12:00:00+02:00",
-      "aanvangstijd": "2026-05-12T12:00:00+02:00",
-      "locatie": "",
-      "nummer": "2026A01820",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01820"
-    },
     {
       "onderwerp": "Rechtelijke uitspraak in de Bonaire-klimaatzaak ",
       "soort": "Technische briefing",
@@ -162,6 +153,33 @@
       "locatie": "",
       "nummer": "2025A06508",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06508"
+    },
+    {
+      "onderwerp": "Rapport resultaten verantwoordingsonderzoek 2025 bij het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en Diergezondheidsfonds (F) (vragen aan het Kabinet)",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02737",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02737"
+    },
+    {
+      "onderwerp": "Rapport resultaten verantwoordingsonderzoek 2025 bij het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en Diergezondheidsfonds (F) (vragen aan de Algemene Rekenkamer)",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02736",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02736"
+    },
+    {
+      "onderwerp": "AR-rapport Resultaten verantwoordingsonderzoek 2025 bij het Ministerie Klimaat en Groene Groei - vragen aan Algemene Rekenkamer",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02799",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02799"
     }
   ]
 }
