@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T07:24:34.878Z",
+  "updatedAt": "2026-05-13T10:41:37.794Z",
   "items": [
     {
       "onderwerp": "Rechtelijke uitspraak in de Bonaire-klimaatzaak ",
@@ -9,15 +9,6 @@
       "locatie": "",
       "nummer": "2026A02438",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02438"
-    },
-    {
-      "onderwerp": "Procedurevergadering Volksgezondheid, Welzijn en Sport",
-      "soort": "Procedurevergadering",
-      "datum": "2026-05-13T10:15:00+02:00",
-      "aanvangstijd": "2026-05-13T10:15:00+02:00",
-      "locatie": "",
-      "nummer": "2025A06502",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06502"
     },
     {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02799",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02799"
+    },
+    {
+      "onderwerp": "AR-rapport Resultaten verantwoordingsonderzoek 2025 bij het Ministerie van Klimaat en Groene Groei - vragen aan Regering",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02798",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02798"
     }
   ]
 }
