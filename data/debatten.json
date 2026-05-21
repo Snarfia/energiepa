@@ -1,15 +1,6 @@
 {
-  "updatedAt": "2026-05-21T10:01:17.786Z",
+  "updatedAt": "2026-05-21T13:30:43.485Z",
   "items": [
-    {
-      "onderwerp": "Deelnemers van het Nationaal Burgerberaad Klimaat n.a.v. het advies",
-      "soort": "Gesprek",
-      "datum": "2026-05-21T11:30:00+02:00",
-      "aanvangstijd": "2026-05-21T11:30:00+02:00",
-      "locatie": "",
-      "nummer": "2026A03371",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03371"
-    },
     {
       "onderwerp": "Rapporten Resultaten verantwoordingsonderzoek 2025 bij het Ministerie Klimaat en Groene Groei en bij het Klimaatfonds",
       "soort": "Technische briefing",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A03993",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03993"
+    },
+    {
+      "onderwerp": "Slotwet ministerie van Volksgezondheid, Welzijn en Sport 2025",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A02326",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02326"
     }
   ]
 }
