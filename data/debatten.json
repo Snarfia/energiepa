@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T08:30:38.604Z",
+  "updatedAt": "2026-05-22T11:59:09.026Z",
   "items": [
     {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
@@ -20,15 +20,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
     },
     {
-      "onderwerp": "Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.b) (36621)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-05-25T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01008",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01008"
-    },
-    {
       "onderwerp": "Tweeminutendebat Betaalbare energierekening voor huishoudens (CD 9/4)",
       "soort": "Plenair debat (tweeminutendebat)",
       "datum": "2026-05-25T00:00:00+02:00",
@@ -36,24 +27,6 @@
       "locatie": "",
       "nummer": "2026A03250",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03250"
-    },
-    {
-      "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-05-25T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A03081",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03081"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Netcongestie en elektriciteitsnet (CD 22/4)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-05-25T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A03557",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03557"
     },
     {
       "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
@@ -90,6 +63,24 @@
       "locatie": "",
       "nummer": "2025A06508",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06508"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Netcongestie en elektriciteitsnet (CD 22/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-05-27T10:15:00+02:00",
+      "aanvangstijd": "2026-05-27T10:15:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03557",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03557"
+    },
+    {
+      "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-05-27T10:45:00+02:00",
+      "aanvangstijd": "2026-05-27T10:45:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03081",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03081"
     },
     {
       "onderwerp": "Jaarverslag Klimaatfonds 2025",
@@ -180,6 +171,15 @@
       "locatie": "",
       "nummer": "2026A02733",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02733"
+    },
+    {
+      "onderwerp": "Rapport Resultaten verantwoordingsonderzoek 2025 bij het Ministerie van Klimaat en Groene Groei - vragen aan de regering",
+      "soort": "Inbreng feitelijke vragen",
+      "datum": "2026-05-27T14:00:00+02:00",
+      "aanvangstijd": "2026-05-27T14:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03996",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03996"
     }
   ]
 }
