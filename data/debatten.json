@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-05-29T12:26:10.594Z",
+  "updatedAt": "2026-05-29T16:52:35.785Z",
   "items": [
-    {
-      "onderwerp": "Werkbezoek Spoorzone Hengelo-Enschede (SHE)",
-      "soort": "Werkbezoek",
-      "datum": "2026-05-29T11:30:00+02:00",
-      "aanvangstijd": "2026-05-29T11:30:00+02:00",
-      "locatie": "Hengelo - Enschede",
-      "nummer": "2026A02082",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02082"
-    },
-    {
-      "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847) (rest)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A04318",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04318"
-    },
-    {
-      "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
-      "soort": "Plenair debat (wetgeving)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02609",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
-    },
     {
       "onderwerp": "Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
       "soort": "Wetgevingsoverleg",
@@ -110,6 +83,15 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02321"
     },
     {
+      "onderwerp": "Wijziging van de Omgevingswet, Algemene wet bestuursrecht en de Wet windenergie op zee ter implementatie van onderdelen van de met Richtlijn 2023/2413 gewijzigde richtlijn hernieuwbare energie (REDIII, vergunnen) 36872 ",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-06-08T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A04101",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04101"
+    },
+    {
       "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
       "soort": "Plenair debat (tweeminutendebat)",
       "datum": "2026-06-08T00:00:00+02:00",
@@ -117,6 +99,24 @@
       "locatie": "",
       "nummer": "2026A02265",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
+    },
+    {
+      "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847) (rest)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-06-08T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A04318",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04318"
+    },
+    {
+      "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
+      "soort": "Plenair debat (wetgeving)",
+      "datum": "2026-06-08T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02609",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
     },
     {
       "onderwerp": "Wijziging van de Omgevingswet, de Wet milieubeheer en de Wet belastingen op milieugrondslag in verband met de implementatie van de herziening van de Richtlijn industriële emissies en de uitvoering van de PIE-verordening",
@@ -144,15 +144,6 @@
       "locatie": "",
       "nummer": "2025A06510",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06510"
-    },
-    {
-      "onderwerp": "Gezond en veilig werken",
-      "soort": "Commissiedebat",
-      "datum": "2026-06-11T10:00:00+02:00",
-      "aanvangstijd": "2026-06-11T10:00:00+02:00",
-      "locatie": "",
-      "nummer": "2025A05263",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05263"
     }
   ]
 }
