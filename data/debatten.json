@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T08:50:46.662Z",
+  "updatedAt": "2026-05-29T12:26:10.594Z",
   "items": [
     {
       "onderwerp": "Werkbezoek Spoorzone Hengelo-Enschede (SHE)",
@@ -11,33 +11,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02082"
     },
     {
-      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A02265",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01875",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Betaalbare energierekening voor huishoudens (CD 9/4)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A03250",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03250"
-    },
-    {
       "onderwerp": "Wijziging van de Kernenergiewet ten behoeve van bedrijfsduurverlenging van kerncentrale Borssele (36847) (rest)",
       "soort": "Plenair debat (wetgeving)",
       "datum": "2026-06-01T00:00:00+02:00",
@@ -47,15 +20,6 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04318"
     },
     {
-      "onderwerp": "Tweeminutendebat Energieraad d.d. 16 maart 2026 (CD 5/3)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A01983",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
-    },
-    {
       "onderwerp": "Wijziging van de Wet op de beroepen in de individuele gezondheidszorg in verband met het opnemen van de medisch hulpverlener acute zorg en de klinisch fysicus in de lijst van registerberoepen (36832)",
       "soort": "Plenair debat (wetgeving)",
       "datum": "2026-06-01T00:00:00+02:00",
@@ -63,15 +27,6 @@
       "locatie": "",
       "nummer": "2026A02609",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02609"
-    },
-    {
-      "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
-      "soort": "Plenair debat (tweeminutendebat)",
-      "datum": "2026-06-01T00:00:00+02:00",
-      "aanvangstijd": null,
-      "locatie": "",
-      "nummer": "2026A03355",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
     },
     {
       "onderwerp": "Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
@@ -101,6 +56,42 @@
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06611"
     },
     {
+      "onderwerp": "Tweeminutendebat Waterstof, groen gas en andere energiedragers (CD 4/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-06-03T20:00:00+02:00",
+      "aanvangstijd": "2026-06-03T20:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01875",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01875"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Energieraad (CD 5/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-06-03T20:20:00+02:00",
+      "aanvangstijd": "2026-06-03T20:20:00+02:00",
+      "locatie": "",
+      "nummer": "2026A01983",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A01983"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Betaalbare energierekening voor huishoudens (CD 9/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-06-03T20:40:00+02:00",
+      "aanvangstijd": "2026-06-03T20:40:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03250",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03250"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Hernieuwbare energie (CD 15/4)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-06-03T21:00:00+02:00",
+      "aanvangstijd": "2026-06-03T21:00:00+02:00",
+      "locatie": "",
+      "nummer": "2026A03355",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A03355"
+    },
+    {
       "onderwerp": "Resultaten van het vervolgonderzoek naar luchtvaartemissies",
       "soort": "Inbreng schriftelijk overleg",
       "datum": "2026-06-04T12:00:00+02:00",
@@ -117,6 +108,15 @@
       "locatie": "",
       "nummer": "2026A02321",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02321"
+    },
+    {
+      "onderwerp": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "soort": "Plenair debat (tweeminutendebat)",
+      "datum": "2026-06-08T00:00:00+02:00",
+      "aanvangstijd": null,
+      "locatie": "",
+      "nummer": "2026A02265",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265"
     },
     {
       "onderwerp": "Wijziging van de Omgevingswet, de Wet milieubeheer en de Wet belastingen op milieugrondslag in verband met de implementatie van de herziening van de Richtlijn industriële emissies en de uitvoering van de PIE-verordening",
