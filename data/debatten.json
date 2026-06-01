@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T05:14:03.046Z",
+  "updatedAt": "2026-06-01T10:31:03.282Z",
   "items": [
     {
       "onderwerp": "Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota)",
@@ -144,6 +144,15 @@
       "locatie": "",
       "nummer": "2025A06510",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06510"
+    },
+    {
+      "onderwerp": "Gezond en veilig werken",
+      "soort": "Commissiedebat",
+      "datum": "2026-06-11T10:00:00+02:00",
+      "aanvangstijd": "2026-06-11T10:00:00+02:00",
+      "locatie": "",
+      "nummer": "2025A05263",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05263"
     }
   ]
 }
