@@ -1,0 +1,56 @@
+name: Website publiceren
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "assets/**"
+      - "data/nieuws.json"
+      - ".github/workflows/deploy-pages.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: GitHub Pages instellen
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Websitepakket maken
+        run: |
+          mkdir -p _site/data _site/assets
+          cp index.html styles.css app.js _site/
+          cp data/nieuws.json _site/data/
+          cp -R assets/. _site/assets/
+          touch _site/.nojekyll
+
+      - name: Websitepakket uploaden
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publiceren
+        id: deployment
+        uses: actions/deploy-pages@v4
