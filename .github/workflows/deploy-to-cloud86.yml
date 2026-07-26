@@ -1,0 +1,48 @@
+name: Publiceer naar Cloud86
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "index.html"
+      - "styles.css"
+      - "app.js"
+      - "assets/**"
+      - "data/nieuws.json"
+      - ".github/workflows/deploy-to-cloud86.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cloud86
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v4
+
+      - name: Websitepakket maken
+        run: |
+          mkdir -p _cloud86/data _cloud86/assets
+          cp index.html styles.css app.js _cloud86/
+          cp data/nieuws.json _cloud86/data/
+          cp -R assets/. _cloud86/assets/
+
+      - name: Publiceren bij Cloud86
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          protocol: ftp
+          timeout: 120000
+          local-dir: ./_cloud86/
+          server-dir: /energiepa.snarfia.nl/
