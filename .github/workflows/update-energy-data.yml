@@ -1,4 +1,4 @@
-name: Nieuws verversen
+name: Nieuws en agenda verversen
 
 on:
   workflow_dispatch:
@@ -28,10 +28,13 @@ jobs:
       - name: Officiële nieuwsfeeds ophalen
         run: node scripts/update-data.mjs
 
-      - name: Nieuwe berichten opslaan
+      - name: Officiële vergaderagenda ophalen
+        run: node scripts/update-meetings.mjs
+
+      - name: Nieuwe berichten en afspraken opslaan
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/nieuws.json
-          git diff --cached --quiet || git commit -m "chore: ververs overheidsnieuws"
+          git add data/nieuws.json data/vergaderingen.json
+          git diff --cached --quiet || git commit -m "chore: ververs overheidsnieuws en agenda"
           git push

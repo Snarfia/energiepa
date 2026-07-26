@@ -9,8 +9,11 @@ on:
       - "index.html"
       - "styles.css"
       - "app.js"
+      - "meetings.js"
+      - "vergaderingen.html"
       - "assets/**"
       - "data/nieuws.json"
+      - "data/vergaderingen.json"
       - ".github/workflows/deploy-to-cloud86.yml"
 
 permissions:
@@ -31,8 +34,8 @@ jobs:
       - name: Websitepakket maken
         run: |
           mkdir -p _cloud86/data _cloud86/assets
-          cp index.html styles.css app.js _cloud86/
-          cp data/nieuws.json _cloud86/data/
+          cp index.html vergaderingen.html styles.css app.js meetings.js _cloud86/
+          cp data/nieuws.json data/vergaderingen.json _cloud86/data/
           cp -R assets/. _cloud86/assets/
 
       - name: Publiceren bij Cloud86

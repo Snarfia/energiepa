@@ -9,8 +9,11 @@ on:
       - "index.html"
       - "styles.css"
       - "app.js"
+      - "meetings.js"
+      - "vergaderingen.html"
       - "assets/**"
       - "data/nieuws.json"
+      - "data/vergaderingen.json"
       - ".github/workflows/deploy-pages.yml"
 
 permissions:
@@ -41,8 +44,8 @@ jobs:
       - name: Websitepakket maken
         run: |
           mkdir -p _site/data _site/assets
-          cp index.html styles.css app.js _site/
-          cp data/nieuws.json _site/data/
+          cp index.html vergaderingen.html styles.css app.js meetings.js _site/
+          cp data/nieuws.json data/vergaderingen.json _site/data/
           cp -R assets/. _site/assets/
           touch _site/.nojekyll
 
