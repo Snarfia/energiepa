@@ -3,23 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#111813" />
+    <meta name="theme-color" content="#f5f6f0" />
     <meta
       name="description"
-      content="De laatste officiële berichten over energie en klimaat van de Rijksoverheid, ACM en Europese Commissie."
+      content="Actueel energie- en klimaatnieuws van de Rijksoverheid, ACM en Europese Commissie."
     />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="nl_NL" />
     <meta property="og:title" content="Energie & Klimaat — Beleidsradar" />
     <meta
       property="og:description"
-      content="Eén actueel overzicht van de Rijksoverheid, ACM en Europese Commissie."
+      content="Officieel energie- en klimaatnieuws en de komende overheidsvergaderingen."
     />
     <meta property="og:url" content="https://energiepa.snarfia.nl/" />
-    <meta name="twitter:card" content="summary" />
-    <title>Energie & Klimaat — Beleidsradar</title>
+    <title>Energie & Klimaat — Nieuws</title>
     <link rel="canonical" href="https://energiepa.snarfia.nl/" />
-    <link rel="stylesheet" href="styles.css?v=20260726" />
+    <link rel="stylesheet" href="styles.css?v=20260726-2" />
   </head>
   <body>
     <div class="topline" aria-hidden="true">
@@ -27,52 +26,46 @@
     </div>
 
     <header class="site-header">
-      <a class="brand" href="./" aria-label="Energie en Klimaat — home">
+      <a class="brand" href="./" aria-label="Energie en Klimaat — nieuws">
         <span class="brand-mark" aria-hidden="true">E+</span>
-        <span class="brand-name">Energie<br />& Klimaat</span>
+        <span class="brand-name">Energie &amp; Klimaat</span>
       </a>
+      <nav class="site-nav" aria-label="Hoofdnavigatie">
+        <a class="is-active" href="./" aria-current="page">Nieuws</a>
+        <a href="vergaderingen.html">Vergaderingen</a>
+      </nav>
       <div class="header-meta">
         <span class="pulse" aria-hidden="true"></span>
-        <span id="header-status">Actuele bronnen laden</span>
+        <span id="header-status">Nieuws laden</span>
       </div>
     </header>
 
     <main>
-      <section class="hero" aria-labelledby="page-title">
-        <div class="hero-copy">
-          <p class="eyebrow">Beleidsradar · officieel nieuws</p>
-          <h1 id="page-title">Wat beweegt er in <em>energie & klimaat?</em></h1>
-          <p class="hero-intro">
-            De nieuwste officiële berichten, zonder ruis. Rechtstreeks van de Rijksoverheid,
-            Autoriteit Consument &amp; Markt en Europese Commissie.
-          </p>
+      <section class="page-intro" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Officiële beleidsradar</p>
+          <h1 id="page-title">Laatste nieuws</h1>
+          <p>Rechtstreeks van Rijksoverheid, ACM en Europese Commissie.</p>
         </div>
-
-        <div class="hero-aside" aria-label="Overzicht">
-          <div class="stat">
-            <strong id="article-count">—</strong>
-            <span>berichten</span>
-          </div>
-          <div class="stat">
-            <strong>3</strong>
-            <span>bronnen</span>
-          </div>
-          <p id="updated-at" class="updated-at">Wordt bijgewerkt…</p>
+        <div class="compact-stat" aria-label="Overzicht">
+          <strong id="article-count">—</strong>
+          <span>berichten</span>
+          <small id="updated-at">Wordt bijgewerkt…</small>
         </div>
       </section>
 
       <section class="controls" aria-label="Nieuws filteren">
         <div class="filter-group" role="group" aria-label="Filter op bron">
-          <button class="filter-button is-active" type="button" data-source="all">
+          <button class="filter-button filter-all is-active" type="button" data-source="all">
             Alles <span id="count-all">0</span>
           </button>
-          <button class="filter-button" type="button" data-source="rijksoverheid">
+          <button class="filter-button filter-rijk" type="button" data-source="rijksoverheid">
             Rijksoverheid <span id="count-rijksoverheid">0</span>
           </button>
-          <button class="filter-button" type="button" data-source="acm">
+          <button class="filter-button filter-acm" type="button" data-source="acm">
             ACM <span id="count-acm">0</span>
           </button>
-          <button class="filter-button" type="button" data-source="eu">
+          <button class="filter-button filter-eu" type="button" data-source="eu">
             EU Commissie <span id="count-eu">0</span>
           </button>
         </div>
@@ -80,13 +73,13 @@
         <label class="search-box">
           <span class="screen-reader-only">Zoek in de berichten</span>
           <span aria-hidden="true">⌕</span>
-          <input id="search-input" type="search" placeholder="Zoek op onderwerp…" autocomplete="off" />
+          <input id="search-input" type="search" placeholder="Zoek…" autocomplete="off" />
           <kbd>/</kbd>
         </label>
       </section>
 
       <div class="results-heading">
-        <h2>Laatste berichten</h2>
+        <h2>Nieuwsoverzicht</h2>
         <p id="result-count" aria-live="polite">Nieuws wordt geladen</p>
       </div>
 
@@ -94,23 +87,14 @@
         <article class="news-card skeleton-card" aria-hidden="true"></article>
         <article class="news-card skeleton-card" aria-hidden="true"></article>
         <article class="news-card skeleton-card" aria-hidden="true"></article>
-        <article class="news-card skeleton-card" aria-hidden="true"></article>
       </section>
 
-      <section class="source-note" aria-labelledby="source-note-title">
-        <p class="eyebrow">Transparant over de bron</p>
-        <h2 id="source-note-title">Rechtstreeks naar het origineel.</h2>
-        <p>
-          Dit overzicht toont titel, datum en samenvatting uit de officiële nieuwsfeeds.
-          Elk bericht opent op de website van de publicerende organisatie.
-        </p>
-        <div id="source-health" class="source-health" aria-label="Status per bron"></div>
-      </section>
+      <div id="source-health" class="source-health" aria-label="Status per bron"></div>
     </main>
 
     <footer class="site-footer">
       <p>Energie &amp; Klimaat — Beleidsradar</p>
-      <p>Automatisch ververst · Geen commerciële bronnen</p>
+      <p>Automatisch ververst · Alleen officiële bronnen</p>
     </footer>
 
     <template id="news-card-template">
@@ -129,6 +113,6 @@
       </article>
     </template>
 
-    <script src="app.js?v=20260726" defer></script>
+    <script src="app.js?v=20260726-2" defer></script>
   </body>
 </html>

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f6f0" />
+    <meta
+      name="description"
+      content="Komende Nederlandse en Europese overheidsvergaderingen over energie en klimaat."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="nl_NL" />
+    <meta property="og:title" content="Energie & Klimaat — Vergaderingen" />
+    <meta
+      property="og:description"
+      content="Komende energie- en klimaatvergaderingen van de Tweede Kamer en Europese Commissie."
+    />
+    <meta property="og:url" content="https://energiepa.snarfia.nl/vergaderingen.html" />
+    <title>Energie & Klimaat — Vergaderingen</title>
+    <link rel="canonical" href="https://energiepa.snarfia.nl/vergaderingen.html" />
+    <link rel="stylesheet" href="styles.css?v=20260726-2" />
+  </head>
+  <body>
+    <div class="topline" aria-hidden="true">
+      <span></span><span></span><span></span>
+    </div>
+
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Energie en Klimaat — nieuws">
+        <span class="brand-mark" aria-hidden="true">E+</span>
+        <span class="brand-name">Energie &amp; Klimaat</span>
+      </a>
+      <nav class="site-nav" aria-label="Hoofdnavigatie">
+        <a href="./">Nieuws</a>
+        <a class="is-active" href="vergaderingen.html" aria-current="page">Vergaderingen</a>
+      </nav>
+      <div class="header-meta">
+        <span class="pulse" aria-hidden="true"></span>
+        <span id="meeting-header-status">Agenda laden</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-intro agenda-intro" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Openbare energieagenda</p>
+          <h1 id="page-title">Komende vergaderingen</h1>
+          <p>Tweede Kamer en evenementen van de Europese Commissie voor energie.</p>
+        </div>
+        <div class="compact-stat" aria-label="Overzicht">
+          <strong id="meeting-count">—</strong>
+          <span>afspraken</span>
+          <small id="meeting-updated-at">Wordt bijgewerkt…</small>
+        </div>
+      </section>
+
+      <section class="controls agenda-controls" aria-label="Vergaderingen filteren">
+        <div class="filter-group" role="group" aria-label="Filter op overheid">
+          <button class="filter-button filter-all is-active" type="button" data-meeting-source="all">
+            Alles <span id="meeting-count-all">0</span>
+          </button>
+          <button class="filter-button filter-rijk" type="button" data-meeting-source="nl">
+            Nederland <span id="meeting-count-nl">0</span>
+          </button>
+          <button class="filter-button filter-eu" type="button" data-meeting-source="eu">
+            Europa <span id="meeting-count-eu">0</span>
+          </button>
+        </div>
+        <p class="agenda-note">Alleen toekomstige, openbare afspraken</p>
+      </section>
+
+      <div class="results-heading">
+        <h2>Agenda</h2>
+        <p id="meeting-result-count" aria-live="polite">Agenda wordt geladen</p>
+      </div>
+
+      <section
+        id="meeting-list"
+        class="meeting-list"
+        aria-label="Komende vergaderingen"
+        aria-busy="true"
+      >
+        <article class="meeting-card skeleton-card" aria-hidden="true"></article>
+        <article class="meeting-card skeleton-card" aria-hidden="true"></article>
+      </section>
+
+      <div id="meeting-source-health" class="source-health" aria-label="Status per agendabron"></div>
+    </main>
+
+    <footer class="site-footer">
+      <p>Energie &amp; Klimaat — Beleidsradar</p>
+      <p>Agenda uit officiële Nederlandse en Europese bronnen</p>
+    </footer>
+
+    <template id="meeting-card-template">
+      <article class="meeting-card">
+        <div class="date-block" aria-hidden="true">
+          <span class="date-day"></span>
+          <span class="date-month"></span>
+        </div>
+        <div class="meeting-body">
+          <div class="meeting-meta">
+            <span class="source-badge"></span>
+            <span class="meeting-type"></span>
+          </div>
+          <h3></h3>
+          <p class="meeting-details"></p>
+          <p class="meeting-description"></p>
+        </div>
+        <a class="meeting-link" target="_blank" rel="noopener noreferrer">
+          Bekijk agenda <span aria-hidden="true">↗</span>
+        </a>
+      </article>
+    </template>
+
+    <script src="meetings.js?v=20260726-2" defer></script>
+  </body>
+</html>

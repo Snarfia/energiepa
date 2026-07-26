@@ -80,7 +80,7 @@ function renderNews() {
     empty.append(title, copy, reset);
     elements.grid.appendChild(empty);
   } else {
-    items.forEach((item, index) => {
+    items.forEach((item) => {
       const fragment = elements.template.content.cloneNode(true);
       const card = fragment.querySelector('.news-card');
       const badge = fragment.querySelector('.source-badge');
@@ -90,7 +90,6 @@ function renderNews() {
       const link = fragment.querySelector('.card-link');
 
       card.dataset.source = item.source;
-      card.classList.toggle('is-lead', index === 0);
       badge.textContent = item.sourceLabel || SOURCE_LABELS[item.source] || item.source;
       time.dateTime = item.publishedAt;
       time.textContent = formatDate(item.publishedAt);
@@ -166,10 +165,10 @@ function resetFilters() {
 }
 
 function bindControls() {
-  document.querySelectorAll('.filter-button').forEach((button) => {
+  document.querySelectorAll('[data-source]').forEach((button) => {
     button.addEventListener('click', () => {
       state.source = button.dataset.source;
-      document.querySelectorAll('.filter-button').forEach((candidate) => {
+      document.querySelectorAll('[data-source]').forEach((candidate) => {
         candidate.classList.toggle('is-active', candidate === button);
       });
       renderNews();
