@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T08:23:12.727Z",
+  "updatedAt": "2026-07-26T09:43:13.620Z",
   "items": [
     {
       "id": "acm-b187322093d7",
@@ -31,17 +31,6 @@
       "title": "Vergunning van Energiek 2 komt op naam van Inwarmte Projecten",
       "description": "De vergunning voor de levering van warmte aan kleinverbruikers van Energiek 2 B.V. wordt op naam gesteld van Inwarmte Projecten B.V.",
       "url": "https://www.acm.nl/nl/publicaties/vergunning-van-energiek-2-komt-op-naam-van-inwarmte-projecten",
-      "publishedAt": "2026-07-24T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-c57fd85b3e7c",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Foreman Capital wil uitsluitende zeggenschap verkrijgen over Royal NNZ Group (concentratiemelding)",
-      "description": "Foreman Capital B.V. wil uitsluitende zeggenschap verkrijgen over Royal NNZ Group. De bedrijven hebben de ACM om toestemming gevraagd voor de overname.",
-      "url": "https://www.acm.nl/nl/publicaties/foreman-capital-wil-uitsluitende-zeggenschap-verkrijgen-over-royal-nnz-group-concentratiemelding",
       "publishedAt": "2026-07-24T08:00:00.000Z",
       "language": "nl"
     },
@@ -90,17 +79,6 @@
       "language": "en"
     },
     {
-      "id": "acm-df52637c63f8",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: kledingsector mag samenwerken aan onderzoek naar effecten van retourkosten",
-      "description": "Brancheorganisatie Thuiswinkel.org mag onderzoeken wat het effect is van retourkosten op het gedrag van consumenten. Dit initiatief past binnen de concurrentieregels.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-kledingsector-mag-samenwerken-aan-onderzoek-naar-effecten-van-retourkosten",
-      "publishedAt": "2026-07-23T08:30:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "acm-c043238d36b4",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -112,17 +90,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-539d5ec09ed2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM wijzigt erkenning van Vogelweg HV Station",
-      "description": "De ACM breidt de erkenning van Vogelweg HV Station B.V. uit met één nieuwe aangeslotene.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-vogelweg-hv-station",
-      "publishedAt": "2026-07-23T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "acm-02b0f6d8dc06",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -130,6 +97,17 @@
       "title": "ACM wijzigt GS erkenning van Academisch Ziekenhuis Maastricht",
       "description": "De ACM wijzigt de geografische afbakening van de erkenning van het gesloten systeem voor elektriciteit van het Academisch Ziekenhuis Maastricht.",
       "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-gs-erkenning-van-academisch-ziekenhuis-maastricht",
+      "publishedAt": "2026-07-23T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-539d5ec09ed2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM wijzigt erkenning van Vogelweg HV Station",
+      "description": "De ACM breidt de erkenning van Vogelweg HV Station B.V. uit met één nieuwe aangeslotene.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-vogelweg-hv-station",
       "publishedAt": "2026-07-23T07:30:00.000Z",
       "language": "nl"
     },
@@ -154,28 +132,6 @@
       "url": "https://energy.ec.europa.eu/news/eu-hydrogen-mechanism-call-interest-test-hydrogen-infrastructure-2026-07-22_en",
       "publishedAt": "2026-07-22T08:30:39.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-8b4bdbabe4a9",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Synergia Capital Partners en Bolster Investment Partners willen gezamenlijk zeggenschap verkrijgen over Life & Mobility (concentratiemelding)",
-      "description": "Synergia Capital Partners en Bolster Investment Partners willen gezamenlijk zeggenschap verkrijgen over Life & Mobility. De bedrijven hebben de ACM hiervoor om toestemming gevraagd.",
-      "url": "https://www.acm.nl/nl/publicaties/synergia-capital-partners-en-bolster-investment-partners-willen-gezamenlijk-zeggenschap-verkrijgen-over-life-en-mobility-concentratiemelding",
-      "publishedAt": "2026-07-22T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-5233b2f92463",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Overdracht MNC aan VZ Maple BV",
-      "description": "De ACM wijst de gezamenlijke aanvraag tot overdracht van de toekenning van MNC 04 aan Vodafone Libertel B.V. aan VZ Maple B.V. toe.",
-      "url": "https://www.acm.nl/nl/publicaties/overdracht-mnc-aan-vz-maple-bv",
-      "publishedAt": "2026-07-21T15:30:00.000Z",
-      "language": "nl"
     },
     {
       "id": "acm-b0a35af3859d",
@@ -209,6 +165,17 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1651",
       "publishedAt": "2026-07-20T13:30:31.000Z",
       "language": "en"
+    },
+    {
+      "id": "acm-e743c981fc3f",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Monitor Brandstofprijzen ACM: flinke besparing mogelijk door keuze tankstation",
+      "description": "Automobilisten kunnen flink besparen op benzine en diesel door de keuze voor een tankstation. In veel gevallen scheelt het tot ongeveer 25 eurocent per liter. Dat is voor een volle tank zo’n €12,50. Dat blijkt uit de Monitor Brandstofprijzen van de ACM.",
+      "url": "https://www.acm.nl/nl/publicaties/monitor-brandstofprijzen-acm-flinke-besparing-mogelijk-door-keuze-tankstation",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "language": "nl"
     },
     {
       "id": "eu-d86b72203fc3",
@@ -557,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-26T08:23:12.727Z",
+      "updatedAt": "2026-07-26T09:43:13.619Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 10,
-      "updatedAt": "2026-07-26T08:23:12.727Z",
+      "count": 7,
+      "updatedAt": "2026-07-26T09:43:13.620Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-26T08:23:12.727Z",
+      "updatedAt": "2026-07-26T09:43:13.620Z",
       "failedFeeds": []
     }
   }
