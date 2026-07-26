@@ -1,165 +1,221 @@
+import { createHash } from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-const RIJKSOVERHEID_RSS = 'https://feeds.rijksoverheid.nl/onderwerpen/duurzame-energie/documenten.rss';
-const TWEEDEKAMER_ODATA = 'https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Activiteit';
+const OUTPUT_PATH = path.resolve('data', 'nieuws.json');
+const MAX_ITEMS_PER_SOURCE = 20;
 
-const ENERGY_KEYWORDS = [
-  'energie',
-  'klimaat',
-  'duurzaam',
-  'waterstof',
-  'elektriciteit',
-  'stroom',
-  'gas',
-  'co2',
-  'emissie',
-  'netcongestie',
-  'wind',
-  'zon',
-  'warmte',
-  'kernenergie'
+const SOURCE_LABELS = {
+  rijksoverheid: 'Rijksoverheid',
+  acm: 'ACM',
+  eu: 'EU Commissie'
+};
+
+function rijksoverheidFeed(topic) {
+  const query = {
+    filters: [
+      {
+        field: 'content_type',
+        values: ['pro:newsDocument'],
+        type: 'all'
+      },
+      {
+        field: 'topic',
+        values: [topic],
+        type: 'all'
+      }
+    ],
+    resultSearchTerm: '',
+    pageTitle: 'Nieuws'
+  };
+
+  return `https://www.rijksoverheid.nl/api/rss?query=${encodeURIComponent(JSON.stringify(query))}`;
+}
+
+const FEEDS = [
+  {
+    source: 'rijksoverheid',
+    name: 'Rijksoverheid · duurzame energie',
+    url: rijksoverheidFeed('Duurzame energie')
+  },
+  {
+    source: 'rijksoverheid',
+    name: 'Rijksoverheid · klimaatverandering',
+    url: rijksoverheidFeed('Klimaatverandering')
+  },
+  {
+    source: 'acm',
+    name: 'ACM · energie',
+    url: 'https://www.acm.nl/nl/nieuws/rss/publicaties?field_subjects=6320&publication_type=1'
+  },
+  {
+    source: 'eu',
+    name: 'Europese Commissie · energie',
+    url: 'https://energy.ec.europa.eu/node/2/rss_en'
+  },
+  {
+    source: 'eu',
+    name: 'Europese Commissie · klimaat',
+    url: 'https://climate.ec.europa.eu/node/2/rss_en'
+  }
 ];
 
-function startOfTodayUtc() {
-  const now = new Date();
-  return new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
-}
-
-function startOfLast7DaysUtc() {
-  const start = startOfTodayUtc();
-  start.setUTCDate(start.getUTCDate() - 6);
-  return start;
-}
-
-function decodeXmlEntities(text = '') {
-  return text
+function decodeXmlEntities(value = '') {
+  return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(Number.parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, number) => String.fromCodePoint(Number(number)))
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&apos;|&#39;/gi, "'")
     .trim();
 }
 
-function extractTagValue(block, tagName) {
-  const m = block.match(new RegExp(`<${tagName}>([\\s\\S]*?)</${tagName}>`, 'i'));
-  return m ? decodeXmlEntities(m[1]) : '';
+function extractTag(block, tagName) {
+  const match = block.match(new RegExp(`<${tagName}(?:\\s[^>]*)?>([\\s\\S]*?)</${tagName}>`, 'i'));
+  return match ? decodeXmlEntities(match[1]) : '';
 }
 
-function parseRssItems(xml) {
-  const blocks = xml.match(/<item>([\s\S]*?)<\/item>/gi) || [];
-  return blocks.map((block) => {
-    const pubDateRaw = extractTagValue(block, 'pubDate');
-    const parsed = pubDateRaw ? new Date(pubDateRaw) : null;
-    return {
-      title: extractTagValue(block, 'title'),
-      link: extractTagValue(block, 'link'),
-      description: extractTagValue(block, 'description').replace(/<[^>]+>/g, '').trim(),
-      pubDate: parsed && !Number.isNaN(parsed.getTime()) ? parsed.toISOString() : null
-    };
+function plainText(value = '') {
+  return decodeXmlEntities(value)
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function shorten(value, maximum = 260) {
+  if (value.length <= maximum) return value;
+  const shortened = value.slice(0, maximum - 1).replace(/\s+\S*$/, '');
+  return `${shortened}…`;
+}
+
+function itemId(source, url) {
+  return `${source}-${createHash('sha1').update(url).digest('hex').slice(0, 12)}`;
+}
+
+function parseRss(xml, feed) {
+  const blocks = xml.match(/<item(?:\s[^>]*)?>[\s\S]*?<\/item>/gi) || [];
+
+  return blocks
+    .map((block) => {
+      const title = plainText(extractTag(block, 'title'));
+      const url = extractTag(block, 'link');
+      const description = shorten(plainText(extractTag(block, 'description')));
+      const rawDate = extractTag(block, 'pubDate') || extractTag(block, 'dc:date');
+      const date = rawDate ? new Date(rawDate) : null;
+
+      if (!title || !url || !date || Number.isNaN(date.getTime())) return null;
+
+      return {
+        id: itemId(feed.source, url),
+        source: feed.source,
+        sourceLabel: SOURCE_LABELS[feed.source],
+        feed: feed.name,
+        title,
+        description,
+        url,
+        publishedAt: date.toISOString(),
+        language: feed.source === 'eu' ? 'en' : 'nl'
+      };
+    })
+    .filter(Boolean);
+}
+
+async function fetchFeed(feed) {
+  const response = await fetch(feed.url, {
+    headers: {
+      Accept: 'application/rss+xml, application/xml;q=0.9, text/xml;q=0.8',
+      'User-Agent': 'EnergiePA-beleidsradar/2.0 (+https://github.com/Snarfia/energiepa)'
+    },
+    signal: AbortSignal.timeout(25_000)
   });
-}
 
-async function getPublicaties() {
-  const res = await fetch(RIJKSOVERHEID_RSS, {
-    headers: { 'User-Agent': 'energy-dashboard/1.0' }
-  });
-  if (!res.ok) throw new Error(`Rijksoverheid RSS fout ${res.status}`);
-  const xml = await res.text();
-  const cutoff = startOfLast7DaysUtc();
-
-  const items = parseRssItems(xml)
-    .filter((item) => item.pubDate && new Date(item.pubDate) >= cutoff)
-    .sort((a, b) => (a.pubDate < b.pubDate ? 1 : -1))
-    .slice(0, 25);
-
-  return {
-    range: 'last7days',
-    updatedAt: new Date().toISOString(),
-    items
-  };
-}
-
-function hasEnergyKeyword(text = '') {
-  const lower = text.toLowerCase();
-  return ENERGY_KEYWORDS.some((keyword) => lower.includes(keyword));
-}
-
-function toTweedeKamerUrl(nummer, soort) {
-  if (!nummer) return 'https://www.tweedekamer.nl/debat_en_vergadering';
-  const kind = (soort || '').toLowerCase();
-
-  if (kind.includes('plenair') || kind.includes('stemmingen') || kind.includes('vragenuur')) {
-    return `https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=${encodeURIComponent(nummer)}`;
+  if (!response.ok) {
+    throw new Error(`${feed.name}: HTTP ${response.status}`);
   }
 
-  return `https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=${encodeURIComponent(nummer)}`;
+  const xml = await response.text();
+  const items = parseRss(xml, feed);
+  if (!items.length) throw new Error(`${feed.name}: geen geldige berichten`);
+  return items;
 }
 
-function isoStartToday() {
-  const d = startOfTodayUtc();
-  const p = (n) => String(n).padStart(2, '0');
-  return `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())}T00:00:00Z`;
+async function readPreviousData() {
+  try {
+    return JSON.parse(await fs.readFile(OUTPUT_PATH, 'utf8'));
+  } catch {
+    return { items: [], sources: {} };
+  }
 }
 
-async function getDebatten() {
-  const params = new URLSearchParams({
-    '$select': 'Onderwerp,Soort,Datum,Aanvangstijd,Locatie,Nummer,Status,Kamer',
-    '$filter': `Verwijderd eq false and Status eq 'Gepland' and Kamer eq 'Tweede Kamer' and Datum ge ${isoStartToday()}`,
-    '$orderby': 'Datum asc',
-    '$top': '200'
+function deduplicate(items) {
+  const byUrl = new Map();
+  items.forEach((item) => {
+    const existing = byUrl.get(item.url);
+    if (!existing || item.publishedAt > existing.publishedAt) byUrl.set(item.url, item);
   });
-
-  const res = await fetch(`${TWEEDEKAMER_ODATA}?${params.toString()}`, {
-    headers: { Accept: 'application/json', 'User-Agent': 'energy-dashboard/1.0' }
-  });
-  if (!res.ok) throw new Error(`Tweede Kamer OData fout ${res.status}`);
-
-  const data = await res.json();
-  const value = Array.isArray(data.value) ? data.value : [];
-
-  const items = value
-    .filter((row) => hasEnergyKeyword(`${row.Onderwerp || ''} ${row.Soort || ''}`))
-    .map((row) => ({
-      onderwerp: row.Onderwerp || '(zonder onderwerp)',
-      soort: row.Soort || '',
-      datum: row.Datum || null,
-      aanvangstijd: row.Aanvangstijd || null,
-      locatie: row.Locatie || '',
-      nummer: row.Nummer || '',
-      url: toTweedeKamerUrl(row.Nummer || '', row.Soort || '')
-    }))
-    .slice(0, 20);
-
-  return {
-    updatedAt: new Date().toISOString(),
-    items
-  };
-}
-
-async function writeJson(filePath, data) {
-  const payload = `${JSON.stringify(data, null, 2)}\n`;
-  await fs.writeFile(filePath, payload, 'utf8');
+  return [...byUrl.values()];
 }
 
 async function main() {
-  const dataDir = path.resolve('data');
-  await fs.mkdir(dataDir, { recursive: true });
+  const previous = await readPreviousData();
+  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
+  const collected = [];
+  const sources = {};
 
-  const [publicaties, debatten] = await Promise.all([getPublicaties(), getDebatten()]);
+  Object.keys(SOURCE_LABELS).forEach((source) => {
+    const feedIndexes = FEEDS.map((feed, index) => ({ feed, index })).filter(
+      ({ feed }) => feed.source === source
+    );
+    const successful = feedIndexes.filter(({ index }) => results[index].status === 'fulfilled');
+    const failed = feedIndexes.filter(({ index }) => results[index].status === 'rejected');
 
-  await Promise.all([
-    writeJson(path.join(dataDir, 'publicaties.json'), publicaties),
-    writeJson(path.join(dataDir, 'debatten.json'), debatten)
-  ]);
+    let sourceItems = successful.flatMap(({ index }) => results[index].value);
+    let status = failed.length ? 'partial' : 'ok';
 
-  console.log(`Publicaties: ${publicaties.items.length}`);
-  console.log(`Debatten: ${debatten.items.length}`);
+    if (!successful.length) {
+      sourceItems = (previous.items || []).filter((item) => item.source === source);
+      status = 'fallback';
+    }
+
+    sourceItems = deduplicate(sourceItems)
+      .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
+      .slice(0, MAX_ITEMS_PER_SOURCE);
+
+    collected.push(...sourceItems);
+    sources[source] = {
+      label: SOURCE_LABELS[source],
+      status,
+      count: sourceItems.length,
+      updatedAt: new Date().toISOString(),
+      failedFeeds: failed.map(({ feed }) => feed.name)
+    };
+  });
+
+  if (!collected.length) {
+    throw new Error('Geen nieuws opgehaald en geen eerdere gegevens beschikbaar.');
+  }
+
+  const payload = {
+    updatedAt: new Date().toISOString(),
+    items: deduplicate(collected).sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)),
+    sources
+  };
+
+  await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
+  await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
+
+  Object.entries(sources).forEach(([source, info]) => {
+    console.log(`${SOURCE_LABELS[source]}: ${info.count} berichten (${info.status})`);
+  });
 }
 
-main().catch((err) => {
-  console.error(err);
+main().catch((error) => {
+  console.error(error);
   process.exit(1);
 });
