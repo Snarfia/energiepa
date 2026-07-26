@@ -3,37 +3,131 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Energie-overzicht overheid</title>
+    <meta name="theme-color" content="#111813" />
+    <meta
+      name="description"
+      content="De laatste officiële berichten over energie en klimaat van de Rijksoverheid, ACM en Europese Commissie."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="nl_NL" />
+    <meta property="og:title" content="Energie & Klimaat — Beleidsradar" />
+    <meta
+      property="og:description"
+      content="Eén actueel overzicht van de Rijksoverheid, ACM en Europese Commissie."
+    />
+    <meta property="og:url" content="https://snarfia.github.io/energiepa/" />
+    <meta name="twitter:card" content="summary" />
+    <title>Energie & Klimaat — Beleidsradar</title>
+    <link rel="canonical" href="https://snarfia.github.io/energiepa/" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="header">
-      <h1>Energie en Klimaat: Overheidsupdates</h1>
-      <p>Recente publicaties van Rijksoverheid.nl en aankomende debatten van de Tweede Kamer.</p>
+    <div class="topline" aria-hidden="true">
+      <span></span><span></span><span></span>
+    </div>
+
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Energie en Klimaat — home">
+        <span class="brand-mark" aria-hidden="true">E+</span>
+        <span class="brand-name">Energie<br />& Klimaat</span>
+      </a>
+      <div class="header-meta">
+        <span class="pulse" aria-hidden="true"></span>
+        <span id="header-status">Actuele bronnen laden</span>
+      </div>
     </header>
 
-    <main class="layout">
-      <section class="card left">
-        <div class="card-head">
-          <h2>Publicaties Rijksoverheid (laatste 7 dagen)</h2>
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Beleidsradar · officieel nieuws</p>
+          <h1 id="page-title">Wat beweegt er in <em>energie & klimaat?</em></h1>
+          <p class="hero-intro">
+            De nieuwste officiële berichten, zonder ruis. Rechtstreeks van de Rijksoverheid,
+            Autoriteit Consument &amp; Markt en Europese Commissie.
+          </p>
         </div>
-        <p id="pub-status" class="status">Laden...</p>
-        <ul id="pub-list" class="list"></ul>
+
+        <div class="hero-aside" aria-label="Overzicht">
+          <div class="stat">
+            <strong id="article-count">—</strong>
+            <span>berichten</span>
+          </div>
+          <div class="stat">
+            <strong>3</strong>
+            <span>bronnen</span>
+          </div>
+          <p id="updated-at" class="updated-at">Wordt bijgewerkt…</p>
+        </div>
       </section>
 
-      <aside class="card right">
-        <div class="card-head">
-          <h2>Aankomende debatten</h2>
-          <span class="chip">Tweede Kamer</span>
+      <section class="controls" aria-label="Nieuws filteren">
+        <div class="filter-group" role="group" aria-label="Filter op bron">
+          <button class="filter-button is-active" type="button" data-source="all">
+            Alles <span id="count-all">0</span>
+          </button>
+          <button class="filter-button" type="button" data-source="rijksoverheid">
+            Rijksoverheid <span id="count-rijksoverheid">0</span>
+          </button>
+          <button class="filter-button" type="button" data-source="acm">
+            ACM <span id="count-acm">0</span>
+          </button>
+          <button class="filter-button" type="button" data-source="eu">
+            EU Commissie <span id="count-eu">0</span>
+          </button>
         </div>
-        <p id="debate-status" class="status">Laden...</p>
-        <ul id="debate-list" class="list"></ul>
-      </aside>
+
+        <label class="search-box">
+          <span class="screen-reader-only">Zoek in de berichten</span>
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="Zoek op onderwerp…" autocomplete="off" />
+          <kbd>/</kbd>
+        </label>
+      </section>
+
+      <div class="results-heading">
+        <h2>Laatste berichten</h2>
+        <p id="result-count" aria-live="polite">Nieuws wordt geladen</p>
+      </div>
+
+      <section id="news-grid" class="news-grid" aria-label="Nieuwsoverzicht" aria-busy="true">
+        <article class="news-card skeleton-card" aria-hidden="true"></article>
+        <article class="news-card skeleton-card" aria-hidden="true"></article>
+        <article class="news-card skeleton-card" aria-hidden="true"></article>
+        <article class="news-card skeleton-card" aria-hidden="true"></article>
+      </section>
+
+      <section class="source-note" aria-labelledby="source-note-title">
+        <p class="eyebrow">Transparant over de bron</p>
+        <h2 id="source-note-title">Rechtstreeks naar het origineel.</h2>
+        <p>
+          Dit overzicht toont titel, datum en samenvatting uit de officiële nieuwsfeeds.
+          Elk bericht opent op de website van de publicerende organisatie.
+        </p>
+        <div id="source-health" class="source-health" aria-label="Status per bron"></div>
+      </section>
     </main>
 
-    <footer class="footer">
-      <small>Bronnen: rijksoverheid.nl en tweedekamer.nl (Open Data).</small>
+    <footer class="site-footer">
+      <p>Energie &amp; Klimaat — Beleidsradar</p>
+      <p>Automatisch ververst · Geen commerciële bronnen</p>
     </footer>
+
+    <template id="news-card-template">
+      <article class="news-card">
+        <div class="card-top">
+          <span class="source-badge"></span>
+          <time></time>
+        </div>
+        <div class="card-body">
+          <h3></h3>
+          <p class="card-description"></p>
+        </div>
+        <a class="card-link" target="_blank" rel="noopener noreferrer">
+          Lees bij de bron <span aria-hidden="true">↗</span>
+        </a>
+      </article>
+    </template>
 
     <script src="app.js" defer></script>
   </body>

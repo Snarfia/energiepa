@@ -1,63 +1,29 @@
-# Energie en Klimaat Overheidsupdates (statische site)
+# Energie & Klimaat — Beleidsradar
 
-Deze website is volledig statisch en kan op GitHub Pages draaien zonder Python-backend.
+Een statisch, automatisch ververst nieuwsoverzicht met officiële berichten over energie en klimaat.
 
-## Hoe het werkt
+## Bronnen
 
-- De pagina leest data uit:
-  - `data/publicaties.json` (Rijksoverheid laatste 7 dagen inclusief vandaag)
-  - `data/debatten.json` (aankomende energie/klimaatdebatten Tweede Kamer)
-- Een GitHub Action (`.github/workflows/update-energy-data.yml`) ververst deze JSON elk uur.
-- Een deploy Action (`.github/workflows/deploy-to-plesk.yml`) uploadt de site direct naar Plesk bij elke push naar `main`.
+- Rijksoverheid: nieuws over duurzame energie en klimaatverandering
+- Autoriteit Consument & Markt: nieuws binnen het onderwerp energie
+- Europese Commissie: DG Energy en DG Climate Action
 
-## Publiceren op GitHub Pages
+De bronfeeds worden onafhankelijk verwerkt. Als één feed tijdelijk niet beschikbaar is, blijven de
+laatst bekende berichten van die bron zichtbaar en worden de andere bronnen gewoon bijgewerkt.
 
-1. Maak een nieuwe repository op GitHub.
-2. Koppel je lokale project aan GitHub:
+## Automatische verversing
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/<jouw-gebruiker>/<jouw-repo>.git
-git push -u origin main
-```
+De GitHub Action `Nieuws verversen` haalt iedere twee uur nieuwe berichten op en schrijft deze naar
+`data/nieuws.json`. Een wijziging op `main` publiceert de website automatisch via GitHub Pages.
 
-3. Zet GitHub Pages aan:
-- Ga naar `Settings` -> `Pages`
-- Kies `Deploy from a branch`
-- Selecteer branch `main` en folder `/ (root)`
-- Save
+Handmatig verversen kan via **Actions → Nieuws verversen → Run workflow**.
 
-4. Wacht 1-2 minuten. Je site staat dan op:
-- `https://<jouw-gebruiker>.github.io/<jouw-repo>/`
+## Lokaal bekijken
 
-## Data handmatig verversen (optioneel)
-
-In GitHub:
-- Ga naar `Actions` -> `Update energy data`
-- Klik `Run workflow`
-
-## Automatisch deployen naar Plesk via GitHub Actions
-
-Maak in GitHub deze repository secrets aan via `Settings` -> `Secrets and variables` -> `Actions`:
-
-- `PLESK_HOST`: jouw server hostnaam (bijv. `energiepa.snarfia.nl` of server-IP)
-- `PLESK_USER`: Plesk/SSH gebruikersnaam
-- `PLESK_SSH_KEY`: private SSH key van die gebruiker (hele key inclusief `BEGIN/END`)
-- `PLESK_TARGET`: doelmap op server, meestal `/var/www/vhosts/snarfia.nl/httpdocs`
-
-Daarna:
-- Push naar `main` -> workflow `Deploy to Plesk` draait automatisch.
-- De uur-workflow `Update energy data` deployt na update ook direct naar Plesk.
-
-## Lokaal testen zonder Python
-
-Je kunt een simpele statische server gebruiken, bijvoorbeeld:
+Start een statische webserver in deze map, bijvoorbeeld:
 
 ```bash
 npx serve .
 ```
 
-Open daarna de URL die `serve` toont.
+Open daarna het lokale adres dat in de terminal verschijnt.

@@ -1,152 +1,242 @@
-const pubList = document.getElementById('pub-list');
-const debateList = document.getElementById('debate-list');
-const pubStatus = document.getElementById('pub-status');
-const debateStatus = document.getElementById('debate-status');
+const SOURCE_LABELS = {
+  rijksoverheid: 'Rijksoverheid',
+  acm: 'ACM',
+  eu: 'EU Commissie'
+};
 
-function formatDate(iso) {
-  if (!iso) return 'Onbekende datum';
-  const date = new Date(iso);
-  if (Number.isNaN(date.getTime())) return 'Onbekende datum';
-  return date.toLocaleDateString('nl-NL', {
-    weekday: 'short',
-    day: '2-digit',
-    month: '2-digit',
-    year: 'numeric'
+const state = {
+  items: [],
+  source: 'all',
+  query: ''
+};
+
+const elements = {
+  grid: document.getElementById('news-grid'),
+  template: document.getElementById('news-card-template'),
+  search: document.getElementById('search-input'),
+  resultCount: document.getElementById('result-count'),
+  articleCount: document.getElementById('article-count'),
+  updatedAt: document.getElementById('updated-at'),
+  headerStatus: document.getElementById('header-status'),
+  sourceHealth: document.getElementById('source-health')
+};
+
+const dateFormatter = new Intl.DateTimeFormat('nl-NL', {
+  day: 'numeric',
+  month: 'short',
+  year: 'numeric'
+});
+
+const dateTimeFormatter = new Intl.DateTimeFormat('nl-NL', {
+  day: 'numeric',
+  month: 'short',
+  hour: '2-digit',
+  minute: '2-digit'
+});
+
+function formatDate(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? 'Datum onbekend' : dateFormatter.format(date);
+}
+
+function formatDateTime(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? 'onbekend' : dateTimeFormatter.format(date);
+}
+
+function normalize(value = '') {
+  return value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
+}
+
+function filteredItems() {
+  const query = normalize(state.query.trim());
+
+  return state.items.filter((item) => {
+    const matchesSource = state.source === 'all' || item.source === state.source;
+    const haystack = normalize(`${item.title} ${item.description} ${item.sourceLabel}`);
+    return matchesSource && (!query || haystack.includes(query));
   });
 }
 
-function formatDateTime(iso) {
-  if (!iso) return 'Onbekende datum/tijd';
-  const date = new Date(iso);
-  if (Number.isNaN(date.getTime())) return 'Onbekende datum/tijd';
-  return date.toLocaleString('nl-NL', {
-    weekday: 'short',
-    day: '2-digit',
-    month: '2-digit',
-    year: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit'
-  });
-}
-
-function formatTime(value) {
-  if (!value) return '';
-  const raw = String(value).slice(0, 5);
-  return raw ? `${raw} uur` : '';
-}
-
-function clearList(listEl) {
-  while (listEl.firstChild) {
-    listEl.removeChild(listEl.firstChild);
-  }
-}
-
-function appendEmpty(listEl, text) {
-  const li = document.createElement('li');
-  li.className = 'item';
-  li.textContent = text;
-  listEl.appendChild(li);
-}
-
-function renderPublicaties(items) {
-  clearList(pubList);
+function renderNews() {
+  const items = filteredItems();
+  elements.grid.replaceChildren();
+  elements.grid.setAttribute('aria-busy', 'false');
 
   if (!items.length) {
-    appendEmpty(pubList, 'Geen publicaties gevonden voor deze periode.');
-    return;
+    const empty = document.createElement('div');
+    empty.className = 'empty-state';
+    const title = document.createElement('h3');
+    title.textContent = 'Geen berichten gevonden';
+    const copy = document.createElement('p');
+    copy.textContent = 'Probeer een andere zoekterm of kies alle bronnen.';
+    const reset = document.createElement('button');
+    reset.type = 'button';
+    reset.textContent = 'Wis filters';
+    reset.addEventListener('click', resetFilters);
+    empty.append(title, copy, reset);
+    elements.grid.appendChild(empty);
+  } else {
+    items.forEach((item, index) => {
+      const fragment = elements.template.content.cloneNode(true);
+      const card = fragment.querySelector('.news-card');
+      const badge = fragment.querySelector('.source-badge');
+      const time = fragment.querySelector('time');
+      const title = fragment.querySelector('h3');
+      const description = fragment.querySelector('.card-description');
+      const link = fragment.querySelector('.card-link');
+
+      card.dataset.source = item.source;
+      card.classList.toggle('is-lead', index === 0);
+      badge.textContent = item.sourceLabel || SOURCE_LABELS[item.source] || item.source;
+      time.dateTime = item.publishedAt;
+      time.textContent = formatDate(item.publishedAt);
+      title.textContent = item.title;
+      description.textContent = item.description || 'Bekijk het volledige bericht bij de bron.';
+      link.href = item.url;
+      link.setAttribute('aria-label', `${item.title} — lees bij ${badge.textContent}`);
+
+      elements.grid.appendChild(fragment);
+    });
   }
 
-  items.forEach((item) => {
-    const li = document.createElement('li');
-    li.className = 'item';
+  const noun = items.length === 1 ? 'bericht' : 'berichten';
+  elements.resultCount.textContent = `${items.length} ${noun} zichtbaar`;
+}
 
-    const title = document.createElement('a');
-    title.href = item.link;
-    title.target = '_blank';
-    title.rel = 'noopener noreferrer';
-    title.textContent = item.title || 'Zonder titel';
+function renderCounts() {
+  const counts = state.items.reduce(
+    (result, item) => {
+      result.all += 1;
+      result[item.source] = (result[item.source] || 0) + 1;
+      return result;
+    },
+    { all: 0, rijksoverheid: 0, acm: 0, eu: 0 }
+  );
 
-    const meta = document.createElement('div');
-    meta.className = 'meta';
-    meta.textContent = formatDate(item.pubDate);
+  Object.entries(counts).forEach(([source, count]) => {
+    const target = document.getElementById(`count-${source}`);
+    if (target) target.textContent = count;
+  });
 
-    li.appendChild(title);
-    li.appendChild(meta);
-    pubList.appendChild(li);
+  elements.articleCount.textContent = counts.all;
+}
+
+function renderSourceHealth(sources = {}) {
+  elements.sourceHealth.replaceChildren();
+
+  Object.entries(SOURCE_LABELS).forEach(([key, label]) => {
+    const status = sources[key] || {};
+    const item = document.createElement('div');
+    item.className = 'health-item';
+
+    const dot = document.createElement('span');
+    dot.className = `health-dot health-${status.status || 'unknown'}`;
+    dot.setAttribute('aria-hidden', 'true');
+
+    const name = document.createElement('strong');
+    name.textContent = label;
+
+    const text = document.createElement('span');
+    text.textContent =
+      status.status === 'ok'
+        ? 'actueel'
+        : status.status === 'partial'
+          ? 'deels ververst'
+          : status.status === 'fallback'
+            ? 'laatst bekende versie'
+            : 'status onbekend';
+
+    item.append(dot, name, text);
+    elements.sourceHealth.appendChild(item);
   });
 }
 
-function renderDebatten(items) {
-  clearList(debateList);
+function resetFilters() {
+  state.source = 'all';
+  state.query = '';
+  elements.search.value = '';
+  document.querySelectorAll('.filter-button').forEach((button) => {
+    button.classList.toggle('is-active', button.dataset.source === 'all');
+  });
+  renderNews();
+}
 
-  if (!items.length) {
-    appendEmpty(debateList, 'Geen aankomende energie/klimaatdebatten gevonden.');
-    return;
-  }
+function bindControls() {
+  document.querySelectorAll('.filter-button').forEach((button) => {
+    button.addEventListener('click', () => {
+      state.source = button.dataset.source;
+      document.querySelectorAll('.filter-button').forEach((candidate) => {
+        candidate.classList.toggle('is-active', candidate === button);
+      });
+      renderNews();
+    });
+  });
 
-  items.forEach((item) => {
-    const li = document.createElement('li');
-    li.className = 'item';
+  elements.search.addEventListener('input', (event) => {
+    state.query = event.target.value;
+    renderNews();
+  });
 
-    const title = document.createElement('a');
-    title.href = item.url;
-    title.target = '_blank';
-    title.rel = 'noopener noreferrer';
-    title.textContent = item.onderwerp || '(zonder onderwerp)';
+  document.addEventListener('keydown', (event) => {
+    if (
+      event.key === '/' &&
+      document.activeElement !== elements.search &&
+      !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)
+    ) {
+      event.preventDefault();
+      elements.search.focus();
+    }
 
-    const details = [formatDate(item.datum), formatTime(item.aanvangstijd), item.soort, item.locatie]
-      .filter(Boolean)
-      .join(' | ');
-
-    const meta = document.createElement('div');
-    meta.className = 'meta';
-    meta.textContent = details;
-
-    li.appendChild(title);
-    li.appendChild(meta);
-    debateList.appendChild(li);
+    if (event.key === 'Escape' && document.activeElement === elements.search) {
+      elements.search.value = '';
+      state.query = '';
+      renderNews();
+      elements.search.blur();
+    }
   });
 }
 
-async function loadPublicaties() {
-  pubStatus.textContent = 'Publicaties laden...';
+function showLoadError(error) {
+  elements.grid.replaceChildren();
+  elements.grid.setAttribute('aria-busy', 'false');
+
+  const empty = document.createElement('div');
+  empty.className = 'empty-state error-state';
+  const title = document.createElement('h3');
+  title.textContent = 'Het nieuws kon niet worden geladen';
+  const copy = document.createElement('p');
+  copy.textContent = 'Ververs de pagina over een moment opnieuw.';
+  empty.append(title, copy);
+  elements.grid.appendChild(empty);
+
+  elements.resultCount.textContent = 'Tijdelijk niet beschikbaar';
+  elements.headerStatus.textContent = 'Verversen mislukt';
+  console.error(error);
+}
+
+async function loadNews() {
   try {
-    const response = await fetch('data/publicaties.json', { cache: 'no-store' });
+    const response = await fetch(`data/nieuws.json?v=${Date.now()}`, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`Nieuwsbestand gaf status ${response.status}`);
+
     const data = await response.json();
+    state.items = Array.isArray(data.items) ? data.items : [];
 
-    if (!response.ok) {
-      throw new Error(data.error || 'Onbekende fout');
-    }
+    renderCounts();
+    renderSourceHealth(data.sources);
+    renderNews();
 
-    renderPublicaties(data.items || []);
-    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDateTime(data.updatedAt)}.` : '';
-    pubStatus.textContent = `${(data.items || []).length} publicaties gevonden.${suffix}`;
+    const updated = formatDateTime(data.updatedAt);
+    elements.updatedAt.textContent = `Bijgewerkt ${updated}`;
+    elements.headerStatus.textContent = `Bijgewerkt ${updated}`;
   } catch (error) {
-    clearList(pubList);
-    appendEmpty(pubList, 'Er ging iets mis bij het ophalen van publicaties.');
-    pubStatus.textContent = `Fout: ${error.message}`;
+    showLoadError(error);
   }
 }
 
-async function loadDebatten() {
-  debateStatus.textContent = 'Debatten laden...';
-  try {
-    const response = await fetch('data/debatten.json', { cache: 'no-store' });
-    const data = await response.json();
-
-    if (!response.ok) {
-      throw new Error(data.error || 'Onbekende fout');
-    }
-
-    renderDebatten(data.items || []);
-    const suffix = data.updatedAt ? ` Laatst ververst: ${formatDateTime(data.updatedAt)}.` : '';
-    debateStatus.textContent = `${(data.items || []).length} aankomende debatten gevonden.${suffix}`;
-  } catch (error) {
-    clearList(debateList);
-    appendEmpty(debateList, 'Er ging iets mis bij het ophalen van debatten.');
-    debateStatus.textContent = `Fout: ${error.message}`;
-  }
-}
-
-loadPublicaties();
-loadDebatten();
+bindControls();
+loadNews();
