@@ -4,6 +4,8 @@ import path from 'node:path';
 
 const OUTPUT_PATH = path.resolve('data', 'nieuws.json');
 const MAX_ITEMS_PER_SOURCE = 20;
+const ACM_RELEVANCE_PATTERN =
+  /\b(energie|elektric|gas|warmte|remit|afleverset|netbeheer|netcongest|nettarief|distributiesysteem|gesloten systeem|hv station|brandstof|benzine|diesel|laad|zonne|wind|waterstof|emissie|klimaat|duurzaam|energietransitie|salder|stroom|energielever)/i;
 
 const SOURCE_LABELS = {
   rijksoverheid: 'Rijksoverheid',
@@ -46,7 +48,7 @@ const FEEDS = [
   {
     source: 'acm',
     name: 'ACM · energie',
-    url: 'https://www.acm.nl/nl/nieuws/rss/publicaties?field_subjects=6320&publication_type=1'
+    url: 'https://www.acm.nl/nl/nieuws/rss/publicaties?field_subjects[0]=6320&publication_type[0]=1'
   },
   {
     source: 'eu',
@@ -80,12 +82,18 @@ function extractTag(block, tagName) {
 }
 
 function plainText(value = '') {
-  return decodeXmlEntities(value)
+  const text = decodeXmlEntities(value)
     .replace(/<script[\s\S]*?<\/script>/gi, ' ')
     .replace(/<style[\s\S]*?<\/style>/gi, ' ')
     .replace(/<[^>]+>/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
+
+  if (!/[ÃÂâ]/.test(text)) return text;
+
+  const repaired = Buffer.from(text, 'latin1').toString('utf8');
+  const corruptionScore = (candidate) => (candidate.match(/[ÃÂâ�]/g) || []).length;
+  return corruptionScore(repaired) < corruptionScore(text) ? repaired : text;
 }
 
 function shorten(value, maximum = 260) {
@@ -181,6 +189,12 @@ async function main() {
     if (!successful.length) {
       sourceItems = (previous.items || []).filter((item) => item.source === source);
       status = 'fallback';
+    }
+
+    if (source === 'acm') {
+      sourceItems = sourceItems.filter((item) =>
+        ACM_RELEVANCE_PATTERN.test(`${item.title} ${item.description}`)
+      );
     }
 
     sourceItems = deduplicate(sourceItems)
