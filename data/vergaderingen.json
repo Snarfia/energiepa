@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T11:37:26.723Z",
+  "updatedAt": "2026-07-27T15:12:12.014Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -117,19 +117,6 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05329",
       "language": "nl"
-    },
-    {
-      "id": "eu-71c77128a860",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Implementation Dialogue on Renewable Energy Policy with Commissioner Dan Jørgensen",
-      "startAt": "2026-09-10T09:00:00",
-      "endAt": "2026-09-10T11:00:00",
-      "location": "Berlaymont Building, Brussels, Belgium",
-      "type": "Europees energie-evenement",
-      "description": "The Implementation Dialogue with Dan Jørgensen, Commissioner for Energy and Housing, will bring together stakeholders in Brussels to discuss the uptake of renewable energy in end-use sectors (industry, buildings and…",
-      "url": "https://energy.ec.europa.eu/events/implementation-dialogue-renewable-energy-policy-commissioner-dan-jorgensen-2026-09-10_en",
-      "language": "en"
     },
     {
       "id": "nl-d20ba6d682fc",
@@ -345,14 +332,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-27T11:37:26.722Z",
+      "updatedAt": "2026-07-27T15:12:12.014Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-07-27T11:37:26.723Z",
+      "count": 5,
+      "updatedAt": "2026-07-27T15:12:12.014Z",
       "error": null
     }
   }
