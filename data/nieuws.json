@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T04:00:20.563Z",
+  "updatedAt": "2026-07-27T07:48:30.366Z",
   "items": [
     {
       "id": "acm-b187322093d7",
@@ -90,17 +90,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-02b0f6d8dc06",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM wijzigt GS erkenning van Academisch Ziekenhuis Maastricht",
-      "description": "De ACM wijzigt de geografische afbakening van de erkenning van het gesloten systeem voor elektriciteit van het Academisch Ziekenhuis Maastricht.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-gs-erkenning-van-academisch-ziekenhuis-maastricht",
-      "publishedAt": "2026-07-23T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "acm-539d5ec09ed2",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -108,6 +97,17 @@
       "title": "ACM wijzigt erkenning van Vogelweg HV Station",
       "description": "De ACM breidt de erkenning van Vogelweg HV Station B.V. uit met één nieuwe aangeslotene.",
       "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-vogelweg-hv-station",
+      "publishedAt": "2026-07-23T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-02b0f6d8dc06",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM wijzigt GS erkenning van Academisch Ziekenhuis Maastricht",
+      "description": "De ACM wijzigt de geografische afbakening van de erkenning van het gesloten systeem voor elektriciteit van het Academisch Ziekenhuis Maastricht.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-gs-erkenning-van-academisch-ziekenhuis-maastricht",
       "publishedAt": "2026-07-23T07:30:00.000Z",
       "language": "nl"
     },
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-27T04:00:20.563Z",
+      "updatedAt": "2026-07-27T07:48:30.366Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-07-27T04:00:20.563Z",
+      "updatedAt": "2026-07-27T07:48:30.366Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-27T04:00:20.563Z",
+      "updatedAt": "2026-07-27T07:48:30.366Z",
       "failedFeeds": []
     }
   }
