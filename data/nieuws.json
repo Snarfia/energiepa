@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-07-28T06:39:14.400Z",
+  "updatedAt": "2026-07-28T10:44:55.904Z",
   "items": [
+    {
+      "id": "acm-3ca414368275",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Gewijzigde besluiten over rendementstoets warmteleverancier",
+      "description": "De ACM heeft besluiten over het redelijk rendement van warmteleveranciers gewijzigd naar aanleiding van een beroepsprocedure bij het College van Beroep voor het bedrijfsleven (CBb).",
+      "url": "https://www.acm.nl/nl/publicaties/gewijzigde-besluiten-over-rendementstoets-warmteleverancier",
+      "publishedAt": "2026-07-28T08:47:12.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-f37c8391f0c2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Codebesluit inkoopprocedure niet-frequentiegerelateerde ondersteunende diensten",
+      "description": "De ACM heeft een besluit genomen over het voorstel van Netbeheer Nederland tot wijziging van de Systeemcode om de inkoopprocedures voor niet-frequentiegerelateerde ondersteunende diensten op te nemen.",
+      "url": "https://www.acm.nl/nl/publicaties/codebesluit-inkoopprocedure-niet-frequentiegerelateerde-ondersteunende-diensten",
+      "publishedAt": "2026-07-28T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-b187322093d7",
       "source": "acm",
@@ -134,17 +156,6 @@
       "language": "en"
     },
     {
-      "id": "acm-b0a35af3859d",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Reactie ACM dagvaarding Stichting Benadeelden in Actie wegens faillissement Flexenergie",
-      "description": "De Flex Energie kreeg een vergunning omdat het aan de wettelijke eisen voldeed. De ACM heeft toezicht gehouden en handhavend opgetreden waar nodig.",
-      "url": "https://www.acm.nl/nl/publicaties/reactie-acm-dagvaarding-stichting-benadeelden-actie-wegens-faillissement-flexenergie",
-      "publishedAt": "2026-07-21T12:50:23.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-c77be2790f73",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -165,17 +176,6 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1651",
       "publishedAt": "2026-07-20T13:30:31.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-e743c981fc3f",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Monitor Brandstofprijzen ACM: flinke besparing mogelijk door keuze tankstation",
-      "description": "Automobilisten kunnen flink besparen op benzine en diesel door de keuze voor een tankstation. In veel gevallen scheelt het tot ongeveer 25 eurocent per liter. Dat is voor een volle tank zo’n €12,50. Dat blijkt uit de Monitor Brandstofprijzen van de ACM.",
-      "url": "https://www.acm.nl/nl/publicaties/monitor-brandstofprijzen-acm-flinke-besparing-mogelijk-door-keuze-tankstation",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-d86b72203fc3",
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-28T06:39:14.399Z",
+      "updatedAt": "2026-07-28T10:44:55.903Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-07-28T06:39:14.400Z",
+      "updatedAt": "2026-07-28T10:44:55.904Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-28T06:39:14.400Z",
+      "updatedAt": "2026-07-28T10:44:55.904Z",
       "failedFeeds": []
     }
   }
