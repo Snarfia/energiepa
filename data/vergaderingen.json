@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:14:34.701Z",
+  "updatedAt": "2026-07-29T03:36:36.029Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -292,9 +292,9 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "19th European Nuclear Energy Forum",
-      "startAt": "2026-10-12T13:00:00",
-      "endAt": "2026-10-13T14:00:00",
-      "location": "Prague, Czechia",
+      "startAt": "2026-10-12T09:00:00+02:00",
+      "endAt": "2026-10-12T09:00:00+02:00",
+      "location": "Europa / online",
       "type": "Europees energie-evenement",
       "description": "19th European Nuclear Energy Forum",
       "url": "https://energy.ec.europa.eu/events/19th-european-nuclear-energy-forum-2026-10-12_en",
@@ -332,14 +332,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-28T23:14:34.701Z",
+      "updatedAt": "2026-07-29T03:36:36.029Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-07-28T23:14:34.701Z",
+      "updatedAt": "2026-07-29T03:36:36.029Z",
       "error": null
     }
   }
