@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T06:39:52.340Z",
+  "updatedAt": "2026-07-30T10:33:47.519Z",
   "items": [
     {
       "id": "acm-3ca414368275",
@@ -109,28 +109,6 @@
       "description": "De ACM geeft aan de hand van grafieken en indicatoren inzicht in het toezichtwerk op het gebied van REMIT.",
       "url": "https://www.acm.nl/nl/publicaties/indicatoren-toezichtwerk-acm-op-het-gebied-van-remit",
       "publishedAt": "2026-07-23T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-539d5ec09ed2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM wijzigt erkenning van Vogelweg HV Station",
-      "description": "De ACM breidt de erkenning van Vogelweg HV Station B.V. uit met één nieuwe aangeslotene.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-vogelweg-hv-station",
-      "publishedAt": "2026-07-23T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-02b0f6d8dc06",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM wijzigt GS erkenning van Academisch Ziekenhuis Maastricht",
-      "description": "De ACM wijzigt de geografische afbakening van de erkenning van het gesloten systeem voor elektriciteit van het Academisch Ziekenhuis Maastricht.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-gs-erkenning-van-academisch-ziekenhuis-maastricht",
-      "publishedAt": "2026-07-23T07:30:00.000Z",
       "language": "nl"
     },
     {
@@ -524,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-30T06:39:52.339Z",
+      "updatedAt": "2026-07-30T10:33:47.519Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-07-30T06:39:52.340Z",
+      "count": 5,
+      "updatedAt": "2026-07-30T10:33:47.519Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-30T06:39:52.340Z",
+      "updatedAt": "2026-07-30T10:33:47.519Z",
       "failedFeeds": []
     }
   }
