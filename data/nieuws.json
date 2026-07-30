@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-07-30T14:29:53.501Z",
+  "updatedAt": "2026-07-30T17:46:49.188Z",
   "items": [
+    {
+      "id": "eu-3456f892bcb7",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Revised 2026 and 2027 EU ETS1 auction calendars published",
+      "description": "Today, the European Energy Exchange (EEX) published the revised 2026 and the new 2027 EU ETS1 auction calendars.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2026-and-2027-eu-ets1-auction-calendars-published-2026-07-30_en",
+      "publishedAt": "2026-07-30T16:30:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-3ca414368275",
       "source": "acm",
@@ -277,17 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-234c28ee8753",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Energy use for cooling in EU households doubled in 6 years",
-      "description": "In EU households, energy consumption for cooling has steadily increased, reaching 80.4 thousand terajoules (TJ) in 2024.",
-      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260708-1",
-      "publishedAt": "2026-07-13T07:46:20.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -502,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-30T14:29:53.500Z",
+      "updatedAt": "2026-07-30T17:46:49.188Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-07-30T14:29:53.501Z",
+      "updatedAt": "2026-07-30T17:46:49.188Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-07-30T14:29:53.501Z",
+      "updatedAt": "2026-07-30T17:46:49.188Z",
       "failedFeeds": []
     }
   }
