@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-03T07:44:51.377Z",
+  "updatedAt": "2026-08-03T11:43:00.418Z",
   "items": [
+    {
+      "id": "acm-6b139e556dd4",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM zet GDS ontheffing TU Delft om in een erkenning voor een GS",
+      "description": "De ACM zet de ontheffing van Technische Universiteit Delft voor het beheer van een eigen elektriciteitsnet om in een erkenning voor een gesloten elektriciteitssysteem, wijst een beheerder aan en wijzigt de erkenning.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-zet-gds-ontheffing-tu-delft-om-een-erkenning-voor-een-gs",
+      "publishedAt": "2026-08-03T11:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-3456f892bcb7",
       "source": "eu",
@@ -35,17 +46,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-b187322093d7",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Uitspraak rechtbank: Besluit ACM over tarieven afleversets Ennatuurlijk onvoldoende gemotiveerd",
-      "description": "De rechtbank concludeert dat de ACM niet overtuigend heeft gemotiveerd waarom montagewerkzaamheden bij verschillende typen afleversets dezelfde zouden zijn.",
-      "url": "https://www.acm.nl/nl/publicaties/uitspraak-rechtbank-besluit-acm-over-tarieven-afleversets-ennatuurlijk-onvoldoende-gemotiveerd",
-      "publishedAt": "2026-07-24T14:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-1d08d054cad7",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -55,17 +55,6 @@
       "url": "https://energy.ec.europa.eu/news/new-ecodesign-rules-industrial-fans-apply-24-july-2026-07-24_en",
       "publishedAt": "2026-07-24T08:00:38.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-c085224a32c0",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Vergunning van Energiek 2 komt op naam van Inwarmte Projecten",
-      "description": "De vergunning voor de levering van warmte aan kleinverbruikers van Energiek 2 B.V. wordt op naam gesteld van Inwarmte Projecten B.V.",
-      "url": "https://www.acm.nl/nl/publicaties/vergunning-van-energiek-2-komt-op-naam-van-inwarmte-projecten",
-      "publishedAt": "2026-07-24T08:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-85a3fb6c9eee",
@@ -110,17 +99,6 @@
       "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260723-1",
       "publishedAt": "2026-07-23T09:32:47.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-c043238d36b4",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Indicatoren toezichtwerk ACM op het gebied van REMIT",
-      "description": "De ACM geeft aan de hand van grafieken en indicatoren inzicht in het toezichtwerk op het gebied van REMIT.",
-      "url": "https://www.acm.nl/nl/publicaties/indicatoren-toezichtwerk-acm-op-het-gebied-van-remit",
-      "publishedAt": "2026-07-23T08:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "rijksoverheid-a08fba1e4eb4",
@@ -502,21 +480,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-03T07:44:51.376Z",
+      "updatedAt": "2026-08-03T11:43:00.417Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-08-03T07:44:51.377Z",
+      "count": 3,
+      "updatedAt": "2026-08-03T11:43:00.417Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-03T07:44:51.377Z",
+      "updatedAt": "2026-08-03T11:43:00.418Z",
       "failedFeeds": []
     }
   }
