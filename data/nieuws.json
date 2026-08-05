@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-05T06:40:37.932Z",
+  "updatedAt": "2026-08-05T10:46:02.150Z",
   "items": [
+    {
+      "id": "acm-2c029ec2e584",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Verkenning efficiëntieregulering warmte",
+      "description": "Onderzoek in opdracht van de ACM naar opties om efficiëntie van warmtebedrijven te reguleren onder de kostengebaseerde tariefregulering van de Wet collectieve warmte (WcW). Die regulering door de ACM is belangrijk, want efficiëntie draagt bij aan…",
+      "url": "https://www.acm.nl/nl/publicaties/verkenning-efficientieregulering-warmte",
+      "publishedAt": "2026-08-05T09:41:57.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-71daf5d393fa",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Onderzoek: Mogelijk grote tariefverschillen bij kostengebaseerde tarieven voor warmte",
+      "description": "De Wet collectieve warmte laat de ACM warmtetarieven straks baseren op werkelijke kosten per net, in plaats van op de huidige gasreferentie. ACM-onderzoek laat zien dat dit zonder aanvullende maatregelen voor grote verschuivingen zorgt: ongeveer de helft van…",
+      "url": "https://www.acm.nl/nl/publicaties/onderzoek-mogelijk-grote-tariefverschillen-bij-kostengebaseerde-tarieven-voor-warmte",
+      "publishedAt": "2026-08-05T09:38:27.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-6b139e556dd4",
       "source": "acm",
@@ -32,17 +54,6 @@
       "description": "De ACM heeft besluiten over het redelijk rendement van warmteleveranciers gewijzigd naar aanleiding van een beroepsprocedure bij het College van Beroep voor het bedrijfsleven (CBb).",
       "url": "https://www.acm.nl/nl/publicaties/gewijzigde-besluiten-over-rendementstoets-warmteleverancier",
       "publishedAt": "2026-07-28T08:47:12.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-f37c8391f0c2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Codebesluit inkoopprocedure niet-frequentiegerelateerde ondersteunende diensten",
-      "description": "De ACM heeft een besluit genomen over het voorstel van Netbeheer Nederland tot wijziging van de Systeemcode om de inkoopprocedures voor niet-frequentiegerelateerde ondersteunende diensten op te nemen.",
-      "url": "https://www.acm.nl/nl/publicaties/codebesluit-inkoopprocedure-niet-frequentiegerelateerde-ondersteunende-diensten",
-      "publishedAt": "2026-07-28T08:00:00.000Z",
       "language": "nl"
     },
     {
@@ -480,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-05T06:40:37.931Z",
+      "updatedAt": "2026-08-05T10:46:02.149Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-08-05T06:40:37.932Z",
+      "count": 4,
+      "updatedAt": "2026-08-05T10:46:02.150Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-05T06:40:37.932Z",
+      "updatedAt": "2026-08-05T10:46:02.150Z",
       "failedFeeds": []
     }
   }
