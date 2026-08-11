@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:55:18.120Z",
+  "updatedAt": "2026-08-11T02:25:52.520Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -332,15 +332,15 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-10T22:55:18.119Z",
+      "updatedAt": "2026-08-11T02:25:52.520Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
-      "status": "fallback",
+      "status": "ok",
       "count": 5,
-      "updatedAt": "2026-08-10T22:55:18.120Z",
-      "error": "https://energy.ec.europa.eu/node/4/rss_en: HTTP 403"
+      "updatedAt": "2026-08-11T02:25:52.520Z",
+      "error": null
     }
   }
 }
