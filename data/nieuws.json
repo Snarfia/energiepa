@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-11T11:04:07.635Z",
+  "updatedAt": "2026-08-11T13:40:26.922Z",
   "items": [
+    {
+      "id": "eu-be3fc99c8420",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Europe’s electricity system remains stable despite extreme weather",
+      "description": "The Electricity Coordination Group met to discuss the electricity security of supply, in light of the heatwaves and drought currently affecting parts of Europe.",
+      "url": "https://energy.ec.europa.eu/news/europes-electricity-system-remains-stable-despite-extreme-weather-2026-08-11_en",
+      "publishedAt": "2026-08-11T13:36:12.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-6fbc5e3f6777",
       "source": "acm",
@@ -277,17 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-5e6fc8bcdc30",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Flash Eurobarometer: Europeans call for stronger action on children's online safety, democratic resilience, defence, and the energy transition",
-      "description": "The survey found that more than half of respondents (56%) believe that developing more renewable energy capacity can help the EU to transition away from fossil fuels, while 2 in 5 respondents point to energy efficiency measures. 32% also see nuclear energy…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1589",
-      "publishedAt": "2026-07-13T11:29:16.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -502,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-11T11:04:07.634Z",
+      "updatedAt": "2026-08-11T13:40:26.922Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-08-11T11:04:07.635Z",
+      "updatedAt": "2026-08-11T13:40:26.922Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-11T11:04:07.635Z",
+      "updatedAt": "2026-08-11T13:40:26.922Z",
       "failedFeeds": []
     }
   }
