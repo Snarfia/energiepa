@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-12T07:50:29.504Z",
+  "updatedAt": "2026-08-12T09:30:53.040Z",
   "items": [
+    {
+      "id": "acm-90e7876c0f8a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Wavin mag eigen gassysteem beheren",
+      "description": "De ACM erkent het stelsel van gasleidingen van Wavin Diensten B.V. als gesloten systeem.",
+      "url": "https://www.acm.nl/nl/publicaties/wavin-mag-eigen-gassysteem-beheren",
+      "publishedAt": "2026-08-12T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-be3fc99c8420",
       "source": "eu",
@@ -502,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-12T07:50:29.503Z",
+      "updatedAt": "2026-08-12T09:30:53.039Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-08-12T07:50:29.504Z",
+      "count": 6,
+      "updatedAt": "2026-08-12T09:30:53.039Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-12T07:50:29.504Z",
+      "updatedAt": "2026-08-12T09:30:53.040Z",
       "failedFeeds": []
     }
   }
