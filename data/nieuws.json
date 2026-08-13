@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-13T05:47:22.616Z",
+  "updatedAt": "2026-08-13T07:51:25.813Z",
   "items": [
+    {
+      "id": "acm-3d280f665208",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Cruiseaanbieder past duurzaamheidsclaims aan na actie ACM",
+      "description": "Cruiseaanbieder Captain Cruise heeft niet-onderbouwde duurzaamheidsclaims over reizen op de website aangepast. Dit gebeurt nadat de ACM het bedrijf hierop had aangesproken.",
+      "url": "https://www.acm.nl/nl/publicaties/cruiseaanbieder-past-duurzaamheidsclaims-aan-na-actie-acm",
+      "publishedAt": "2026-08-13T07:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-90e7876c0f8a",
       "source": "acm",
@@ -513,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-13T05:47:22.616Z",
+      "updatedAt": "2026-08-13T07:51:25.812Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-08-13T05:47:22.616Z",
+      "count": 7,
+      "updatedAt": "2026-08-13T07:51:25.813Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-13T05:47:22.616Z",
+      "updatedAt": "2026-08-13T07:51:25.813Z",
       "failedFeeds": []
     }
   }
