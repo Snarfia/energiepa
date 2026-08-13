@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-13T09:32:09.180Z",
+  "updatedAt": "2026-08-13T11:10:08.116Z",
   "items": [
+    {
+      "id": "acm-3616bb8d4182",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Energiemonitor ACM: toename aantal dynamische contracten zet door",
+      "description": "Het aantal huishoudens dat een dynamisch contract afsloot is ook in juli toegenomen, terwijl het aantal mensen met een vast energiecontract opnieuw daalde. Dit blijkt uit de Energiemonitor van de ACM.",
+      "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-toename-aantal-dynamische-contracten-zet-door",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-3d280f665208",
       "source": "acm",
@@ -524,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-13T09:32:09.179Z",
+      "updatedAt": "2026-08-13T11:10:08.115Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-08-13T09:32:09.180Z",
+      "count": 8,
+      "updatedAt": "2026-08-13T11:10:08.116Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-13T09:32:09.180Z",
+      "updatedAt": "2026-08-13T11:10:08.116Z",
       "failedFeeds": []
     }
   }
