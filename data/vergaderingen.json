@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T13:40:24.512Z",
+  "updatedAt": "2026-08-14T15:06:11.408Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -12,19 +12,6 @@
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A05045",
-      "language": "nl"
-    },
-    {
-      "id": "nl-d56a9f6bd086",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Het onderzoek door de ACM naar de prijzen van vier leveranciers van stadswarmte en mogelijke overwinsten",
-      "startAt": "2026-09-02T10:00:00+02:00",
-      "endAt": "2026-09-02T11:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03093",
       "language": "nl"
     },
     {
@@ -142,6 +129,19 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05654",
+      "language": "nl"
+    },
+    {
+      "id": "nl-d56a9f6bd086",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Het onderzoek door de ACM naar de prijzen van vier leveranciers van stadswarmte en mogelijke overwinsten",
+      "startAt": "2026-09-10T16:00:00+02:00",
+      "endAt": "2026-09-10T17:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05992",
       "language": "nl"
     },
     {
@@ -332,14 +332,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-14T13:40:24.512Z",
+      "updatedAt": "2026-08-14T15:06:11.408Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-08-14T13:40:24.512Z",
+      "updatedAt": "2026-08-14T15:06:11.408Z",
       "error": null
     }
   }
