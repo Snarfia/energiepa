@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-14T15:06:10.428Z",
+  "updatedAt": "2026-08-14T17:09:42.961Z",
   "items": [
+    {
+      "id": "eu-0510fd0fe4d5",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: EU economy greenhouse gas emissions: +0.3% in Q1 2026",
+      "description": "The economic sector with the largest increase in greenhouse gas emissions was electricity, gas, steam and air conditioning supply (+4.8%), while households (-1.3%), manufacturing and transportation and storage (both -0.6%) recorded the biggest decreases.",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260814-1",
+      "publishedAt": "2026-08-14T15:18:35.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-9cd9821642be",
       "source": "eu",
@@ -310,17 +321,6 @@
       "language": "en"
     },
     {
-      "id": "eu-1396494eef41",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "REPowerEU auction revenue target reached",
-      "description": "The auction calendar has been adjusted following the suspension of the auctioning of the second leg of emission allowances allocated to the Recovery and Resilience Facility (RRF).",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/repowereu-auction-revenue-target-reached-2026-07-13_en",
-      "publishedAt": "2026-07-13T16:47:24.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -535,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-14T15:06:10.428Z",
+      "updatedAt": "2026-08-14T17:09:42.960Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-08-14T15:06:10.428Z",
+      "updatedAt": "2026-08-14T17:09:42.961Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-14T15:06:10.428Z",
+      "updatedAt": "2026-08-14T17:09:42.961Z",
       "failedFeeds": []
     }
   }
