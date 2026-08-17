@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:42:56.390Z",
+  "updatedAt": "2026-08-17T16:44:21.265Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -332,14 +332,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-17T14:42:56.390Z",
+      "updatedAt": "2026-08-17T16:44:21.265Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-08-17T14:42:56.390Z",
+      "updatedAt": "2026-08-17T16:44:21.265Z",
       "error": null
     }
   }
