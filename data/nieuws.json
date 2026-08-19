@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-19T07:03:45.631Z",
+  "updatedAt": "2026-08-19T08:52:58.664Z",
   "items": [
+    {
+      "id": "acm-a6ad7cb42725",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Uitspraak CBb: Tariefbesluiten GTS Gas 2025 en 2026 blijven in stand",
+      "description": "Het CBb verklaart het beroep van Luminus tegen de Tariefbesluiten GTS Gas 2025 en 2026 niet-ontvankelijk.",
+      "url": "https://www.acm.nl/nl/publicaties/uitspraak-cbb-tariefbesluiten-gts-gas-2025-en-2026-blijven-stand",
+      "publishedAt": "2026-08-19T07:30:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-0510fd0fe4d5",
       "source": "eu",
@@ -79,17 +90,6 @@
       "language": "en"
     },
     {
-      "id": "acm-93f710d0722a",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Brief aan alle vergunninghoudende energieleveranciers",
-      "description": "In een brief aan alle leveranciers van elektriciteit en gas die leveren aan huishoudelijke afnemers en/of micro-ondernemingen informeert de ACM hen over het implementeren van nieuwe regelgeving (ETS-2, bijmengverplichting groen gas en afschaffing…",
-      "url": "https://www.acm.nl/nl/publicaties/brief-aan-alle-vergunninghoudende-energieleveranciers",
-      "publishedAt": "2026-08-06T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "acm-6fbc5e3f6777",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -97,6 +97,17 @@
       "title": "Energieleveranciers mogen contracten met vaste prijs niet aanpassen als ETS-2 en bijmengverplichting groen gas ingaan",
       "description": "Energieleveranciers mogen geen vaste contracten voor de levering van gas aanbieden waarbij de prijs aangepast kan worden als de nieuwe regels rond de CO2-heffing (ETS-2) en de bijmengverplichting voor groen gas ingaan. De ACM heeft energieleveranciers die…",
       "url": "https://www.acm.nl/nl/publicaties/energieleveranciers-mogen-contracten-met-vaste-prijs-niet-aanpassen-als-ets-2-en-bijmengverplichting-groen-gas-ingaan",
+      "publishedAt": "2026-08-06T08:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-93f710d0722a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Brief aan alle vergunninghoudende energieleveranciers",
+      "description": "In een brief aan alle leveranciers van elektriciteit en gas die leveren aan huishoudelijke afnemers en/of micro-ondernemingen informeert de ACM hen over het implementeren van nieuwe regelgeving (ETS-2, bijmengverplichting groen gas en afschaffing…",
+      "url": "https://www.acm.nl/nl/publicaties/brief-aan-alle-vergunninghoudende-energieleveranciers",
       "publishedAt": "2026-08-06T08:00:00.000Z",
       "language": "nl"
     },
@@ -120,17 +131,6 @@
       "description": "De Wet collectieve warmte laat de ACM warmtetarieven straks baseren op werkelijke kosten per net, in plaats van op de huidige gasreferentie. ACM-onderzoek laat zien dat dit zonder aanvullende maatregelen voor grote verschuivingen zorgt: ongeveer de helft van…",
       "url": "https://www.acm.nl/nl/publicaties/onderzoek-mogelijk-grote-tariefverschillen-bij-kostengebaseerde-tarieven-voor-warmte",
       "publishedAt": "2026-08-05T09:38:27.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-6b139e556dd4",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM zet GDS ontheffing TU Delft om in een erkenning voor een GS",
-      "description": "De ACM zet de ontheffing van Technische Universiteit Delft voor het beheer van een eigen elektriciteitsnet om in een erkenning voor een gesloten elektriciteitssysteem, wijst een beheerder aan en wijzigt de erkenning.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-zet-gds-ontheffing-tu-delft-om-een-erkenning-voor-een-gs",
-      "publishedAt": "2026-08-03T11:00:00.000Z",
       "language": "nl"
     },
     {
@@ -535,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-19T07:03:45.630Z",
+      "updatedAt": "2026-08-19T08:52:58.663Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-08-19T07:03:45.630Z",
+      "updatedAt": "2026-08-19T08:52:58.664Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-19T07:03:45.630Z",
+      "updatedAt": "2026-08-19T08:52:58.664Z",
       "failedFeeds": []
     }
   }
