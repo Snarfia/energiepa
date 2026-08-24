@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-24T09:02:46.589Z",
+  "updatedAt": "2026-08-24T10:52:07.720Z",
   "items": [
+    {
+      "id": "acm-7a44800cfc4d",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM organiseert symposium over de toekomst van het Europese energiesysteem",
+      "description": "De ACM organiseert op 24 september 2026 het ACM Energizer symposium over het thema 'Samen geven we vorm aan het Europese energiesysteem van de toekomst'.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-organiseert-symposium-over-de-toekomst-van-het-europese-energiesysteem",
+      "publishedAt": "2026-08-24T13:52:27.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-b712faa90d7f",
       "source": "eu",
@@ -131,17 +142,6 @@
       "description": "Onderzoek in opdracht van de ACM naar opties om efficiëntie van warmtebedrijven te reguleren onder de kostengebaseerde tariefregulering van de Wet collectieve warmte (WcW). Die regulering door de ACM is belangrijk, want efficiëntie draagt bij aan…",
       "url": "https://www.acm.nl/nl/publicaties/verkenning-efficientieregulering-warmte",
       "publishedAt": "2026-08-05T09:41:57.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-71daf5d393fa",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Onderzoek: Mogelijk grote tariefverschillen bij kostengebaseerde tarieven voor warmte",
-      "description": "De Wet collectieve warmte laat de ACM warmtetarieven straks baseren op werkelijke kosten per net, in plaats van op de huidige gasreferentie. ACM-onderzoek laat zien dat dit zonder aanvullende maatregelen voor grote verschuivingen zorgt: ongeveer de helft van…",
-      "url": "https://www.acm.nl/nl/publicaties/onderzoek-mogelijk-grote-tariefverschillen-bij-kostengebaseerde-tarieven-voor-warmte",
-      "publishedAt": "2026-08-05T09:38:27.000Z",
       "language": "nl"
     },
     {
@@ -535,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-24T09:02:46.588Z",
+      "updatedAt": "2026-08-24T10:52:07.719Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-08-24T09:02:46.588Z",
+      "updatedAt": "2026-08-24T10:52:07.720Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-24T09:02:46.589Z",
+      "updatedAt": "2026-08-24T10:52:07.720Z",
       "failedFeeds": []
     }
   }
