@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-26T23:30:17.920Z",
+  "updatedAt": "2026-08-27T09:44:03.036Z",
   "items": [
+    {
+      "id": "acm-512345d8a82e",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Beslissing op bezwaar tarievenbesluit warmte 2026",
+      "description": "De ACM verklaart het bezwaar van Beweging “Stadsverwarming is te duur” tegen het tarievenbesluit warmte 2026 ongegrond.",
+      "url": "https://www.acm.nl/nl/publicaties/beslissing-op-bezwaar-tarievenbesluit-warmte-2026",
+      "publishedAt": "2026-08-27T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-7a44800cfc4d",
       "source": "acm",
@@ -119,17 +130,6 @@
       "title": "Brief aan alle vergunninghoudende energieleveranciers",
       "description": "In een brief aan alle leveranciers van elektriciteit en gas die leveren aan huishoudelijke afnemers en/of micro-ondernemingen informeert de ACM hen over het implementeren van nieuwe regelgeving (ETS-2, bijmengverplichting groen gas en afschaffing…",
       "url": "https://www.acm.nl/nl/publicaties/brief-aan-alle-vergunninghoudende-energieleveranciers",
-      "publishedAt": "2026-08-06T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-6fbc5e3f6777",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Energieleveranciers mogen contracten met vaste prijs niet aanpassen als ETS-2 en bijmengverplichting groen gas ingaan",
-      "description": "Energieleveranciers mogen geen vaste contracten voor de levering van gas aanbieden waarbij de prijs aangepast kan worden als de nieuwe regels rond de CO2-heffing (ETS-2) en de bijmengverplichting voor groen gas ingaan. De ACM heeft energieleveranciers die…",
-      "url": "https://www.acm.nl/nl/publicaties/energieleveranciers-mogen-contracten-met-vaste-prijs-niet-aanpassen-als-ets-2-en-bijmengverplichting-groen-gas-ingaan",
       "publishedAt": "2026-08-06T08:00:00.000Z",
       "language": "nl"
     },
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-26T23:30:17.920Z",
+      "updatedAt": "2026-08-27T09:44:03.036Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-08-26T23:30:17.920Z",
+      "updatedAt": "2026-08-27T09:44:03.036Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-26T23:30:17.920Z",
+      "updatedAt": "2026-08-27T09:44:03.036Z",
       "failedFeeds": []
     }
   }
