@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-08-31T05:30:43.035Z",
+  "updatedAt": "2026-08-31T13:44:44.407Z",
   "items": [
+    {
+      "id": "eu-5f604a380327",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EIB approves over €9 billion in financing to boost European businesses and energy autonomy",
+      "description": "The European Investment Bank (EIB) today approved €9.2 billion of new financing to strengthen Europe's competitiveness, accelerate the energy transition and deepen strategic partnerships around the world.",
+      "url": "https://www.eib.org/en/press/all/2026-273-eib-approves-over-eur9-billion-in-financing-to-boost-european-businesses-and-energy-autonomy",
+      "publishedAt": "2026-08-31T13:27:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-afe90852d1e8",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "UHT concept wijziging van de Energieregeling en de Regeling garanties van oorsprong",
+      "description": "De ACM heeft een UHT uitgevoerd op de concept wijziging van de Energieregeling en de Regeling garanties van oorsprong.",
+      "url": "https://www.acm.nl/nl/publicaties/uht-concept-wijziging-van-de-energieregeling-en-de-regeling-garanties-van-oorsprong",
+      "publishedAt": "2026-08-31T07:30:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-84de47dffbee",
       "source": "acm",
@@ -66,17 +88,6 @@
       "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-discusses-extreme-weather-impacts-electricity-security-supply-central-2026-08-19_en",
       "publishedAt": "2026-08-19T14:18:16.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-a6ad7cb42725",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Uitspraak CBb: Tariefbesluiten GTS Gas 2025 en 2026 blijven in stand",
-      "description": "Het CBb verklaart het beroep van Luminus tegen de Tariefbesluiten GTS Gas 2025 en 2026 niet-ontvankelijk.",
-      "url": "https://www.acm.nl/nl/publicaties/uitspraak-cbb-tariefbesluiten-gts-gas-2025-en-2026-blijven-stand",
-      "publishedAt": "2026-08-19T07:30:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-0510fd0fe4d5",
@@ -285,17 +296,6 @@
       "description": "The European Commission decided to open infringement procedures by sending letters of formal notice to all 27 EU Member States for failing to fully transpose into national law the provisions of the recast Energy Performance of Buildings Directive (EU)…",
       "url": "https://energy.ec.europa.eu/news/commission-calls-eu-countries-transpose-reinforced-rules-energy-performance-buildings-2026-07-15_en",
       "publishedAt": "2026-07-15T13:44:01.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-7ae4d2187ef6",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "National Building Renovation Plans - the Commission’s first assessment",
-      "description": "In its assessment, the Commission looked at the level of ambition of national targets, policies and measures planned, the adequacy of funding as well as the inclusiveness of public consultation.",
-      "url": "https://energy.ec.europa.eu/news/national-building-renovation-plans-commissions-first-assessment-2026-07-14_en",
-      "publishedAt": "2026-07-15T07:07:21.000Z",
       "language": "en"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-31T05:30:43.034Z",
+      "updatedAt": "2026-08-31T13:44:44.407Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-08-31T05:30:43.035Z",
+      "updatedAt": "2026-08-31T13:44:44.407Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-08-31T05:30:43.035Z",
+      "updatedAt": "2026-08-31T13:44:44.407Z",
       "failedFeeds": []
     }
   }

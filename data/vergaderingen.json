@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:30:44.089Z",
+  "updatedAt": "2026-08-31T13:44:45.964Z",
   "items": [
     {
       "id": "nl-d711b8961531",
@@ -171,6 +171,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-40387691edeb",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Wet toepassing tweerichtingscontracten ter verrekening van verschillen voor klimaat en energie",
+      "startAt": "2026-09-23T10:00:00+02:00",
+      "endAt": "2026-09-23T11:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05625",
+      "language": "nl"
+    },
+    {
       "id": "nl-1bb77dcaabfa",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -318,15 +331,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 19,
-      "updatedAt": "2026-08-31T05:30:44.089Z",
+      "count": 20,
+      "updatedAt": "2026-08-31T13:44:45.964Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-08-31T05:30:44.089Z",
+      "updatedAt": "2026-08-31T13:44:45.964Z",
       "error": null
     }
   }
