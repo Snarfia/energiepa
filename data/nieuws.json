@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:36:16.378Z",
+  "updatedAt": "2026-09-01T16:37:27.605Z",
   "items": [
     {
       "id": "eu-5f604a380327",
@@ -101,17 +101,6 @@
       "language": "en"
     },
     {
-      "id": "eu-9cd9821642be",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Confronting extreme heat, drought and wildfires: How EU-funded research is helping Europe to respond and adapt",
-      "description": "With climate change, Europe is getting warmer and heatwaves are becoming more frequent and intense.",
-      "url": "https://cinea.ec.europa.eu/news-events/news/confronting-extreme-heat-drought-and-wildfires-how-eu-funded-research-helping-europe-respond-and-2026-08-13_en",
-      "publishedAt": "2026-08-14T11:03:09.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-a9fea36b3796",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -131,17 +120,6 @@
       "description": "The Electricity Coordination Group met to discuss the electricity security of supply, in light of the heatwaves and drought currently affecting parts of Europe.",
       "url": "https://energy.ec.europa.eu/news/europes-electricity-system-remains-stable-despite-extreme-weather-2026-08-11_en",
       "publishedAt": "2026-08-11T13:36:12.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-3456f892bcb7",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Revised 2026 and 2027 EU ETS1 auction calendars published",
-      "description": "Today, the European Energy Exchange (EEX) published the revised 2026 and the new 2027 EU ETS1 auction calendars.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2026-and-2027-eu-ets1-auction-calendars-published-2026-07-30_en",
-      "publishedAt": "2026-07-30T16:30:00.000Z",
       "language": "en"
     },
     {
@@ -266,17 +244,6 @@
       "language": "en"
     },
     {
-      "id": "eu-4363ace47405",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Remembering the victims of climate disaster and building resilience",
-      "description": "Against the backdrop of a summer already marked by heatwaves and wildfires across much of Europe, the European Commission honoured those lost to and affected by the climate crisis while underlining measures to better manage climate risks and strengthen…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/remembering-victims-climate-disaster-and-building-resilience-2026-07-16_en",
-      "publishedAt": "2026-07-16T16:43:44.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-06066316fdcd",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -296,6 +263,39 @@
       "description": "The European Commission decided to open infringement procedures by sending letters of formal notice to all 27 EU Member States for failing to fully transpose into national law the provisions of the recast Energy Performance of Buildings Directive (EU)…",
       "url": "https://energy.ec.europa.eu/news/commission-calls-eu-countries-transpose-reinforced-rules-energy-performance-buildings-2026-07-15_en",
       "publishedAt": "2026-07-15T13:44:01.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-7ae4d2187ef6",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "National Building Renovation Plans - the Commission’s first assessment",
+      "description": "In its assessment, the Commission looked at the level of ambition of national targets, policies and measures planned, the adequacy of funding as well as the inclusiveness of public consultation.",
+      "url": "https://energy.ec.europa.eu/news/national-building-renovation-plans-commissions-first-assessment-2026-07-14_en",
+      "publishedAt": "2026-07-15T07:07:21.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-7dfaa715c831",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: Energy efficiency upgrades at home for 24% of people",
+      "description": "In 2025, 23.9% of the EU population lived in a dwelling in which energy efficiency was improved in the last 5 years.",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260714-1",
+      "publishedAt": "2026-07-14T12:29:59.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-f8bcb57b29f4",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission approves French State aid to support offshore wind energy",
+      "description": "This measure will contribute to the transition towards a net-zero economy.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1577",
+      "publishedAt": "2026-07-13T11:39:31.000Z",
       "language": "en"
     },
     {
@@ -513,22 +513,24 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-01T11:36:16.378Z",
+      "updatedAt": "2026-09-01T16:37:27.604Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-01T11:36:16.378Z",
+      "updatedAt": "2026-09-01T16:37:27.605Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
-      "status": "ok",
+      "status": "partial",
       "count": 20,
-      "updatedAt": "2026-09-01T11:36:16.378Z",
-      "failedFeeds": []
+      "updatedAt": "2026-09-01T16:37:27.605Z",
+      "failedFeeds": [
+        "Europese Commissie · klimaat"
+      ]
     }
   }
 }
