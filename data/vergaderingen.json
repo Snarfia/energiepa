@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-01T21:00:52.419Z",
+  "updatedAt": "2026-09-02T00:11:25.394Z",
   "items": [
-    {
-      "id": "nl-d711b8961531",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Zienswijzeprocedure Woo-verzoeken emissiegegevens (32802-146)",
-      "startAt": "2026-09-01T16:20:00+02:00",
-      "endAt": "2026-09-01T16:40:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A05045",
-      "language": "nl"
-    },
     {
       "id": "nl-3c4c7861d112",
       "source": "nl",
@@ -344,15 +331,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 21,
-      "updatedAt": "2026-09-01T21:00:52.419Z",
+      "count": 20,
+      "updatedAt": "2026-09-02T00:11:25.393Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-01T21:00:52.419Z",
+      "updatedAt": "2026-09-02T00:11:25.394Z",
       "error": null
     }
   }
