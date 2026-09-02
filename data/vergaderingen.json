@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:14:47.875Z",
+  "updatedAt": "2026-09-02T16:32:35.127Z",
   "items": [
     {
       "id": "nl-3c4c7861d112",
@@ -288,6 +288,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-6212874bd94a",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Investeringsfonds Duurzame Landbouw (IDL)",
+      "startAt": "2026-10-07T14:30:00+02:00",
+      "endAt": "2026-10-07T16:30:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Rondetafelgesprek",
+      "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04260",
+      "language": "nl"
+    },
+    {
       "id": "eu-651d75629f0f",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -331,15 +344,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 20,
-      "updatedAt": "2026-09-02T11:14:47.875Z",
+      "count": 21,
+      "updatedAt": "2026-09-02T16:32:35.127Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-02T11:14:47.875Z",
+      "updatedAt": "2026-09-02T16:32:35.127Z",
       "error": null
     }
   }

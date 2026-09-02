@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-02T11:14:46.459Z",
+  "updatedAt": "2026-09-02T16:32:33.975Z",
   "items": [
+    {
+      "id": "eu-bad343057bae",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission approves German capacity mechanism of up to €35 billion to secure electricity supply",
+      "description": "The European Commission has approved, under EU State aid rules, a capacity mechanism for Germany available from 2031.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1778",
+      "publishedAt": "2026-09-02T11:39:24.000Z",
+      "language": "en"
+    },
+    {
+      "id": "rijksoverheid-bb7027e20c01",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Nederland zet een deel van de strategische olievoorraad in",
+      "description": "Nederland zet een deel van de strategische olievoorraad in",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/02/nederland-zet-een-deel-van-de-strategische-olievoorraad-in",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-5f604a380327",
       "source": "eu",
@@ -288,17 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-1fa42bafdc6a",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "The Commission calls on EU countries to transpose the reinforced rules on the energy performance of buildings",
-      "description": "The European Commission decided to open infringement procedures by sending letters of formal notice to all 27 EU Member States for failing to fully transpose into national law the provisions of the recast Energy Performance of Buildings Directive (EU)…",
-      "url": "https://energy.ec.europa.eu/news/commission-calls-eu-countries-transpose-reinforced-rules-energy-performance-buildings-2026-07-15_en",
-      "publishedAt": "2026-07-15T13:44:01.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -495,17 +506,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/19/benoeming-leden-nieuwe-raad-voor-energie",
       "publishedAt": "2026-02-19T15:21:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-2fccae0e76ec",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "In september opent nieuwe subsidieronde voor duurzame energie",
-      "description": "Vanaf 22 september gaat de subsidieregeling Stimulering Duurzame Energieproductie en Klimaattransitie (SDE++) opnieuw van start. Dit is de belangrijkste regeling van de overheid voor duurzame energie en duurzame oplossingen door bedrijven. Voor...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/13/in-september-opent-nieuwe-subsidieronde-voor-duurzame-energie",
-      "publishedAt": "2026-02-13T15:06:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-02T11:14:46.458Z",
+      "updatedAt": "2026-09-02T16:32:33.975Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-02T11:14:46.459Z",
+      "updatedAt": "2026-09-02T16:32:33.975Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-02T11:14:46.459Z",
+      "updatedAt": "2026-09-02T16:32:33.975Z",
       "failedFeeds": []
     }
   }
