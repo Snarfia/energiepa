@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-03T11:10:36.972Z",
+  "updatedAt": "2026-09-03T16:23:42.323Z",
   "items": [
+    {
+      "id": "eu-2cd2916b81d0",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Gas Coordination Group: No immediate security of supply risk",
+      "description": "Despite lower gas storage levels compared to previous years, the Member States and the Commission consider there is no immediate risk for security of gas supply in the EU.",
+      "url": "https://energy.ec.europa.eu/news/gas-coordination-group-no-immediate-security-supply-risk-2026-09-03_en",
+      "publishedAt": "2026-09-03T15:38:37.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-bad343057bae",
       "source": "eu",
@@ -299,17 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-06066316fdcd",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission approves €300 million Irish State aid scheme for temporary electricity price relief for energy-intensive companies",
-      "description": "The European Commission has approved a €300 million Irish scheme to provide temporary electricity price relief for energy-intensive companies in line with the objectives of the Clean Industrial Deal.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1610",
-      "publishedAt": "2026-07-16T10:12:14.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-03T11:10:36.971Z",
+      "updatedAt": "2026-09-03T16:23:42.322Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-03T11:10:36.972Z",
+      "updatedAt": "2026-09-03T16:23:42.323Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-03T11:10:36.972Z",
+      "updatedAt": "2026-09-03T16:23:42.323Z",
       "failedFeeds": []
     }
   }
