@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:32:29.178Z",
+  "updatedAt": "2026-09-03T11:10:36.972Z",
   "items": [
     {
       "id": "eu-bad343057bae",
@@ -46,13 +46,13 @@
       "language": "nl"
     },
     {
-      "id": "acm-84de47dffbee",
+      "id": "acm-c1569fe7b9da",
       "source": "acm",
       "sourceLabel": "ACM",
       "feed": "ACM · energie",
-      "title": "ACM vraagt aandacht voor stijgende gastransporttarieven richting 2050",
-      "description": "Huishoudens en bedrijven die afhankelijk blijven van aardgas zullen de komende 25 jaar steeds hogere tarieven moeten betalen voor het transport van aardgas.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-vraagt-aandacht-voor-stijgende-gastransporttarieven-richting-2050",
+      "title": "Certificering distributiesysteembeheerder Stedin",
+      "description": "ACM certificeert Stedin Netbeheer B.V. als distributiesysteembeheerder voor elektriciteit en gas.",
+      "url": "https://www.acm.nl/nl/publicaties/certificering-distributiesysteembeheerder-stedin",
       "publishedAt": "2026-08-28T08:00:00.000Z",
       "language": "nl"
     },
@@ -68,13 +68,13 @@
       "language": "nl"
     },
     {
-      "id": "acm-c1569fe7b9da",
+      "id": "acm-84de47dffbee",
       "source": "acm",
       "sourceLabel": "ACM",
       "feed": "ACM · energie",
-      "title": "Certificering distributiesysteembeheerder Stedin",
-      "description": "ACM certificeert Stedin Netbeheer B.V. als distributiesysteembeheerder voor elektriciteit en gas.",
-      "url": "https://www.acm.nl/nl/publicaties/certificering-distributiesysteembeheerder-stedin",
+      "title": "ACM vraagt aandacht voor stijgende gastransporttarieven richting 2050",
+      "description": "Huishoudens en bedrijven die afhankelijk blijven van aardgas zullen de komende 25 jaar steeds hogere tarieven moeten betalen voor het transport van aardgas.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-vraagt-aandacht-voor-stijgende-gastransporttarieven-richting-2050",
       "publishedAt": "2026-08-28T08:00:00.000Z",
       "language": "nl"
     },
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-03T04:32:29.178Z",
+      "updatedAt": "2026-09-03T11:10:36.971Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-03T04:32:29.178Z",
+      "updatedAt": "2026-09-03T11:10:36.972Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-03T04:32:29.178Z",
+      "updatedAt": "2026-09-03T11:10:36.972Z",
       "failedFeeds": []
     }
   }
