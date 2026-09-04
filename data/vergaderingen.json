@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:14:53.190Z",
+  "updatedAt": "2026-09-04T16:19:26.037Z",
   "items": [
     {
       "id": "nl-c03f9bfeb0fe",
@@ -123,12 +123,25 @@
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
       "title": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "startAt": "2026-09-14T00:00:00+02:00",
-      "endAt": "2026-09-14T00:00:00+02:00",
+      "startAt": "2026-09-21T00:00:00+02:00",
+      "endAt": "2026-09-21T00:00:00+02:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
+      "language": "nl"
+    },
+    {
+      "id": "nl-cf2720b629fb",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
+      "startAt": "2026-09-21T00:00:00+02:00",
+      "endAt": "2026-09-21T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
       "language": "nl"
     },
     {
@@ -344,15 +357,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 21,
-      "updatedAt": "2026-09-04T11:14:53.190Z",
+      "count": 22,
+      "updatedAt": "2026-09-04T16:19:26.037Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-04T11:14:53.190Z",
+      "updatedAt": "2026-09-04T16:19:26.037Z",
       "error": null
     }
   }

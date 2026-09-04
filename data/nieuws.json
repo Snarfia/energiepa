@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-04T11:14:51.955Z",
+  "updatedAt": "2026-09-04T16:19:24.843Z",
   "items": [
+    {
+      "id": "eu-792385e59f21",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Preparatory study for possible new energy label for computers",
+      "description": "The European Commission has published an evaluation study assessing how a possible new EU energy label for computers would be understood and used by consumers to support more informed purchasing choices.",
+      "url": "https://energy.ec.europa.eu/news/preparatory-study-possible-new-energy-label-computers-2026-09-04_en",
+      "publishedAt": "2026-09-04T12:52:42.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-be8e972dcc43",
       "source": "acm",
@@ -299,17 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-4363ace47405",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Remembering the victims of climate disaster and building resilience",
-      "description": "Against the backdrop of a summer already marked by heatwaves and wildfires across much of Europe, the European Commission honoured those lost to and affected by the climate crisis while underlining measures to better manage climate risks and strengthen…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/remembering-victims-climate-disaster-and-building-resilience-2026-07-16_en",
-      "publishedAt": "2026-07-16T16:43:44.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T11:14:51.954Z",
+      "updatedAt": "2026-09-04T16:19:24.842Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-04T11:14:51.955Z",
+      "updatedAt": "2026-09-04T16:19:24.843Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T11:14:51.955Z",
+      "updatedAt": "2026-09-04T16:19:24.843Z",
       "failedFeeds": []
     }
   }
