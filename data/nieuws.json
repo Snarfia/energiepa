@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-04T04:28:59.270Z",
+  "updatedAt": "2026-09-04T11:14:51.955Z",
   "items": [
+    {
+      "id": "acm-be8e972dcc43",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Ontwerpbesluit publicatietijdstip biedprijsladder",
+      "description": "ACM heeft een ontwerpbesluit genomen over het voorstel van Netbeheer Nederland voor het wijzigen van de voorwaarden voor balancering. De wijziging betreft het publicatietijdstip van de biedprijsladder voor balanceringsenergie.",
+      "url": "https://www.acm.nl/nl/publicaties/ontwerpbesluit-publicatietijdstip-biedprijsladder",
+      "publishedAt": "2026-09-04T09:43:36.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-2cd2916b81d0",
       "source": "eu",
@@ -98,17 +109,6 @@
       "description": "De ACM verklaart het bezwaar van Beweging “Stadsverwarming is te duur” tegen het tarievenbesluit warmte 2026 ongegrond.",
       "url": "https://www.acm.nl/nl/publicaties/beslissing-op-bezwaar-tarievenbesluit-warmte-2026",
       "publishedAt": "2026-08-27T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-7a44800cfc4d",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM organiseert symposium over de toekomst van het Europese energiesysteem",
-      "description": "De ACM organiseert op 24 september 2026 het ACM Energizer symposium over het thema 'Samen geven we vorm aan het Europese energiesysteem van de toekomst'.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-organiseert-symposium-over-de-toekomst-van-het-europese-energiesysteem",
-      "publishedAt": "2026-08-24T13:52:27.000Z",
       "language": "nl"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T04:28:59.269Z",
+      "updatedAt": "2026-09-04T11:14:51.954Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-04T04:28:59.270Z",
+      "updatedAt": "2026-09-04T11:14:51.955Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T04:28:59.270Z",
+      "updatedAt": "2026-09-04T11:14:51.955Z",
       "failedFeeds": []
     }
   }

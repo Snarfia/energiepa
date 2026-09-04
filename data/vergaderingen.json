@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-09-04T04:29:00.614Z",
+  "updatedAt": "2026-09-04T11:14:53.190Z",
   "items": [
-    {
-      "id": "nl-3c4c7861d112",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "startAt": "2026-09-07T00:00:00+02:00",
-      "endAt": "2026-09-07T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
-      "language": "nl"
-    },
-    {
-      "id": "nl-342738630f33",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Mijnbouw (CD 3/6)",
-      "startAt": "2026-09-07T00:00:00+02:00",
-      "endAt": "2026-09-07T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04659",
-      "language": "nl"
-    },
     {
       "id": "nl-c03f9bfeb0fe",
       "source": "nl",
@@ -93,6 +67,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-342738630f33",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Mijnbouw (CD 3/6)",
+      "startAt": "2026-09-09T17:30:00+02:00",
+      "endAt": "2026-09-09T17:55:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04659",
+      "language": "nl"
+    },
+    {
       "id": "nl-d20ba6d682fc",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -129,6 +116,19 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05992",
+      "language": "nl"
+    },
+    {
+      "id": "nl-3c4c7861d112",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "startAt": "2026-09-14T00:00:00+02:00",
+      "endAt": "2026-09-14T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
       "language": "nl"
     },
     {
@@ -345,14 +345,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 21,
-      "updatedAt": "2026-09-04T04:29:00.614Z",
+      "updatedAt": "2026-09-04T11:14:53.190Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-04T04:29:00.614Z",
+      "updatedAt": "2026-09-04T11:14:53.190Z",
       "error": null
     }
   }
