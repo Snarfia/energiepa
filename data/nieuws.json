@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-04T16:19:24.843Z",
+  "updatedAt": "2026-09-04T20:44:15.131Z",
   "items": [
+    {
+      "id": "eu-78a801792693",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Notification by Germany of voluntary cancellation of allowances in the EU ETS for plants closed in 2022",
+      "description": "Germany notified to the Commission in May 2026 the exact number of allowances to be cancelled, in relation to the year 2024, during the period between 1 September and 31 December of 2026.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/notification-germany-voluntary-cancellation-allowances-eu-ets-plants-closed-2022-2026-09-04_en",
+      "publishedAt": "2026-09-04T16:45:12.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-792385e59f21",
       "source": "eu",
@@ -299,17 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-b329b33b8ff3",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission boosts Europe's competitiveness, decarbonisation and independence with Electrification Action Plan and ETS review",
-      "description": "The Commission today presents an Electrification Action Plan to make Europe the first electro-powered continent, and a stronger carbon market to support EU's industry in the clean transition and electrification.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1596",
-      "publishedAt": "2026-07-17T10:16:19.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T16:19:24.842Z",
+      "updatedAt": "2026-09-04T20:44:15.131Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-04T16:19:24.843Z",
+      "updatedAt": "2026-09-04T20:44:15.131Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-04T16:19:24.843Z",
+      "updatedAt": "2026-09-04T20:44:15.131Z",
       "failedFeeds": []
     }
   }
