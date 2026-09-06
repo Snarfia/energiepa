@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:52:49.355Z",
+  "updatedAt": "2026-09-06T04:35:25.071Z",
   "items": [
     {
       "id": "eu-78a801792693",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-05T23:52:49.354Z",
+      "updatedAt": "2026-09-06T04:35:25.070Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-05T23:52:49.355Z",
+      "updatedAt": "2026-09-06T04:35:25.071Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-05T23:52:49.355Z",
+      "updatedAt": "2026-09-06T04:35:25.071Z",
       "failedFeeds": []
     }
   }
