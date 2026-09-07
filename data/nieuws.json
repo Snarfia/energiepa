@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:27:52.361Z",
+  "updatedAt": "2026-09-07T18:43:11.020Z",
   "items": [
     {
       "id": "eu-60ff0f8b5c12",
@@ -9,8 +9,19 @@
       "title": "Commission inaugurates Europe's largest industrial carbon capture and storage facility in the Netherlands",
       "description": "Today, the Yara Sluiskil plant, the largest commercial carbon capture and storage (CCS) project in Europe started its operations in Sluikil, a village in the Zeeland province of the Netherlands.",
       "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
-      "publishedAt": "2026-09-07T10:46:24.000Z",
+      "publishedAt": "2026-09-07T14:55:22.000Z",
       "language": "en"
+    },
+    {
+      "id": "acm-ae7d1e05e7a2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Beslissing op Bezwaar Liquin Terminal Botlek",
+      "description": "Beslissing op bezwaar erkenning gesloten systeem Liquin Terminal Botlek B.V. De ACM komt tot de conclusie dat het bezwaar van Liquin gegrond is.",
+      "url": "https://www.acm.nl/nl/publicaties/beslissing-op-bezwaar-liquin-terminal-botlek",
+      "publishedAt": "2026-09-07T13:30:00.000Z",
+      "language": "nl"
     },
     {
       "id": "eu-78a801792693",
@@ -513,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-07T12:27:52.360Z",
+      "updatedAt": "2026-09-07T18:43:11.020Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-09-07T12:27:52.361Z",
+      "count": 7,
+      "updatedAt": "2026-09-07T18:43:11.020Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-07T12:27:52.361Z",
+      "updatedAt": "2026-09-07T18:43:11.020Z",
       "failedFeeds": []
     }
   }
