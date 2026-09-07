@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-07T04:36:48.619Z",
+  "updatedAt": "2026-09-07T12:27:52.361Z",
   "items": [
+    {
+      "id": "eu-60ff0f8b5c12",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission inaugurates Europe's largest industrial carbon capture and storage facility in the Netherlands",
+      "description": "Today, the Yara Sluiskil plant, the largest commercial carbon capture and storage (CCS) project in Europe started its operations in Sluikil, a village in the Zeeland province of the Netherlands.",
+      "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
+      "publishedAt": "2026-09-07T10:46:24.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-78a801792693",
       "source": "eu",
@@ -299,17 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-d86b72203fc3",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission publishes toolbox to increase public participation in renewable energy projects",
-      "description": "The Commission today published a ‘toolbox’ to support Member States in promoting public inclusion in renewable energy projects. The toolbox aims to guide Member States’ authorities in involving local communities and administrations more in the development of…",
-      "url": "https://energy.ec.europa.eu/news/commission-publishes-toolbox-increase-public-participation-renewable-energy-projects-2026-07-17_en",
-      "publishedAt": "2026-07-17T11:34:12.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-07T04:36:48.618Z",
+      "updatedAt": "2026-09-07T12:27:52.360Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-07T04:36:48.619Z",
+      "updatedAt": "2026-09-07T12:27:52.361Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-07T04:36:48.619Z",
+      "updatedAt": "2026-09-07T12:27:52.361Z",
       "failedFeeds": []
     }
   }
