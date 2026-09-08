@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-08T04:31:53.481Z",
+  "updatedAt": "2026-09-08T11:15:26.481Z",
   "items": [
+    {
+      "id": "eu-0bb4d1263aa4",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project",
+      "description": "The European Investment Bank (EIB) has granted Elia Transmission Belgium a credit facility of €1 billion on favourable terms for the Princess Elisabeth Energy Island.",
+      "url": "https://www.eib.org/en/press/news/news-elia-transmission-belgium-obtient-une-facilite-de-credit-verte-de-eur1-milliard-de-la-banque-europeenne-d-investissement-pour-son-projet-de-l-ile-princesse-elisabeth?utm_source=socialmedia&utm_medium=Social&utm_campaign=PressRelease&utm_content=Princess%20Elisabeth%20Island&utm_term=Energy-Renewable-Efficiency_Belgium&utm_id=2026-09-07_01_en",
+      "publishedAt": "2026-09-08T08:37:01.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-60ff0f8b5c12",
       "source": "eu",
@@ -310,17 +321,6 @@
       "language": "en"
     },
     {
-      "id": "eu-6da984f71c96",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission provides clarity on how to effectively implement EU rules to reduce methane emissions",
-      "description": "These recommendations will help establish a clear, predictable and reliable framework for the effective implementation of the EU Methane Regulation, which is a key tool to reduce harmful emissions contributing to global warming as well as reinforcing…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1651",
-      "publishedAt": "2026-07-20T13:30:31.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-08T04:31:53.480Z",
+      "updatedAt": "2026-09-08T11:15:26.480Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-08T04:31:53.480Z",
+      "updatedAt": "2026-09-08T11:15:26.481Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-08T04:31:53.481Z",
+      "updatedAt": "2026-09-08T11:15:26.481Z",
       "failedFeeds": []
     }
   }

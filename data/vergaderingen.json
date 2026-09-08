@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:31:55.350Z",
+  "updatedAt": "2026-09-08T11:15:27.473Z",
   "items": [
     {
       "id": "nl-b0a3817f157b",
@@ -106,6 +106,19 @@
       "language": "nl"
     },
     {
+      "id": "eu-452e93c9feff",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "50 years of Euratom – IAEA cooperation, bringing stability in a changing world",
+      "startAt": "2026-09-14T13:30:00",
+      "endAt": "2026-09-16T15:00:00",
+      "location": "IAEA General Conference, Vienna, Austria",
+      "type": "Europees energie-evenement",
+      "description": "IAEA General Conference: 50 years of Euratom – IAEA cooperation, Bringing stability in a changing world",
+      "url": "https://energy.ec.europa.eu/events/50-years-euratom-iaea-cooperation-bringing-stability-changing-world-2026-09-14_en",
+      "language": "en"
+    },
+    {
       "id": "nl-3c4c7861d112",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -174,7 +187,7 @@
       "id": "nl-80e1dbffd531",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "ETS2",
+      "title": "ETS-herziening",
       "startAt": "2026-09-23T11:30:00+02:00",
       "endAt": "2026-09-23T12:30:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -358,14 +371,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 22,
-      "updatedAt": "2026-09-08T04:31:55.350Z",
+      "updatedAt": "2026-09-08T11:15:27.472Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-09-08T04:31:55.350Z",
+      "count": 6,
+      "updatedAt": "2026-09-08T11:15:27.473Z",
       "error": null
     }
   }
