@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-08T11:15:26.481Z",
+  "updatedAt": "2026-09-08T16:36:15.797Z",
   "items": [
+    {
+      "id": "eu-e688b792d541",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Oil Coordination Group: No immediate security of oil supply concerns in the EU",
+      "description": "Experts from the European Commission, EU countries, industry, the International Energy Agency (IEA), Energy Community and NATO met in the Oil Coordination Group today to discuss the state of oil security of supply in Europe.",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-no-immediate-security-oil-supply-concerns-eu-2026-09-08_en",
+      "publishedAt": "2026-09-08T15:54:49.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-0bb4d1263aa4",
       "source": "eu",
@@ -310,17 +321,6 @@
       "language": "en"
     },
     {
-      "id": "eu-c77be2790f73",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "New in EPREL: a comparison tool to support sustainable purchasing",
-      "description": "The European Product Registry for Energy Labelling (EPREL) is the public database where anyone can freely search, filter, and sort over 2 million registered products: all those required to display the well-known A-to-G energy label.",
-      "url": "https://energy-efficient-products.ec.europa.eu/news/new-eprel-comparison-tool-support-sustainable-purchasing-2026-07-20_en",
-      "publishedAt": "2026-07-20T14:54:05.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-08T11:15:26.480Z",
+      "updatedAt": "2026-09-08T16:36:15.797Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-08T11:15:26.481Z",
+      "updatedAt": "2026-09-08T16:36:15.797Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-08T11:15:26.481Z",
+      "updatedAt": "2026-09-08T16:36:15.797Z",
       "failedFeeds": []
     }
   }

@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-08T11:15:27.473Z",
+  "updatedAt": "2026-09-08T16:36:16.736Z",
   "items": [
-    {
-      "id": "nl-b0a3817f157b",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Procedurevergadering commissie Klimaat en Groene Groei",
-      "startAt": "2026-09-08T17:00:00+02:00",
-      "endAt": "2026-09-08T17:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Procedurevergadering",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05106",
-      "language": "nl"
-    },
     {
       "id": "nl-96351858e0da",
       "source": "nl",
@@ -38,19 +25,6 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04188",
-      "language": "nl"
-    },
-    {
-      "id": "nl-35186a713f6f",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "De aanpassing van de Europese RFNBO-regels",
-      "startAt": "2026-09-09T11:30:00+02:00",
-      "endAt": "2026-09-09T12:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05329",
       "language": "nl"
     },
     {
@@ -370,15 +344,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 22,
-      "updatedAt": "2026-09-08T11:15:27.472Z",
+      "count": 20,
+      "updatedAt": "2026-09-08T16:36:16.735Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-08T11:15:27.473Z",
+      "updatedAt": "2026-09-08T16:36:16.736Z",
       "error": null
     }
   }
