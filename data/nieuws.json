@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T04:38:38.380Z",
+  "updatedAt": "2026-09-09T11:19:10.908Z",
   "items": [
     {
       "id": "eu-e688b792d541",
@@ -164,17 +164,6 @@
       "description": "Huishoudens en bedrijven die afhankelijk blijven van aardgas zullen de komende 25 jaar steeds hogere tarieven moeten betalen voor het transport van aardgas.",
       "url": "https://www.acm.nl/nl/publicaties/acm-vraagt-aandacht-voor-stijgende-gastransporttarieven-richting-2050",
       "publishedAt": "2026-08-28T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-512345d8a82e",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Beslissing op bezwaar tarievenbesluit warmte 2026",
-      "description": "De ACM verklaart het bezwaar van Beweging “Stadsverwarming is te duur” tegen het tarievenbesluit warmte 2026 ongegrond.",
-      "url": "https://www.acm.nl/nl/publicaties/beslissing-op-bezwaar-tarievenbesluit-warmte-2026",
-      "publishedAt": "2026-08-27T08:00:00.000Z",
       "language": "nl"
     },
     {
@@ -524,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-09T04:38:38.380Z",
+      "updatedAt": "2026-09-09T11:19:10.907Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-09-09T04:38:38.380Z",
+      "count": 6,
+      "updatedAt": "2026-09-09T11:19:10.908Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-09T04:38:38.380Z",
+      "updatedAt": "2026-09-09T11:19:10.908Z",
       "failedFeeds": []
     }
   }
