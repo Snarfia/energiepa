@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:07:46.403Z",
+  "updatedAt": "2026-09-09T00:11:55.745Z",
   "items": [
     {
       "id": "nl-dc860b191477",
@@ -314,6 +314,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-7322d64d52f5",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Klimaatbeleid gebouwde omgeving",
+      "startAt": "2026-10-14T10:00:00+02:00",
+      "endAt": "2026-10-14T13:30:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01796",
+      "language": "nl"
+    },
+    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -344,15 +357,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 20,
-      "updatedAt": "2026-09-08T21:07:46.403Z",
+      "count": 21,
+      "updatedAt": "2026-09-09T00:11:55.745Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-08T21:07:46.403Z",
+      "updatedAt": "2026-09-09T00:11:55.745Z",
       "error": null
     }
   }
