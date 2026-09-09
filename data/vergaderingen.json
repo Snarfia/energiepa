@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T11:19:12.237Z",
+  "updatedAt": "2026-09-09T16:36:16.877Z",
   "items": [
     {
       "id": "nl-342738630f33",
@@ -93,10 +93,23 @@
       "language": "nl"
     },
     {
+      "id": "nl-bc9ff4ddacc5",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Circulaire economie (CD 8/9)",
+      "startAt": "2026-09-21T00:00:00+02:00",
+      "endAt": "2026-09-21T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06387",
+      "language": "nl"
+    },
+    {
       "id": "nl-1cf16bf702b1",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
+      "title": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) (voortzetting; tweede termijn)",
       "startAt": "2026-09-21T17:00:00+02:00",
       "endAt": "2026-09-21T19:00:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -314,6 +327,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-89a5fa76514e",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energieraad (formeel) d.d. 29 oktober 2026",
+      "startAt": "2026-10-14T15:00:00+02:00",
+      "endAt": "2026-10-14T18:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04753",
+      "language": "nl"
+    },
+    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -344,15 +370,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 20,
-      "updatedAt": "2026-09-09T11:19:12.237Z",
+      "count": 22,
+      "updatedAt": "2026-09-09T16:36:16.877Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-09T11:19:12.237Z",
+      "updatedAt": "2026-09-09T16:36:16.877Z",
       "error": null
     }
   }

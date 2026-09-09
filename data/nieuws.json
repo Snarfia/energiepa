@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-09T11:19:10.908Z",
+  "updatedAt": "2026-09-09T16:36:15.945Z",
   "items": [
+    {
+      "id": "eu-8ee19afe64c3",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "New EU rules to help local authorities tackle the housing crisis",
+      "description": "The Commission today proposed the Affordable Housing Act to support Member States and cities address housing affordability and availability in areas facing the greatest pressures. The lack of affordable housing has become one of the most urgent concerns for…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1792",
+      "publishedAt": "2026-09-09T13:56:09.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-e688b792d541",
       "source": "eu",
@@ -299,17 +310,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-f056450f74ac",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU Hydrogen Mechanism: Call for interest to test hydrogen infrastructure",
-      "description": "Building on the encouraging results from the first round of the Hydrogen Mechanism in April, the Commission plans to organise the next round later this year focusing on the development of energy infrastructure.",
-      "url": "https://energy.ec.europa.eu/news/eu-hydrogen-mechanism-call-interest-test-hydrogen-infrastructure-2026-07-22_en",
-      "publishedAt": "2026-07-22T08:30:39.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-0a204b5860d5",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-09T11:19:10.907Z",
+      "updatedAt": "2026-09-09T16:36:15.944Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-09T11:19:10.908Z",
+      "updatedAt": "2026-09-09T16:36:15.944Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-09T11:19:10.908Z",
+      "updatedAt": "2026-09-09T16:36:15.945Z",
       "failedFeeds": []
     }
   }
