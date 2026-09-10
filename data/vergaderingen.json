@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-10T11:15:53.259Z",
+  "updatedAt": "2026-09-10T16:22:16.650Z",
   "items": [
-    {
-      "id": "nl-d56a9f6bd086",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Het onderzoek door de ACM naar de prijzen van vier leveranciers van stadswarmte en mogelijke overwinsten",
-      "startAt": "2026-09-10T16:00:00+02:00",
-      "endAt": "2026-09-10T17:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05992",
-      "language": "nl"
-    },
     {
       "id": "eu-452e93c9feff",
       "source": "eu",
@@ -106,6 +93,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-2a991aa6c345",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Wij Zijn Congolezen tot aanbieding manifest over vervolging van internationale corruptie in Congolese mijnbouw",
+      "startAt": "2026-09-22T13:30:00+02:00",
+      "endAt": "2026-09-22T13:45:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Petitie",
+      "description": "vaste commissie voor Justitie en Veiligheid",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05522",
+      "language": "nl"
+    },
+    {
       "id": "nl-0204270c4823",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -142,6 +142,19 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06066",
+      "language": "nl"
+    },
+    {
+      "id": "nl-b0a427533ebe",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "De Klimaat- en Energieverkenning 2026",
+      "startAt": "2026-09-23T12:45:00+02:00",
+      "endAt": "2026-09-23T13:45:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06385",
       "language": "nl"
     },
     {
@@ -249,6 +262,19 @@
       "language": "en"
     },
     {
+      "id": "nl-2fb899e782ea",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Rondetafelgesprek Advies Nationaal Burgerberaad Klimaat",
+      "startAt": "2026-10-01T10:00:00+02:00",
+      "endAt": "2026-10-01T12:25:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Rondetafelgesprek",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05578",
+      "language": "nl"
+    },
+    {
       "id": "nl-a86b66a05dc2",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -327,19 +353,6 @@
       "language": "nl"
     },
     {
-      "id": "nl-ca98de2a9877",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Energiesysteem",
-      "startAt": "2026-10-26T10:00:00+01:00",
-      "endAt": "2026-10-26T15:30:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Notaoverleg",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
-      "language": "nl"
-    },
-    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -370,15 +383,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 22,
-      "updatedAt": "2026-09-10T11:15:53.259Z",
+      "count": 23,
+      "updatedAt": "2026-09-10T16:22:16.649Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-10T11:15:53.259Z",
+      "updatedAt": "2026-09-10T16:22:16.650Z",
       "error": null
     }
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:15:51.735Z",
+  "updatedAt": "2026-09-10T16:22:14.639Z",
   "items": [
     {
       "id": "eu-a0f9f2414512",
@@ -9,7 +9,18 @@
       "title": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
       "description": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
       "url": "https://energy.ec.europa.eu/news/nuclear-medicine-new-eu-framework-secure-europes-supply-medical-radioisotopes-and-reduce-dependence-2026-09-10_en",
-      "publishedAt": "2026-09-10T10:17:55.000Z",
+      "publishedAt": "2026-09-10T15:12:10.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-5ba501ed1e7c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Consultation on proposed electricity market reforms in the Netherlands",
+      "description": "The European Commission has opened a consultation on proposed electricity market reforms in the Netherlands",
+      "url": "https://energy.ec.europa.eu/news/consultation-proposed-electricity-market-reforms-netherlands-2026-09-10_en",
+      "publishedAt": "2026-09-10T15:08:14.000Z",
       "language": "en"
     },
     {
@@ -288,17 +299,6 @@
       "language": "en"
     },
     {
-      "id": "eu-3b4662e26192",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission publishes guidance on the application of non-price criteria under the Net-Zero Industry Act",
-      "description": "The Commission has published 2 guidance documents on the application of Articles 25 and 26 of the Net-Zero Industry Act.",
-      "url": "https://energy.ec.europa.eu/news/commission-publishes-guidance-application-non-price-criteria-under-net-zero-industry-act-2026-07-22_en",
-      "publishedAt": "2026-07-23T13:55:06.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-a08fba1e4eb4",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-10T11:15:51.734Z",
+      "updatedAt": "2026-09-10T16:22:14.638Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-10T11:15:51.735Z",
+      "updatedAt": "2026-09-10T16:22:14.639Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-10T11:15:51.735Z",
+      "updatedAt": "2026-09-10T16:22:14.639Z",
       "failedFeeds": []
     }
   }
