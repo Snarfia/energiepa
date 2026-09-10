@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-09-10T04:40:23.977Z",
+  "updatedAt": "2026-09-10T11:15:53.259Z",
   "items": [
-    {
-      "id": "nl-d20ba6d682fc",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Rapporten CE Delft en TNO inzake het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-09-10T10:00:00+02:00",
-      "endAt": "2026-09-10T11:15:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05577",
-      "language": "nl"
-    },
-    {
-      "id": "nl-f9f74c0995a0",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Kabinetsreactie op het advies van het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-09-10T11:30:00+02:00",
-      "endAt": "2026-09-10T12:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05654",
-      "language": "nl"
-    },
     {
       "id": "nl-d56a9f6bd086",
       "source": "nl",
@@ -54,6 +28,19 @@
       "language": "en"
     },
     {
+      "id": "nl-2ed3598a645a",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Evaluatie CO2-heffing industrie en CO2- minimumprijs elektriciteitsopwekking (32813-1568)",
+      "startAt": "2026-09-21T00:00:00+02:00",
+      "endAt": "2026-09-21T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06451",
+      "language": "nl"
+    },
+    {
       "id": "nl-3c4c7861d112",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -64,6 +51,19 @@
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
+      "language": "nl"
+    },
+    {
+      "id": "nl-a77779c2c093",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
+      "startAt": "2026-09-21T00:00:00+02:00",
+      "endAt": "2026-09-21T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
       "language": "nl"
     },
     {
@@ -371,14 +371,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 22,
-      "updatedAt": "2026-09-10T04:40:23.977Z",
+      "updatedAt": "2026-09-10T11:15:53.259Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-10T04:40:23.977Z",
+      "updatedAt": "2026-09-10T11:15:53.259Z",
       "error": null
     }
   }

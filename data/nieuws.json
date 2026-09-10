@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-10T04:40:22.598Z",
+  "updatedAt": "2026-09-10T11:15:51.735Z",
   "items": [
+    {
+      "id": "eu-a0f9f2414512",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
+      "description": "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia",
+      "url": "https://energy.ec.europa.eu/news/nuclear-medicine-new-eu-framework-secure-europes-supply-medical-radioisotopes-and-reduce-dependence-2026-09-10_en",
+      "publishedAt": "2026-09-10T10:17:55.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-8ee19afe64c3",
       "source": "eu",
@@ -288,17 +299,6 @@
       "language": "en"
     },
     {
-      "id": "eu-0674c6fb0d82",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Renewables make up 26% of EU energy use",
-      "description": "Provisional data for 2025 show that the share of energy from renewable sources in gross final energy consumption in the EU reached 26.2%, up from 25.2% in 2024",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260723-1",
-      "publishedAt": "2026-07-23T09:32:47.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-a08fba1e4eb4",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-10T04:40:22.597Z",
+      "updatedAt": "2026-09-10T11:15:51.734Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-10T04:40:22.597Z",
+      "updatedAt": "2026-09-10T11:15:51.735Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-10T04:40:22.598Z",
+      "updatedAt": "2026-09-10T11:15:51.735Z",
       "failedFeeds": []
     }
   }
