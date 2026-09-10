@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-09T20:54:54.451Z",
+  "updatedAt": "2026-09-10T00:12:51.628Z",
   "items": [
-    {
-      "id": "nl-342738630f33",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Mijnbouw (CD 3/6)",
-      "startAt": "2026-09-09T17:30:00+02:00",
-      "endAt": "2026-09-09T17:55:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A04659",
-      "language": "nl"
-    },
     {
       "id": "nl-d20ba6d682fc",
       "source": "nl",
@@ -340,6 +327,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-ca98de2a9877",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energiesysteem",
+      "startAt": "2026-10-26T10:00:00+01:00",
+      "endAt": "2026-10-26T15:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Notaoverleg",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+      "language": "nl"
+    },
+    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -371,14 +371,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 22,
-      "updatedAt": "2026-09-09T20:54:54.451Z",
+      "updatedAt": "2026-09-10T00:12:51.628Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-09T20:54:54.451Z",
+      "updatedAt": "2026-09-10T00:12:51.628Z",
       "error": null
     }
   }
