@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:36:31.738Z",
+  "updatedAt": "2026-09-11T11:17:26.946Z",
   "items": [
     {
       "id": "eu-452e93c9feff",
@@ -340,6 +340,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-3b34ad83d249",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Technische briefing ROB",
+      "startAt": "2026-10-14T13:00:00+02:00",
+      "endAt": "2026-10-14T14:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06388",
+      "language": "nl"
+    },
+    {
       "id": "nl-89a5fa76514e",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -383,15 +396,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-09-11T04:36:31.738Z",
+      "count": 24,
+      "updatedAt": "2026-09-11T11:17:26.946Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-11T04:36:31.738Z",
+      "updatedAt": "2026-09-11T11:17:26.946Z",
       "error": null
     }
   }
