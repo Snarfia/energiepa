@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-11T11:17:25.733Z",
+  "updatedAt": "2026-09-11T16:26:09.396Z",
   "items": [
+    {
+      "id": "rijksoverheid-28ebe3a4551a",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Kabinet zet nieuwe crisiswetgeving in om vol stroomnet aan te pakken",
+      "description": "Het kabinet wil zo snel mogelijk meer ruimte maken op het stroomnet. Dit is nodig om nieuwe huizen van stroom te voorzien en de duizenden bedrijven en organisaties die wachten op een nieuwe of grotere aansluiting op het stroomnet verder te helpen....",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/kabinet-zet-nieuwe-crisiswetgeving-in-om-vol-stroomnet-aan-te-pakken",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-682b3e71aa98",
       "source": "acm",
@@ -484,17 +495,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/18/meer-geld-voor-regios-met-aansluitingen-windparken-op-zee",
       "publishedAt": "2026-03-18T08:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-2e0de3fb1e0f",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "Benoeming leden nieuwe Raad voor Energie",
-      "description": "De Raad voor Energie is een onafhankelijk adviesorgaan dat de Nederlandse regering en het parlement adviseert over de transitie naar een klimaatneutraal, betrouwbaar en betaalbaar energiesysteem. De raad richt zich op strategische...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/02/19/benoeming-leden-nieuwe-raad-voor-energie",
-      "publishedAt": "2026-02-19T15:21:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -502,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-11T11:17:25.732Z",
+      "updatedAt": "2026-09-11T16:26:09.396Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-11T11:17:25.732Z",
+      "updatedAt": "2026-09-11T16:26:09.396Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-11T11:17:25.733Z",
+      "updatedAt": "2026-09-11T16:26:09.396Z",
       "failedFeeds": []
     }
   }
