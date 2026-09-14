@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T04:52:35.417Z",
+  "updatedAt": "2026-09-14T12:41:56.441Z",
   "items": [
     {
       "id": "eu-452e93c9feff",
@@ -223,6 +223,19 @@
       "language": "en"
     },
     {
+      "id": "nl-af374dafac62",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Vrouwengezondheid en de duurzame inzetbaarheid van vrouwen op de arbeidsmarkt",
+      "startAt": "2026-09-29T13:30:00+02:00",
+      "endAt": "2026-09-29T13:45:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Petitie",
+      "description": "vaste commissie voor Volksgezondheid, Welzijn en Sport",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05995",
+      "language": "nl"
+    },
+    {
       "id": "nl-76e26fe5b756",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -343,7 +356,7 @@
       "id": "nl-3b34ad83d249",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Technische briefing ROB",
+      "title": "Technische briefing over het ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
       "startAt": "2026-10-14T13:00:00+02:00",
       "endAt": "2026-10-14T14:00:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -396,15 +409,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 24,
-      "updatedAt": "2026-09-14T04:52:35.417Z",
+      "count": 25,
+      "updatedAt": "2026-09-14T12:41:56.441Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-14T04:52:35.417Z",
+      "updatedAt": "2026-09-14T12:41:56.441Z",
       "error": null
     }
   }

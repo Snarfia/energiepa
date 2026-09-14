@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-14T04:52:34.302Z",
+  "updatedAt": "2026-09-14T12:41:55.312Z",
   "items": [
+    {
+      "id": "acm-1aa68ef181c6",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Liander Gas 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Liander voor gas vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-liander-gas-2027-2031",
+      "publishedAt": "2026-09-14T14:21:36.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-db065968b707",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Liander Elektriciteit 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Liander voor elektriciteit vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-liander-elektriciteit-2027-2031",
+      "publishedAt": "2026-09-14T13:55:39.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-bfa634f2ead0",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Enexis Gas 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Enexis voor gas vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-enexis-gas-2027-2031",
+      "publishedAt": "2026-09-14T13:45:27.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-d72849480259",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Enexis Elektriciteit 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Enexis voor elektriciteit vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-enexis-elektriciteit-2027-2031",
+      "publishedAt": "2026-09-14T13:39:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-6dc4f67cfa86",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Coteq Gas 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Coteq voor gas vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-coteq-gas-2027-2031",
+      "publishedAt": "2026-09-14T13:17:32.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-c8383cc3ba35",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Call for applications: candidate energy infrastructure Projects of Common and Mutual Interest – electricity and smart grids",
+      "description": "The Commission has opened a call for applications for cross-border energy infrastructure projects seeking to obtain Project of Common Interest (PCI) or Project of Mutual Interest (PMI) status under the TEN-E Regulation.",
+      "url": "https://energy.ec.europa.eu/news/call-applications-candidate-energy-infrastructure-projects-common-and-mutual-interest-electricity-2026-09-14_en",
+      "publishedAt": "2026-09-14T12:33:15.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-2da84f18ed4a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Coteq Elektriciteit 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Coteq voor elektriciteit vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-coteq-elektriciteit-2027-2031",
+      "publishedAt": "2026-09-14T12:29:02.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-a5360becf6ff",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Westland Infra Gas 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Westland voor gas vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-westland-infra-gas-2027-2031",
+      "publishedAt": "2026-09-14T12:18:16.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-612c22fef2de",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Inkomstenbesluit Westland Infra Elektriciteit 2027-2031",
+      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Westland voor elektriciteit vast voor de periode 2027 tot en met 2031.",
+      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-westland-infra-elektriciteit-2027-2031",
+      "publishedAt": "2026-09-14T12:06:33.000Z",
+      "language": "nl"
+    },
     {
       "id": "rijksoverheid-28ebe3a4551a",
       "source": "rijksoverheid",
@@ -10,39 +109,6 @@
       "description": "Het kabinet wil zo snel mogelijk meer ruimte maken op het stroomnet. Dit is nodig om nieuwe huizen van stroom te voorzien en de duizenden bedrijven en organisaties die wachten op een nieuwe of grotere aansluiting op het stroomnet verder te helpen....",
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/kabinet-zet-nieuwe-crisiswetgeving-in-om-vol-stroomnet-aan-te-pakken",
       "publishedAt": "2026-09-11T12:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-682b3e71aa98",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Brief aan energieleveranciers over inzet ‘nepvergelijkers’",
-      "description": "De ACM heeft energieleveranciers er per brief op gewezen dat zij bij de verkoop van energiecontracten geen gebruik mogen maken van ‘nepvergelijkers’.",
-      "url": "https://www.acm.nl/nl/publicaties/brief-aan-energieleveranciers-over-inzet-nepvergelijkers",
-      "publishedAt": "2026-09-11T10:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-4e60ed1e02df",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: Energieleveranciers moeten stoppen met inzet van nepvergelijkers",
-      "description": "Energieleveranciers mogen bij het verkopen van energiecontracten geen gebruik maken van verkopers die zich ten onrechte voordoen als energievergelijkers.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-energieleveranciers-moeten-stoppen-met-inzet-van-nepvergelijkers",
-      "publishedAt": "2026-09-11T10:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-541ab3a49672",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Energiemonitor ACM: Gasprijs op hoogste niveau in ruim drie jaar, ook elektriciteit duurder geworden",
-      "description": "De gasprijs op de groothandelsmarkt is de afgelopen maand sterk gestegen. De stijgende gasprijzen stuwen ook de prijzen op de elektriciteitsmarkt op.",
-      "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-gasprijs-op-hoogste-niveau-ruim-drie-jaar-ook-elektriciteit-duurder-geworden",
-      "publishedAt": "2026-09-11T06:42:11.000Z",
       "language": "nl"
     },
     {
@@ -112,17 +178,6 @@
       "language": "en"
     },
     {
-      "id": "acm-ae7d1e05e7a2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Beslissing op Bezwaar Liquin Terminal Botlek",
-      "description": "Beslissing op bezwaar erkenning gesloten systeem Liquin Terminal Botlek B.V. De ACM komt tot de conclusie dat het bezwaar van Liquin gegrond is.",
-      "url": "https://www.acm.nl/nl/publicaties/beslissing-op-bezwaar-liquin-terminal-botlek",
-      "publishedAt": "2026-09-07T13:30:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-78a801792693",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -143,17 +198,6 @@
       "url": "https://energy.ec.europa.eu/news/preparatory-study-possible-new-energy-label-computers-2026-09-04_en",
       "publishedAt": "2026-09-04T12:52:42.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-be8e972dcc43",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Ontwerpbesluit publicatietijdstip biedprijsladder",
-      "description": "ACM heeft een ontwerpbesluit genomen over het voorstel van Netbeheer Nederland voor het wijzigen van de voorwaarden voor balancering. De wijziging betreft het publicatietijdstip van de biedprijsladder voor balanceringsenergie.",
-      "url": "https://www.acm.nl/nl/publicaties/ontwerpbesluit-publicatietijdstip-biedprijsladder",
-      "publishedAt": "2026-09-04T09:43:36.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-2cd2916b81d0",
@@ -285,17 +329,6 @@
       "description": "Experts from the European Commission, EU countries, industry, the International Energy Agency (IEA) and NATO met in the Oil Coordination Group yesterday.",
       "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-no-immediate-supply-concerns-eu-2026-07-24_en",
       "publishedAt": "2026-07-24T07:48:17.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-0e46a9f085e6",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU adopts 21st package of sanctions against Russia",
-      "description": "The measures focus on the sectors with the greatest impact: energy; financial services, including crypto; trade; and the Russian military-industrial complex.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1680",
-      "publishedAt": "2026-07-24T07:15:23.000Z",
       "language": "en"
     },
     {
@@ -502,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-14T04:52:34.302Z",
+      "updatedAt": "2026-09-14T12:41:55.312Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-09-14T04:52:34.302Z",
+      "count": 8,
+      "updatedAt": "2026-09-14T12:41:55.312Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-14T04:52:34.302Z",
+      "updatedAt": "2026-09-14T12:41:55.312Z",
       "failedFeeds": []
     }
   }
