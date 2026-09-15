@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:41:13.813Z",
+  "updatedAt": "2026-09-15T16:56:43.424Z",
   "items": [
     {
       "id": "eu-452e93c9feff",
@@ -301,6 +301,19 @@
       "language": "nl"
     },
     {
+      "id": "eu-e1a32bbf426d",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Supporting national building renovation plans with EU-funded solutions and the EU Building Stock Observatory",
+      "startAt": "2026-10-07T09:00:00",
+      "endAt": "2026-10-07T18:00:00",
+      "location": "COMET Louise, Brussels, Belgium",
+      "type": "Europees energie-evenement",
+      "description": "Supporting national building renovation plans with EU-funded solutions and the EU Building Stock Observatory",
+      "url": "https://energy.ec.europa.eu/events/supporting-national-building-renovation-plans-eu-funded-solutions-and-eu-building-stock-observatory-2026-10-07_en",
+      "language": "en"
+    },
+    {
       "id": "nl-6212874bd94a",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -410,14 +423,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 25,
-      "updatedAt": "2026-09-15T11:41:13.813Z",
+      "updatedAt": "2026-09-15T16:56:43.424Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-09-15T11:41:13.813Z",
+      "count": 7,
+      "updatedAt": "2026-09-15T16:56:43.424Z",
       "error": null
     }
   }
