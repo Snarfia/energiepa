@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-15T04:51:35.498Z",
+  "updatedAt": "2026-09-15T11:41:12.424Z",
   "items": [
+    {
+      "id": "eu-0624484f3195",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EIB helps transform Lithuania’s port of Klaipėda into defence and clean-energy hub with €100 million in financing",
+      "description": "The European Investment Bank (EIB) is providing a €100 million loan to help transform Lithuania’s largest seaport, Klaipėda, into a strategic gateway for defence, energy and trade in the Baltic region.",
+      "url": "https://www.eib.org/en/press/all/2026-293-eib-helps-transform-lithuania-s-port-of-klaipeda-into-defence-and-clean-energy-hub-with-eur100-million-in-financing",
+      "publishedAt": "2026-09-15T11:12:47.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-e5f4e510d221",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing",
+      "description": "The European Investment Bank (EIB) is investing up to €40 million in Finnish nuclear-technology company Steady Energy as part of a broader financing package involving institutional, strategic and retail investors.",
+      "url": "https://www.eib.org/en/press/all/2026-294-eib-backs-finnish-nuclear-technology-company-steady-energy-with-eur40-million-financing",
+      "publishedAt": "2026-09-15T11:12:20.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-7980b6306d53",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Technische briefing toezicht op de rendementen van warmtebedrijven",
+      "description": "Schriftelijke inbreng van de ACM bij de technische briefing over het toezicht op de rendementen van warmtebedrijven in de Tweede Kamer.",
+      "url": "https://www.acm.nl/nl/publicaties/technische-briefing-toezicht-op-de-rendementen-van-warmtebedrijven",
+      "publishedAt": "2026-09-15T08:10:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-1aa68ef181c6",
       "source": "acm",
@@ -310,28 +343,6 @@
       "language": "en"
     },
     {
-      "id": "eu-1d08d054cad7",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "New ecodesign rules for industrial fans apply from 24 July",
-      "description": "New harmonised EU rules to reduce the energy consumption and facilitate repair of industrial fans start to apply on 24 July 2026.",
-      "url": "https://energy.ec.europa.eu/news/new-ecodesign-rules-industrial-fans-apply-24-july-2026-07-24_en",
-      "publishedAt": "2026-07-24T08:00:38.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-85a3fb6c9eee",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Oil Coordination Group confirms no immediate supply concerns in the EU",
-      "description": "Experts from the European Commission, EU countries, industry, the International Energy Agency (IEA) and NATO met in the Oil Coordination Group yesterday.",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-no-immediate-supply-concerns-eu-2026-07-24_en",
-      "publishedAt": "2026-07-24T07:48:17.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-a08fba1e4eb4",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -535,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-15T04:51:35.498Z",
+      "updatedAt": "2026-09-15T11:41:12.423Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 8,
-      "updatedAt": "2026-09-15T04:51:35.498Z",
+      "count": 9,
+      "updatedAt": "2026-09-15T11:41:12.424Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-15T04:51:35.498Z",
+      "updatedAt": "2026-09-15T11:41:12.424Z",
       "failedFeeds": []
     }
   }
