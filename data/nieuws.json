@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T07:39:58.496Z",
+  "updatedAt": "2026-09-16T13:29:00.273Z",
   "items": [
     {
       "id": "eu-0871762f59f4",
@@ -9,7 +9,7 @@
       "title": "Commission launches Energy Regulation Academy to support public officials to implement EU energy measures",
       "description": "The Commission and the European University Institute are launching the Energy Regulation Academy (EnRA), a new EU-funded initiative designed to help national authorities translate electricity market reforms into practical results across all members.",
       "url": "https://energy.ec.europa.eu/news/commission-launches-energy-regulation-academy-support-public-officials-implement-eu-energy-measures-2026-09-15_en",
-      "publishedAt": "2026-09-15T15:35:05.000Z",
+      "publishedAt": "2026-09-16T08:11:15.000Z",
       "language": "en"
     },
     {
@@ -131,28 +131,6 @@
       "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Coteq voor elektriciteit vast voor de periode 2027 tot en met 2031.",
       "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-coteq-elektriciteit-2027-2031",
       "publishedAt": "2026-09-14T12:29:02.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-a5360becf6ff",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Inkomstenbesluit Westland Infra Gas 2027-2031",
-      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Westland voor gas vast voor de periode 2027 tot en met 2031.",
-      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-westland-infra-gas-2027-2031",
-      "publishedAt": "2026-09-14T12:18:16.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-612c22fef2de",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Inkomstenbesluit Westland Infra Elektriciteit 2027-2031",
-      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Westland voor elektriciteit vast voor de periode 2027 tot en met 2031.",
-      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-westland-infra-elektriciteit-2027-2031",
-      "publishedAt": "2026-09-14T12:06:33.000Z",
       "language": "nl"
     },
     {
@@ -546,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-16T07:39:58.495Z",
+      "updatedAt": "2026-09-16T13:29:00.273Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 9,
-      "updatedAt": "2026-09-16T07:39:58.496Z",
+      "count": 7,
+      "updatedAt": "2026-09-16T13:29:00.273Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-16T07:39:58.496Z",
+      "updatedAt": "2026-09-16T13:29:00.273Z",
       "failedFeeds": []
     }
   }
