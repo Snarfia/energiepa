@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:19:37.424Z",
+  "updatedAt": "2026-09-18T00:15:17.171Z",
   "items": [
     {
       "id": "nl-2ed3598a645a",
@@ -366,6 +366,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-3b34ad83d249",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Het ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
+      "startAt": "2026-10-14T13:00:00+02:00",
+      "endAt": "2026-10-14T14:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06388",
+      "language": "nl"
+    },
+    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -396,15 +409,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 24,
-      "updatedAt": "2026-09-17T21:19:37.424Z",
+      "count": 25,
+      "updatedAt": "2026-09-18T00:15:17.171Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-17T21:19:37.424Z",
+      "updatedAt": "2026-09-18T00:15:17.171Z",
       "error": null
     }
   }
