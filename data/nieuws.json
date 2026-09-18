@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-18T04:45:05.195Z",
+  "updatedAt": "2026-09-18T11:10:34.080Z",
   "items": [
+    {
+      "id": "eu-638dad3f7548",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: 54% of EU’s electricity came from renewables in Q2 2026",
+      "description": "In the second quarter of 2026, 54.1% of the electricity generated in the EU came from renewable energy sources, a slight decrease from 54.3% in the same period of 2025.",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
+      "publishedAt": "2026-09-18T09:42:21.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-60ff0f8b5c12",
       "source": "eu",
@@ -310,17 +321,6 @@
       "language": "en"
     },
     {
-      "id": "eu-b712faa90d7f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Electricity Coordination Group discusses extreme weather impacts on electricity security of supply in Central Europe and South-East Europe",
-      "description": "The discussion took place against the backdrop of persistent high temperatures and record low water levels, all of which are putting pressure on electricity generation and demand in these regions.",
-      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-discusses-extreme-weather-impacts-electricity-security-supply-central-2026-08-19_en",
-      "publishedAt": "2026-08-19T14:18:16.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-a08fba1e4eb4",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-18T04:45:05.195Z",
+      "updatedAt": "2026-09-18T11:10:34.080Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-18T04:45:05.195Z",
+      "updatedAt": "2026-09-18T11:10:34.080Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-18T04:45:05.195Z",
+      "updatedAt": "2026-09-18T11:10:34.080Z",
       "failedFeeds": []
     }
   }

@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-18T04:45:06.204Z",
+  "updatedAt": "2026-09-18T11:10:34.884Z",
   "items": [
-    {
-      "id": "nl-2ed3598a645a",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Evaluatie CO2-heffing industrie en CO2- minimumprijs elektriciteitsopwekking (32813-1568)",
-      "startAt": "2026-09-21T00:00:00+02:00",
-      "endAt": "2026-09-21T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06451",
-      "language": "nl"
-    },
     {
       "id": "nl-3c4c7861d112",
       "source": "nl",
@@ -103,6 +90,19 @@
       "type": "Procedurevergadering",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04780",
+      "language": "nl"
+    },
+    {
+      "id": "nl-2ed3598a645a",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Evaluatie CO2-heffing industrie en CO2- minimumprijs elektriciteitsopwekking (32813-1568)",
+      "startAt": "2026-09-22T17:40:00+02:00",
+      "endAt": "2026-09-22T17:55:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06451",
       "language": "nl"
     },
     {
@@ -410,14 +410,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 25,
-      "updatedAt": "2026-09-18T04:45:06.204Z",
+      "updatedAt": "2026-09-18T11:10:34.884Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-18T04:45:06.204Z",
+      "updatedAt": "2026-09-18T11:10:34.884Z",
       "error": null
     }
   }
