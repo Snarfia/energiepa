@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-21T19:25:33.787Z",
+  "updatedAt": "2026-09-21T23:15:18.672Z",
   "items": [
-    {
-      "id": "nl-1cf16bf702b1",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) (voortzetting; tweede termijn)",
-      "startAt": "2026-09-21T17:00:00+02:00",
-      "endAt": "2026-09-21T19:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Wetgevingsoverleg",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06379",
-      "language": "nl"
-    },
     {
       "id": "nl-2a991aa6c345",
       "source": "nl",
@@ -422,15 +409,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 26,
-      "updatedAt": "2026-09-21T19:25:33.787Z",
+      "count": 25,
+      "updatedAt": "2026-09-21T23:15:18.672Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-21T19:25:33.787Z",
+      "updatedAt": "2026-09-21T23:15:18.672Z",
       "error": null
     }
   }
