@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:44:11.011Z",
+  "updatedAt": "2026-09-21T19:25:33.787Z",
   "items": [
     {
       "id": "nl-1cf16bf702b1",
@@ -379,6 +379,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-89a5fa76514e",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energieraad (formeel) d.d. 29 oktober 2026",
+      "startAt": "2026-10-14T15:00:00+02:00",
+      "endAt": "2026-10-14T18:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04753",
+      "language": "nl"
+    },
+    {
       "id": "eu-668b948459fd",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -409,15 +422,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 25,
-      "updatedAt": "2026-09-21T12:44:11.011Z",
+      "count": 26,
+      "updatedAt": "2026-09-21T19:25:33.787Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-21T12:44:11.011Z",
+      "updatedAt": "2026-09-21T19:25:33.787Z",
       "error": null
     }
   }

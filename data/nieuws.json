@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:44:10.215Z",
+  "updatedAt": "2026-09-21T19:25:32.651Z",
   "items": [
     {
       "id": "eu-08e04e329545",
@@ -9,7 +9,18 @@
       "title": "Commission enhances energy efficiency and sustainability of data centres in the EU",
       "description": "The European Commission proposed today a common rating scheme for data centres aimed at increasing transparency on their energy use and supporting their sustainable integration into Europe's energy system.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1667",
-      "publishedAt": "2026-09-21T09:55:34.000Z",
+      "publishedAt": "2026-09-21T12:49:15.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-95c9f72700ba",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Minimum performance standards for data centres in Europe - public consultation launched",
+      "description": "The European Commission has launched a 12-week open public consultation and call for evidence on minimum performance standards for data centres in the EU.",
+      "url": "https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en",
+      "publishedAt": "2026-09-21T12:44:08.000Z",
       "language": "en"
     },
     {
@@ -21,6 +32,17 @@
       "description": "Netbeheer Nederland stelt voor om de codes aan te passen met betrekking tot grid forming voor electriciteitsopslageenheden en HVDC-systemen.",
       "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-grid-forming-voor-opslageenheden-en-hvdc",
       "publishedAt": "2026-09-21T08:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "rijksoverheid-5015e7ecd8ce",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Nieuwe website brengt energietransitie in beeld",
+      "description": "Energietransitie, duurzame energie",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/21/nieuwe-website-brengt-energietransitie-in-beeld",
+      "publishedAt": "2026-09-21T07:01:00.000Z",
       "language": "nl"
     },
     {
@@ -299,17 +321,6 @@
       "language": "en"
     },
     {
-      "id": "eu-792385e59f21",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Preparatory study for possible new energy label for computers",
-      "description": "The European Commission has published an evaluation study assessing how a possible new EU energy label for computers would be understood and used by consumers to support more informed purchasing choices.",
-      "url": "https://energy.ec.europa.eu/news/preparatory-study-possible-new-energy-label-computers-2026-09-04_en",
-      "publishedAt": "2026-09-04T12:52:42.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-bb7027e20c01",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -506,17 +517,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/20/kabinet-besluit-over-herindeling-noordzee",
       "publishedAt": "2026-03-20T14:30:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-b800114a8cee",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "Meer geld voor regio’s met aansluitingen windparken op zee",
-      "description": "Het kabinet stelt meer geld beschikbaar voor investeringen in de leefbaarheid van de regio’s waar stroom aan land komt van windparken op zee. In totaal is er dit keer voor de vijf regio’s 245 miljoen euro beschikbaar. Dit is onderdeel van het...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/18/meer-geld-voor-regios-met-aansluitingen-windparken-op-zee",
-      "publishedAt": "2026-03-18T08:00:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -524,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-21T12:44:10.215Z",
+      "updatedAt": "2026-09-21T19:25:32.650Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-21T12:44:10.215Z",
+      "updatedAt": "2026-09-21T19:25:32.651Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-21T12:44:10.215Z",
+      "updatedAt": "2026-09-21T19:25:32.651Z",
       "failedFeeds": []
     }
   }
