@@ -1,39 +1,13 @@
 {
-  "updatedAt": "2026-09-22T11:34:31.271Z",
+  "updatedAt": "2026-09-22T16:55:43.748Z",
   "items": [
-    {
-      "id": "nl-2a991aa6c345",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Wij Zijn Congolezen tot aanbieding manifest over vervolging van internationale corruptie in Congolese mijnbouw",
-      "startAt": "2026-09-22T13:30:00+02:00",
-      "endAt": "2026-09-22T13:45:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Petitie",
-      "description": "vaste commissie voor Justitie en Veiligheid",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05522",
-      "language": "nl"
-    },
-    {
-      "id": "nl-0204270c4823",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Procedurevergadering commissie Klimaat en Groene Groei",
-      "startAt": "2026-09-22T17:00:00+02:00",
-      "endAt": "2026-09-22T17:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Procedurevergadering",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04780",
-      "language": "nl"
-    },
     {
       "id": "nl-2ed3598a645a",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
       "title": "Tweeminutendebat Evaluatie CO2-heffing industrie en CO2- minimumprijs elektriciteitsopwekking (32813-1568)",
-      "startAt": "2026-09-22T17:40:00+02:00",
-      "endAt": "2026-09-22T17:55:00+02:00",
+      "startAt": "2026-09-22T19:05:00+02:00",
+      "endAt": "2026-09-22T19:15:00+02:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
@@ -70,7 +44,7 @@
       "id": "nl-b0a427533ebe",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "De Klimaat- en Energieverkenning 2026",
+      "title": "Klimaat- en Energieverkenning 2026",
       "startAt": "2026-09-23T12:45:00+02:00",
       "endAt": "2026-09-23T13:45:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -116,6 +90,19 @@
       "type": "Commissiedebat",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00657",
+      "language": "nl"
+    },
+    {
+      "id": "nl-cb7e521698bd",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "(onder voorbehoud) Tweeminutendebat Energieraad 28-29 september 2026 (2026Z19248)",
+      "startAt": "2026-09-24T10:16:00+02:00",
+      "endAt": "2026-09-24T10:30:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06836",
       "language": "nl"
     },
     {
@@ -288,6 +275,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-1795d73a325c",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "EU-wetenschapstoets ETS-herziening",
+      "startAt": "2026-10-06T17:45:00+02:00",
+      "endAt": "2026-10-06T19:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06787",
+      "language": "nl"
+    },
+    {
       "id": "eu-e1a32bbf426d",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -379,16 +379,16 @@
       "language": "nl"
     },
     {
-      "id": "eu-668b948459fd",
+      "id": "eu-ce808b64f1a0",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
-      "title": "20th SET Plan conference",
+      "title": "20th Strategic Energy Technology Plan",
       "startAt": "2026-11-04T09:00:00",
       "endAt": "2026-11-05T17:00:00",
       "location": "Cork City Hall, Cork, Ireland",
       "type": "Europees energie-evenement",
       "description": "20th SET Plan conference - Competitiveness and sovereignty of strategic energy technologies",
-      "url": "https://energy.ec.europa.eu/events/20th-set-plan-conference-2026-11-04_en",
+      "url": "https://energy.ec.europa.eu/events/20th-strategic-energy-technology-plan-2026-11-04_en",
       "language": "en"
     },
     {
@@ -410,14 +410,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 25,
-      "updatedAt": "2026-09-22T11:34:31.271Z",
+      "updatedAt": "2026-09-22T16:55:43.748Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-22T11:34:31.271Z",
+      "updatedAt": "2026-09-22T16:55:43.748Z",
       "error": null
     }
   }
