@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:51:44.513Z",
+  "updatedAt": "2026-09-22T11:34:30.404Z",
   "items": [
     {
       "id": "eu-08e04e329545",
@@ -219,17 +219,6 @@
       "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Liander voor elektriciteit vast voor de periode 2027 tot en met 2031.",
       "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-liander-elektriciteit-2027-2031",
       "publishedAt": "2026-09-14T13:55:39.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-bfa634f2ead0",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Inkomstenbesluit Enexis Gas 2027-2031",
-      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Enexis voor gas vast voor de periode 2027 tot en met 2031.",
-      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-enexis-gas-2027-2031",
-      "publishedAt": "2026-09-14T13:45:27.000Z",
       "language": "nl"
     },
     {
@@ -524,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-22T04:51:44.512Z",
+      "updatedAt": "2026-09-22T11:34:30.403Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-09-22T04:51:44.513Z",
+      "count": 6,
+      "updatedAt": "2026-09-22T11:34:30.404Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-22T04:51:44.513Z",
+      "updatedAt": "2026-09-22T11:34:30.404Z",
       "failedFeeds": []
     }
   }
