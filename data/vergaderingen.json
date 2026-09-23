@@ -1,58 +1,6 @@
 {
-  "updatedAt": "2026-09-23T07:43:51.588Z",
+  "updatedAt": "2026-09-23T13:37:07.006Z",
   "items": [
-    {
-      "id": "nl-40387691edeb",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Wet toepassing tweerichtingscontracten ter verrekening van verschillen voor klimaat en energie",
-      "startAt": "2026-09-23T10:00:00+02:00",
-      "endAt": "2026-09-23T11:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05625",
-      "language": "nl"
-    },
-    {
-      "id": "nl-80e1dbffd531",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "ETS-herziening",
-      "startAt": "2026-09-23T11:30:00+02:00",
-      "endAt": "2026-09-23T12:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06066",
-      "language": "nl"
-    },
-    {
-      "id": "nl-b0a427533ebe",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Klimaat- en Energieverkenning 2026",
-      "startAt": "2026-09-23T12:45:00+02:00",
-      "endAt": "2026-09-23T13:45:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06385",
-      "language": "nl"
-    },
-    {
-      "id": "nl-1bb77dcaabfa",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Versnelde verzwakking van de Atlantische doorstroming (AMOC)",
-      "startAt": "2026-09-23T14:30:00+02:00",
-      "endAt": "2026-09-23T16:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Rondetafelgesprek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04788",
-      "language": "nl"
-    },
     {
       "id": "nl-6117bb7c9800",
       "source": "nl",
@@ -72,7 +20,7 @@
       "sourceLabel": "Tweede Kamer",
       "title": "(onder voorbehoud) Tweeminutendebat Energieraad 28-29 september 2026 (2026Z19248)",
       "startAt": "2026-09-24T10:16:00+02:00",
-      "endAt": "2026-09-24T10:30:00+02:00",
+      "endAt": "2026-09-24T10:35:00+02:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
@@ -392,6 +340,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-b8d961045fa3",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Procedurevergadering commissie Klimaat en Groene Groei",
+      "startAt": "2026-10-27T17:00:00+01:00",
+      "endAt": "2026-10-27T17:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Procedurevergadering",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04783",
+      "language": "nl"
+    },
+    {
       "id": "eu-ce808b64f1a0",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -422,15 +383,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 26,
-      "updatedAt": "2026-09-23T07:43:51.588Z",
+      "count": 23,
+      "updatedAt": "2026-09-23T13:37:07.006Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-23T07:43:51.588Z",
+      "updatedAt": "2026-09-23T13:37:07.006Z",
       "error": null
     }
   }

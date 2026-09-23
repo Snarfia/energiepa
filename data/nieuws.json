@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-23T07:43:50.469Z",
+  "updatedAt": "2026-09-23T13:37:05.809Z",
   "items": [
+    {
+      "id": "eu-bd1b0f242c40",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "In focus: EU international energy cooperation",
+      "description": "Today, the global clean energy transition is firmly underway and has become an engine for competitiveness, resilience and prosperity.",
+      "url": "https://energy.ec.europa.eu/news/focus-eu-international-energy-cooperation-2026-09-17_en",
+      "publishedAt": "2026-09-23T13:36:43.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-08e04e329545",
       "source": "eu",
@@ -87,17 +98,6 @@
       "description": "Today, the Yara Sluiskil plant, the largest commercial carbon capture and storage (CCS) project in Europe started its operations in Sluikil, a village in the Zeeland province of the Netherlands.",
       "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
       "publishedAt": "2026-09-17T15:27:44.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-bd1b0f242c40",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "In focus: EU international energy cooperation",
-      "description": "Today, the global clean energy transition is firmly underway and has become an engine for competitiveness, resilience and prosperity.",
-      "url": "https://energy.ec.europa.eu/news/focus-eu-international-energy-cooperation-2026-09-17_en",
-      "publishedAt": "2026-09-17T14:20:34.000Z",
       "language": "en"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-23T07:43:50.469Z",
+      "updatedAt": "2026-09-23T13:37:05.809Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-23T07:43:50.469Z",
+      "updatedAt": "2026-09-23T13:37:05.809Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-23T07:43:50.469Z",
+      "updatedAt": "2026-09-23T13:37:05.809Z",
       "failedFeeds": []
     }
   }
