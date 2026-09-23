@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-23T13:37:07.006Z",
+  "updatedAt": "2026-09-23T18:23:25.166Z",
   "items": [
-    {
-      "id": "nl-6117bb7c9800",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Klimaatverandering en gezondheid",
-      "startAt": "2026-09-23T17:30:00+02:00",
-      "endAt": "2026-09-23T18:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Gesprek",
-      "description": "vaste commissie voor Volksgezondheid, Welzijn en Sport",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05753",
-      "language": "nl"
-    },
     {
       "id": "nl-cb7e521698bd",
       "source": "nl",
@@ -366,6 +353,19 @@
       "language": "en"
     },
     {
+      "id": "eu-afc63d005945",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "10th Equality Platform for the energy sector",
+      "startAt": "2026-11-27T09:00:00",
+      "endAt": "2026-11-27T13:00:00",
+      "location": "Brussels, Belgium",
+      "type": "Europees energie-evenement",
+      "description": "10th meeting Equality Platform for the Energy Sector",
+      "url": "https://energy.ec.europa.eu/events/10th-equality-platform-energy-sector-2026-11-27_en",
+      "language": "en"
+    },
+    {
       "id": "eu-d7a3b171ebd8",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -383,15 +383,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-09-23T13:37:07.006Z",
+      "count": 22,
+      "updatedAt": "2026-09-23T18:23:25.166Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-09-23T13:37:07.006Z",
+      "count": 7,
+      "updatedAt": "2026-09-23T18:23:25.166Z",
       "error": null
     }
   }
