@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T00:29:58.701Z",
+  "updatedAt": "2026-09-23T07:43:51.588Z",
   "items": [
     {
       "id": "nl-40387691edeb",
@@ -67,19 +67,6 @@
       "language": "nl"
     },
     {
-      "id": "nl-4eda8c196867",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Energie voor huishoudens",
-      "startAt": "2026-09-24T10:00:00+02:00",
-      "endAt": "2026-09-24T14:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00657",
-      "language": "nl"
-    },
-    {
       "id": "nl-cb7e521698bd",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -90,6 +77,19 @@
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06836",
+      "language": "nl"
+    },
+    {
+      "id": "nl-4eda8c196867",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energie voor huishoudens",
+      "startAt": "2026-09-24T10:45:00+02:00",
+      "endAt": "2026-09-24T14:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00657",
       "language": "nl"
     },
     {
@@ -423,14 +423,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 26,
-      "updatedAt": "2026-09-23T00:29:58.701Z",
+      "updatedAt": "2026-09-23T07:43:51.588Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-23T00:29:58.701Z",
+      "updatedAt": "2026-09-23T07:43:51.588Z",
       "error": null
     }
   }
