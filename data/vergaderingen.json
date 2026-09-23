@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-22T21:16:15.122Z",
+  "updatedAt": "2026-09-23T00:29:58.701Z",
   "items": [
-    {
-      "id": "nl-2ed3598a645a",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Evaluatie CO2-heffing industrie en CO2- minimumprijs elektriciteitsopwekking (32813-1568)",
-      "startAt": "2026-09-22T19:05:00+02:00",
-      "endAt": "2026-09-22T19:15:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06451",
-      "language": "nl"
-    },
     {
       "id": "nl-40387691edeb",
       "source": "nl",
@@ -379,6 +366,32 @@
       "language": "nl"
     },
     {
+      "id": "nl-7fb732929187",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Inzake volume- en tijdsafhankelijke nettarieven namens ACM",
+      "startAt": "2026-10-15T16:00:00+02:00",
+      "endAt": "2026-10-15T17:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06655",
+      "language": "nl"
+    },
+    {
+      "id": "nl-ca98de2a9877",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energiesysteem",
+      "startAt": "2026-10-26T10:00:00+01:00",
+      "endAt": "2026-10-26T15:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Notaoverleg",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+      "language": "nl"
+    },
+    {
       "id": "eu-ce808b64f1a0",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -409,15 +422,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 25,
-      "updatedAt": "2026-09-22T21:16:15.122Z",
+      "count": 26,
+      "updatedAt": "2026-09-23T00:29:58.701Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-22T21:16:15.122Z",
+      "updatedAt": "2026-09-23T00:29:58.701Z",
       "error": null
     }
   }
