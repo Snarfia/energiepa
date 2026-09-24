@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-24T04:46:14.685Z",
+  "updatedAt": "2026-09-24T11:41:51.367Z",
   "items": [
     {
       "id": "nl-cb7e521698bd",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "(onder voorbehoud) Tweeminutendebat Energieraad 28-29 september 2026 (2026Z19248)",
+      "title": "Tweeminutendebat Energieraad (informeel) 28-29 september 2026 (21501-33-1242)",
       "startAt": "2026-09-24T10:16:00+02:00",
       "endAt": "2026-09-24T10:35:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -384,14 +384,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 22,
-      "updatedAt": "2026-09-24T04:46:14.685Z",
+      "updatedAt": "2026-09-24T11:41:51.367Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-24T04:46:14.685Z",
+      "updatedAt": "2026-09-24T11:41:51.367Z",
       "error": null
     }
   }

@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-09-24T04:46:13.497Z",
+  "updatedAt": "2026-09-24T11:41:50.318Z",
   "items": [
+    {
+      "id": "eu-db95381c9da3",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission publishes terms and conditions for €1 billion industrial heat decarbonisation auction",
+      "description": "On 24 September 2026, the Commission published the final Terms and Conditions (T&Cs) for its second Europe-wide auction for projects decarbonising industrial process heat (IF26 Heat Auction).",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-publishes-terms-and-conditions-eur1-billion-industrial-heat-decarbonisation-auction-2026-09-24_en",
+      "publishedAt": "2026-09-24T10:18:33.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-842fcee37721",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Vanaf 27 september 2026 strengere eisen aan duurzaamheidsclaims",
+      "description": "Op 27 september 2026 treedt de Nederlandse implementatiewet voor de Europese richtlijn Empowering Consumers for the Green Transition in werking. Er gelden vanaf dan strengere regels voor duurzaamheidsclaims.",
+      "url": "https://www.acm.nl/nl/publicaties/vanaf-27-september-2026-strengere-eisen-aan-duurzaamheidsclaims",
+      "publishedAt": "2026-09-24T08:27:18.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-bd1b0f242c40",
       "source": "eu",
@@ -211,17 +233,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-db065968b707",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Inkomstenbesluit Liander Elektriciteit 2027-2031",
-      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Liander voor elektriciteit vast voor de periode 2027 tot en met 2031.",
-      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-liander-elektriciteit-2027-2031",
-      "publishedAt": "2026-09-14T13:55:39.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-c8383cc3ba35",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -296,17 +307,6 @@
       "description": "The European Investment Bank (EIB) has granted Elia Transmission Belgium a credit facility of €1 billion on favourable terms for the Princess Elisabeth Energy Island.",
       "url": "https://www.eib.org/en/press/news/news-elia-transmission-belgium-obtient-une-facilite-de-credit-verte-de-eur1-milliard-de-la-banque-europeenne-d-investissement-pour-son-projet-de-l-ile-princesse-elisabeth?utm_source=socialmedia&utm_medium=Social&utm_campaign=PressRelease&utm_content=Princess%20Elisabeth%20Island&utm_term=Energy-Renewable-Efficiency_Belgium&utm_id=2026-09-07_01_en",
       "publishedAt": "2026-09-08T08:37:01.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-78a801792693",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Notification by Germany of voluntary cancellation of allowances in the EU ETS for plants closed in 2022",
-      "description": "Germany notified to the Commission in May 2026 the exact number of allowances to be cancelled, in relation to the year 2024, during the period between 1 September and 31 December of 2026.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/notification-germany-voluntary-cancellation-allowances-eu-ets-plants-closed-2022-2026-09-04_en",
-      "publishedAt": "2026-09-04T16:45:12.000Z",
       "language": "en"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-24T04:46:13.496Z",
+      "updatedAt": "2026-09-24T11:41:50.318Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-24T04:46:13.497Z",
+      "updatedAt": "2026-09-24T11:41:50.318Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-24T04:46:13.497Z",
+      "updatedAt": "2026-09-24T11:41:50.318Z",
       "failedFeeds": []
     }
   }
