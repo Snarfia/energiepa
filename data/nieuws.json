@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-24T11:41:50.318Z",
+  "updatedAt": "2026-09-24T17:07:51.235Z",
   "items": [
+    {
+      "id": "eu-638dad3f7548",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "54% of EU’s electricity came from renewables in Q2 2026",
+      "description": "In the second quarter of 2026, 54.1% of the electricity generated in the EU came from renewable energy sources, a slight decrease from 54.3% in the same period of 2025.",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
+      "publishedAt": "2026-09-24T15:11:30.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-7824f08c4576",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: Evolution of fuel prices in August 2026",
+      "description": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
+      "publishedAt": "2026-09-24T15:07:12.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-37482ccf97fe",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
+      "description": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
+      "publishedAt": "2026-09-24T15:02:28.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-db95381c9da3",
       "source": "eu",
@@ -9,7 +42,7 @@
       "title": "Commission publishes terms and conditions for €1 billion industrial heat decarbonisation auction",
       "description": "On 24 September 2026, the Commission published the final Terms and Conditions (T&Cs) for its second Europe-wide auction for projects decarbonising industrial process heat (IF26 Heat Auction).",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-publishes-terms-and-conditions-eur1-billion-industrial-heat-decarbonisation-auction-2026-09-24_en",
-      "publishedAt": "2026-09-24T10:18:33.000Z",
+      "publishedAt": "2026-09-24T13:30:50.000Z",
       "language": "en"
     },
     {
@@ -98,17 +131,6 @@
       "description": "Commissioner Dan Jørgensen: ‘The age of fossil fuels is over.’ With the EU Emissions Trading System review and Electrification Action Plan, Europe chooses clean electrons over black molecules—cutting costs, boosting security, and leading the green transition.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1643",
       "publishedAt": "2026-09-18T14:30:21.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-638dad3f7548",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: 54% of EU’s electricity came from renewables in Q2 2026",
-      "description": "In the second quarter of 2026, 54.1% of the electricity generated in the EU came from renewable energy sources, a slight decrease from 54.3% in the same period of 2025.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
-      "publishedAt": "2026-09-18T09:42:21.000Z",
       "language": "en"
     },
     {
@@ -285,28 +307,6 @@
       "description": "The Commission today proposed the Affordable Housing Act to support Member States and cities address housing affordability and availability in areas facing the greatest pressures. The lack of affordable housing has become one of the most urgent concerns for…",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1792",
       "publishedAt": "2026-09-09T13:56:09.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-e688b792d541",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Oil Coordination Group: No immediate security of oil supply concerns in the EU",
-      "description": "Experts from the European Commission, EU countries, industry, the International Energy Agency (IEA), Energy Community and NATO met in the Oil Coordination Group today to discuss the state of oil security of supply in Europe.",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-no-immediate-security-oil-supply-concerns-eu-2026-09-08_en",
-      "publishedAt": "2026-09-08T15:54:49.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-0bb4d1263aa4",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Elia Transmission Belgium secures a €1 billion green credit facility from the European Investment Bank for the Princess Elisabeth Island project",
-      "description": "The European Investment Bank (EIB) has granted Elia Transmission Belgium a credit facility of €1 billion on favourable terms for the Princess Elisabeth Energy Island.",
-      "url": "https://www.eib.org/en/press/news/news-elia-transmission-belgium-obtient-une-facilite-de-credit-verte-de-eur1-milliard-de-la-banque-europeenne-d-investissement-pour-son-projet-de-l-ile-princesse-elisabeth?utm_source=socialmedia&utm_medium=Social&utm_campaign=PressRelease&utm_content=Princess%20Elisabeth%20Island&utm_term=Energy-Renewable-Efficiency_Belgium&utm_id=2026-09-07_01_en",
-      "publishedAt": "2026-09-08T08:37:01.000Z",
       "language": "en"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-24T11:41:50.318Z",
+      "updatedAt": "2026-09-24T17:07:51.234Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-09-24T11:41:50.318Z",
+      "updatedAt": "2026-09-24T17:07:51.235Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-24T11:41:50.318Z",
+      "updatedAt": "2026-09-24T17:07:51.235Z",
       "failedFeeds": []
     }
   }
