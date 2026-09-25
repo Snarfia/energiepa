@@ -1,58 +1,6 @@
 {
-  "updatedAt": "2026-09-25T07:45:25.439Z",
+  "updatedAt": "2026-09-25T13:44:29.956Z",
   "items": [
-    {
-      "id": "nl-3c4c7861d112",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
-      "startAt": "2026-09-28T00:00:00+02:00",
-      "endAt": "2026-09-28T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
-      "language": "nl"
-    },
-    {
-      "id": "nl-a77779c2c093",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
-      "startAt": "2026-09-28T00:00:00+02:00",
-      "endAt": "2026-09-28T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
-      "language": "nl"
-    },
-    {
-      "id": "nl-cf2720b629fb",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
-      "startAt": "2026-09-28T00:00:00+02:00",
-      "endAt": "2026-09-28T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
-      "language": "nl"
-    },
-    {
-      "id": "nl-bc9ff4ddacc5",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Circulaire economie (CD 8/9)",
-      "startAt": "2026-09-28T00:00:00+02:00",
-      "endAt": "2026-09-28T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06387",
-      "language": "nl"
-    },
     {
       "id": "eu-c1dd4dfed85e",
       "source": "eu",
@@ -142,6 +90,58 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06452",
+      "language": "nl"
+    },
+    {
+      "id": "nl-3c4c7861d112",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Internationale klimaatstrategie (CD 12/3)",
+      "startAt": "2026-10-01T20:40:00+02:00",
+      "endAt": "2026-10-01T21:10:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A02265",
+      "language": "nl"
+    },
+    {
+      "id": "nl-a77779c2c093",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
+      "startAt": "2026-10-05T00:00:00+02:00",
+      "endAt": "2026-10-05T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
+      "language": "nl"
+    },
+    {
+      "id": "nl-cf2720b629fb",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
+      "startAt": "2026-10-05T00:00:00+02:00",
+      "endAt": "2026-10-05T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
+      "language": "nl"
+    },
+    {
+      "id": "nl-bc9ff4ddacc5",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Circulaire economie (CD 8/9)",
+      "startAt": "2026-10-05T00:00:00+02:00",
+      "endAt": "2026-10-05T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06387",
       "language": "nl"
     },
     {
@@ -239,7 +239,7 @@
       "id": "nl-3b34ad83d249",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Het ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
+      "title": "ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
       "startAt": "2026-10-14T13:00:00+02:00",
       "endAt": "2026-10-14T14:00:00+02:00",
       "location": "Tweede Kamer, Den Haag",
@@ -358,14 +358,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-25T07:45:25.439Z",
+      "updatedAt": "2026-09-25T13:44:29.956Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-25T07:45:25.439Z",
+      "updatedAt": "2026-09-25T13:44:29.956Z",
       "error": null
     }
   }
