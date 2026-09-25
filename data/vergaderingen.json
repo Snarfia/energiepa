@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-09-24T21:29:12.700Z",
+  "updatedAt": "2026-09-25T00:32:32.490Z",
   "items": [
-    {
-      "id": "nl-cb7e521698bd",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Energieraad (informeel) 28-29 september 2026 (21501-33-1242)",
-      "startAt": "2026-09-24T10:16:00+02:00",
-      "endAt": "2026-09-24T10:35:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06836",
-      "language": "nl"
-    },
-    {
-      "id": "nl-4eda8c196867",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Energie voor huishoudens",
-      "startAt": "2026-09-24T10:45:00+02:00",
-      "endAt": "2026-09-24T14:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00657",
-      "language": "nl"
-    },
-    {
-      "id": "nl-cf0b3a1ceb26",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Duurzaam vervoer",
-      "startAt": "2026-09-24T14:00:00+02:00",
-      "endAt": "2026-09-24T17:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Infrastructuur en Waterstaat",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01144",
-      "language": "nl"
-    },
     {
       "id": "nl-3c4c7861d112",
       "source": "nl",
@@ -396,15 +357,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-09-24T21:29:12.699Z",
+      "count": 20,
+      "updatedAt": "2026-09-25T00:32:32.490Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-09-24T21:29:12.700Z",
+      "updatedAt": "2026-09-25T00:32:32.490Z",
       "error": null
     }
   }
