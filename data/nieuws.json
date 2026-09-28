@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:20:05.373Z",
+  "updatedAt": "2026-09-28T13:50:08.245Z",
   "items": [
     {
       "id": "eu-ed3c218394bf",
@@ -9,7 +9,7 @@
       "title": "Commission takes action to ensure complete and timely transposition of EU directives - key decisions on energy",
       "description": "The European Commission is taking action against several EU Member States that have failed to notify the Commission of measures they have adopted to transpose EU Directives into their national laws.",
       "url": "https://energy.ec.europa.eu/news/commission-takes-action-ensure-complete-and-timely-transposition-eu-directives-key-decisions-energy-2026-09-25_en",
-      "publishedAt": "2026-09-25T10:45:34.000Z",
+      "publishedAt": "2026-09-28T07:51:28.000Z",
       "language": "en"
     },
     {
@@ -266,28 +266,6 @@
       "language": "en"
     },
     {
-      "id": "acm-7980b6306d53",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Technische briefing toezicht op de rendementen van warmtebedrijven",
-      "description": "Schriftelijke inbreng van de ACM bij de technische briefing over het toezicht op de rendementen van warmtebedrijven in de Tweede Kamer.",
-      "url": "https://www.acm.nl/nl/publicaties/technische-briefing-toezicht-op-de-rendementen-van-warmtebedrijven",
-      "publishedAt": "2026-09-15T08:10:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-1aa68ef181c6",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Inkomstenbesluit Liander Gas 2027-2031",
-      "description": "De Autoriteit Consument en Markt stelt met dit besluit de toegestane inkomsten en volumes voor Liander voor gas vast voor de periode 2027 tot en met 2031.",
-      "url": "https://www.acm.nl/nl/publicaties/inkomstenbesluit-liander-gas-2027-2031",
-      "publishedAt": "2026-09-14T14:21:36.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-c8383cc3ba35",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -513,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-28T05:20:05.373Z",
+      "updatedAt": "2026-09-28T13:50:08.245Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-09-28T05:20:05.373Z",
+      "count": 4,
+      "updatedAt": "2026-09-28T13:50:08.245Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-28T05:20:05.373Z",
+      "updatedAt": "2026-09-28T13:50:08.245Z",
       "failedFeeds": []
     }
   }
