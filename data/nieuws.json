@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-29T01:55:10.676Z",
+  "updatedAt": "2026-09-29T08:26:29.710Z",
   "items": [
+    {
+      "id": "acm-e2f20529bfeb",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Ontwerpmethodebesluit vaststelling Start-GAW Warmte",
+      "description": "De ACM consulteert het ontwerp-methodebesluit voor het berekenen van de initiële gestandaardiseerde activawaarde voor aangewezen warmtebedrijven.",
+      "url": "https://www.acm.nl/nl/publicaties/ontwerpmethodebesluit-vaststelling-start-gaw-warmte",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-ed3c218394bf",
       "source": "eu",
@@ -491,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-29T01:55:10.675Z",
+      "updatedAt": "2026-09-29T08:26:29.710Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-09-29T01:55:10.675Z",
+      "count": 5,
+      "updatedAt": "2026-09-29T08:26:29.710Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-29T01:55:10.676Z",
+      "updatedAt": "2026-09-29T08:26:29.710Z",
       "failedFeeds": []
     }
   }
