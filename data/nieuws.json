@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-09-29T08:26:29.710Z",
+  "updatedAt": "2026-09-29T16:30:00.387Z",
   "items": [
+    {
+      "id": "eu-2bbaa74f5810",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Oil Coordination Group: Continued concern about prices while supply remains stable",
+      "description": "The Oil Coordination Group met again today to take stock of the current oil market situation.",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-continued-concern-about-prices-while-supply-remains-stable-2026-09-29_en",
+      "publishedAt": "2026-09-29T15:33:02.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-e2f20529bfeb",
       "source": "acm",
@@ -277,17 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-c8383cc3ba35",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Call for applications: candidate energy infrastructure Projects of Common and Mutual Interest – electricity and smart grids",
-      "description": "The Commission has opened a call for applications for cross-border energy infrastructure projects seeking to obtain Project of Common Interest (PCI) or Project of Mutual Interest (PMI) status under the TEN-E Regulation.",
-      "url": "https://energy.ec.europa.eu/news/call-applications-candidate-energy-infrastructure-projects-common-and-mutual-interest-electricity-2026-09-14_en",
-      "publishedAt": "2026-09-14T12:33:15.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-28ebe3a4551a",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -502,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-29T08:26:29.710Z",
+      "updatedAt": "2026-09-29T16:30:00.387Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-09-29T08:26:29.710Z",
+      "updatedAt": "2026-09-29T16:30:00.387Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-29T08:26:29.710Z",
+      "updatedAt": "2026-09-29T16:30:00.387Z",
       "failedFeeds": []
     }
   }
