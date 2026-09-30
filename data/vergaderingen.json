@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T01:17:12.930Z",
+  "updatedAt": "2026-09-30T08:30:49.656Z",
   "items": [
     {
       "id": "eu-c1dd4dfed85e",
@@ -366,19 +366,6 @@
       "language": "nl"
     },
     {
-      "id": "nl-c80eec32827f",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Procedurevergadering commissie klimaat en Groene Groei",
-      "startAt": "2026-11-10T17:00:00+01:00",
-      "endAt": "2026-11-10T17:30:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Procedurevergadering",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04784",
-      "language": "nl"
-    },
-    {
       "id": "eu-afc63d005945",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -409,15 +396,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-09-30T01:17:12.930Z",
+      "count": 22,
+      "updatedAt": "2026-09-30T08:30:49.656Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-09-30T01:17:12.930Z",
+      "updatedAt": "2026-09-30T08:30:49.656Z",
       "error": null
     }
   }
