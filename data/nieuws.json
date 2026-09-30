@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-09-30T08:30:48.770Z",
+  "updatedAt": "2026-09-30T16:24:05.036Z",
   "items": [
+    {
+      "id": "eu-f2944dee9a52",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Opening remarks by Commissioner Jørgensen at the press conference concluding the Informal Energy Council",
+      "description": "Commissioner Dan Jørgensen: ‘Thank you, Minister, for hosting these important discussions here in Dublin. And thank you for putting energy affordability and security at the top of the agenda. Months after the start of the conflict in Iran, it is clear that…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2016",
+      "publishedAt": "2026-09-30T15:57:34.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-20f78678d699",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Europe’s retail energy markets and the shift to electrification: prices, affordability and consumer flexibility",
+      "description": "As Europe moves towards greater electrification, retail energy markets will increasingly shape the costs and opportunities for consumers. How electricity is priced and how consumers can respond to changing prices will influence whether households can benefit…",
+      "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
+      "publishedAt": "2026-09-30T15:34:40.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a05bc10208eb",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EIB powers Europe’s solar future with €100 million for Romania’s 1.3 GWp Dama Solar",
+      "description": "The European Investment Bank (EIB) is providing €100 million for Dama Solar, a new large-scale solar power plant being developed by Rezolv Energy in Arad County, western Romania.",
+      "url": "https://www.eib.org/en/press/all/2026-324-eib-powers-europe-s-solar-future-with-eur100-million-for-romania-s-1-3-gwp-dama-solar",
+      "publishedAt": "2026-09-30T15:29:18.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-db95381c9da3",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission publishes terms and conditions for €1 billion industrial heat decarbonisation auction",
+      "description": "On 24 September 2026, the Commission published the final Terms and Conditions (T&Cs) for its second Europe-wide auction for projects decarbonising industrial process heat (IF26 Heat Auction).",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-publishes-terms-and-conditions-eur1-billion-industrial-heat-decarbonisation-auction-2026-09-24_en",
+      "publishedAt": "2026-09-30T12:00:47.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-2bbaa74f5810",
       "source": "eu",
@@ -87,17 +131,6 @@
       "description": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
       "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
       "publishedAt": "2026-09-24T15:02:28.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-db95381c9da3",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission publishes terms and conditions for €1 billion industrial heat decarbonisation auction",
-      "description": "On 24 September 2026, the Commission published the final Terms and Conditions (T&Cs) for its second Europe-wide auction for projects decarbonising industrial process heat (IF26 Heat Auction).",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-publishes-terms-and-conditions-eur1-billion-industrial-heat-decarbonisation-auction-2026-09-24_en",
-      "publishedAt": "2026-09-24T13:30:50.000Z",
       "language": "en"
     },
     {
@@ -222,17 +255,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-bb17819223d7",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Regulatorische Accountingregels aangewezen warmtebedrijven 2027",
-      "description": "De ACM publiceert Regulatorische Accountingregels (RAR) voor de tariefregulering van warmtebedrijven onder de Wet collectieve warmte (Wcw).",
-      "url": "https://www.acm.nl/nl/publicaties/regulatorische-accountingregels-aangewezen-warmtebedrijven-2027",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-daeb7ba5b71c",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -252,39 +274,6 @@
       "description": "The Commission and the European University Institute are launching the Energy Regulation Academy (EnRA), a new EU-funded initiative designed to help national authorities translate electricity market reforms into practical results across all members.",
       "url": "https://energy.ec.europa.eu/news/commission-launches-energy-regulation-academy-support-public-officials-implement-eu-energy-measures-2026-09-15_en",
       "publishedAt": "2026-09-16T08:11:15.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-466422cddb0f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Over €400 million in EU ETS support given to airlines for using sustainable aviation fuels in 2025",
-      "description": "On 8 September 2026, the Commission adopted a new Decision allocating EU Emissions Trading System (ETS) allowances to airlines for using sustainable aviation fuels (SAF) in 2025",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/over-eur400-million-eu-ets-support-given-airlines-using-sustainable-aviation-fuels-2025-2026-09-15_en",
-      "publishedAt": "2026-09-15T14:44:22.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-0624484f3195",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EIB helps transform Lithuania’s port of Klaipėda into defence and clean-energy hub with €100 million in financing",
-      "description": "The European Investment Bank (EIB) is providing a €100 million loan to help transform Lithuania’s largest seaport, Klaipėda, into a strategic gateway for defence, energy and trade in the Baltic region.",
-      "url": "https://www.eib.org/en/press/all/2026-293-eib-helps-transform-lithuania-s-port-of-klaipeda-into-defence-and-clean-energy-hub-with-eur100-million-in-financing",
-      "publishedAt": "2026-09-15T11:12:47.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-e5f4e510d221",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EIB backs Finnish nuclear-technology company Steady Energy with €40 million financing",
-      "description": "The European Investment Bank (EIB) is investing up to €40 million in Finnish nuclear-technology company Steady Energy as part of a broader financing package involving institutional, strategic and retail investors.",
-      "url": "https://www.eib.org/en/press/all/2026-294-eib-backs-finnish-nuclear-technology-company-steady-energy-with-eur40-million-financing",
-      "publishedAt": "2026-09-15T11:12:20.000Z",
       "language": "en"
     },
     {
@@ -502,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-30T08:30:48.769Z",
+      "updatedAt": "2026-09-30T16:24:05.036Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-09-30T08:30:48.770Z",
+      "count": 4,
+      "updatedAt": "2026-09-30T16:24:05.036Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-09-30T08:30:48.770Z",
+      "updatedAt": "2026-09-30T16:24:05.036Z",
       "failedFeeds": []
     }
   }

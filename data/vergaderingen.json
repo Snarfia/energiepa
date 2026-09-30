@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-09-30T08:30:49.656Z",
+  "updatedAt": "2026-09-30T16:24:06.335Z",
   "items": [
-    {
-      "id": "eu-c1dd4dfed85e",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Clean energy, restored lands: The path forward for coal regions",
-      "startAt": "2026-09-29T09:00:00",
-      "endAt": "2026-09-30T17:00:00",
-      "location": "German Mining Museum, Bochum, Germany",
-      "type": "Europees energie-evenement",
-      "description": "This two-day event will bring together researchers, policymakers, industry representatives and regional practitioners to discuss the links between research & innovation (R&I), policy and implementation on the ground…",
-      "url": "https://energy.ec.europa.eu/events/clean-energy-restored-lands-path-forward-coal-regions-2026-09-29_en",
-      "language": "en"
-    },
-    {
-      "id": "nl-76e26fe5b756",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Kennismakingsgesprek Mijnraad",
-      "startAt": "2026-09-30T10:00:00+02:00",
-      "endAt": "2026-09-30T11:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04239",
-      "language": "nl"
-    },
-    {
-      "id": "nl-3c8dbe80bb6e",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Voortgang klimaatbeleid",
-      "startAt": "2026-09-30T14:00:00+02:00",
-      "endAt": "2026-09-30T18:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00908",
-      "language": "nl"
-    },
     {
       "id": "eu-6f8ffc8a30fe",
       "source": "eu",
@@ -210,19 +171,6 @@
       "language": "nl"
     },
     {
-      "id": "nl-b8dc5fe57b3c",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Energie voor huishoudens (voortzetting)",
-      "startAt": "2026-10-13T19:00:00+02:00",
-      "endAt": "2026-10-13T21:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07179",
-      "language": "nl"
-    },
-    {
       "id": "nl-7322d64d52f5",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -366,6 +314,32 @@
       "language": "nl"
     },
     {
+      "id": "nl-c80eec32827f",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Procedurevergadering commissie klimaat en Groene Groei",
+      "startAt": "2026-11-10T17:00:00+01:00",
+      "endAt": "2026-11-10T17:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Procedurevergadering",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04784",
+      "language": "nl"
+    },
+    {
+      "id": "nl-25a73fb9eda9",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Kernenergie",
+      "startAt": "2026-11-11T10:00:00+01:00",
+      "endAt": "2026-11-11T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05144",
+      "language": "nl"
+    },
+    {
       "id": "eu-afc63d005945",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -396,15 +370,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 22,
-      "updatedAt": "2026-09-30T08:30:49.656Z",
+      "count": 21,
+      "updatedAt": "2026-09-30T16:24:06.335Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 8,
-      "updatedAt": "2026-09-30T08:30:49.656Z",
+      "count": 7,
+      "updatedAt": "2026-09-30T16:24:06.335Z",
       "error": null
     }
   }
