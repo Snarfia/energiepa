@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-10-01T08:53:20.641Z",
+  "updatedAt": "2026-10-01T17:01:08.215Z",
   "items": [
-    {
-      "id": "eu-6f8ffc8a30fe",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Citizens’ Energy Forum",
-      "startAt": "2026-10-01T08:45:00",
-      "endAt": "2026-10-01T18:00:00",
-      "location": "Charlemagne building, Brussels, Belgium",
-      "type": "Europees energie-evenement",
-      "description": "This year’s Forum will focus on the conditions necessary to turn the policy ambition set out by the Citizens Energy Package into reality on the ground for citizens, cities and communities.",
-      "url": "https://energy.ec.europa.eu/events/citizens-energy-forum-2026-10-01_en",
-      "language": "en"
-    },
-    {
-      "id": "nl-2fb899e782ea",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Rondetafelgesprek Advies Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-10-01T10:00:00+02:00",
-      "endAt": "2026-10-01T12:25:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Rondetafelgesprek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05578",
-      "language": "nl"
-    },
     {
       "id": "nl-0b5ccbaf96c4",
       "source": "nl",
@@ -142,6 +116,19 @@
       "type": "Rondetafelgesprek",
       "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04260",
+      "language": "nl"
+    },
+    {
+      "id": "nl-4f684f515bc3",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Voortgang klimaatbeleid (CD 30/9)",
+      "startAt": "2026-10-12T00:00:00+02:00",
+      "endAt": "2026-10-12T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07281",
       "language": "nl"
     },
     {
@@ -371,14 +358,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 21,
-      "updatedAt": "2026-10-01T08:53:20.641Z",
+      "updatedAt": "2026-10-01T17:01:08.215Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-10-01T08:53:20.641Z",
+      "count": 6,
+      "updatedAt": "2026-10-01T17:01:08.215Z",
       "error": null
     }
   }

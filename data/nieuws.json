@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-01T08:53:19.080Z",
+  "updatedAt": "2026-10-01T17:01:07.134Z",
   "items": [
+    {
+      "id": "eu-64cb70a2cced",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission grants CB RES status to three additional cross-border renewable energy projects",
+      "description": "The European Commission has approved three new cross-border renewable energy projects under the fifth call for CB RES status: WIND, DEPLOY and ZEGA-LINNK. Following this update, and after the withdrawal of PONTIS from the list, the number of projects holding…",
+      "url": "https://cinea.ec.europa.eu/news-events/news/commission-grants-cb-res-status-three-additional-cross-border-renewable-energy-projects-2026-10-01_en",
+      "publishedAt": "2026-10-01T11:36:01.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-3530e869efe9",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "October infringements package: key decisions on energy",
+      "description": "In the list of October infringements, there are 2 energy-related letters of formal notice and additional letters of formal notice, 5 reasoned opinions and 1 referral to the court of Justice.",
+      "url": "https://energy.ec.europa.eu/news/october-infringements-package-key-decisions-energy-2026-10-01_en",
+      "publishedAt": "2026-10-01T10:21:16.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-ce9fb48bf0a9",
       "source": "eu",
@@ -244,17 +266,6 @@
       "language": "en"
     },
     {
-      "id": "eu-499acf9e496c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Energy subsidies report highlights further reduction in 2024",
-      "description": "Total energy subsidies in the EU in 2024 amounted to €340 billion, 5% down on 2023 and significantly lower (-25%) than at the height of the crisis in 2022 (€ 457 billion), according to a new Report on energy subsidies in the EU by the Commission.",
-      "url": "https://energy.ec.europa.eu/news/energy-subsidies-report-highlights-further-reduction-2024-2026-09-17_en",
-      "publishedAt": "2026-09-17T12:33:35.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-26a54889701f",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -264,17 +275,6 @@
       "url": "https://www.acm.nl/nl/publicaties/woo-besluit-over-algemene-leveringsvoorwaarden-van-energiebedrijven",
       "publishedAt": "2026-09-17T11:53:37.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-daeb7ba5b71c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "CEF Energy: EU invests €125.8 million in three cross-border renewable energy projects",
-      "description": "The European Commission has today approved grants worth €125.81 million to finance works actions on three Cross-Border Renewable Energy (CB RES) projects.",
-      "url": "https://cinea.ec.europa.eu/news-events/news/cef-energy-eu-invests-eur1258-million-three-cross-border-renewable-energy-projects-2026-09-17_en",
-      "publishedAt": "2026-09-17T09:38:46.000Z",
-      "language": "en"
     },
     {
       "id": "rijksoverheid-28ebe3a4551a",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-01T08:53:19.079Z",
+      "updatedAt": "2026-10-01T17:01:07.133Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-01T08:53:19.080Z",
+      "updatedAt": "2026-10-01T17:01:07.134Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-01T08:53:19.080Z",
+      "updatedAt": "2026-10-01T17:01:07.134Z",
       "failedFeeds": []
     }
   }
