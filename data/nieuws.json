@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-01T01:17:05.954Z",
+  "updatedAt": "2026-10-01T08:53:19.080Z",
   "items": [
+    {
+      "id": "eu-ce9fb48bf0a9",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Revised 2027 EU ETS1 and initial 2027 EU ETS2 auction calendars published",
+      "description": "Yesterday, the European Energy Exchange (EEX) published the revised 2027 EU ETS1 and the new 2027 EU ETS2 auction calendars.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2027-eu-ets1-and-initial-2027-eu-ets2-auction-calendars-published-2026-10-01_en",
+      "publishedAt": "2026-10-01T07:41:48.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-f2944dee9a52",
       "source": "eu",
@@ -266,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-0871762f59f4",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission launches Energy Regulation Academy to support public officials to implement EU energy measures",
-      "description": "The Commission and the European University Institute are launching the Energy Regulation Academy (EnRA), a new EU-funded initiative designed to help national authorities translate electricity market reforms into practical results across all members.",
-      "url": "https://energy.ec.europa.eu/news/commission-launches-energy-regulation-academy-support-public-officials-implement-eu-energy-measures-2026-09-15_en",
-      "publishedAt": "2026-09-16T08:11:15.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-28ebe3a4551a",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-01T01:17:05.954Z",
+      "updatedAt": "2026-10-01T08:53:19.079Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-01T01:17:05.954Z",
+      "updatedAt": "2026-10-01T08:53:19.080Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-01T01:17:05.954Z",
+      "updatedAt": "2026-10-01T08:53:19.080Z",
       "failedFeeds": []
     }
   }
