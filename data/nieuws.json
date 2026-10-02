@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-02T05:33:04.712Z",
+  "updatedAt": "2026-10-02T12:30:02.506Z",
   "items": [
+    {
+      "id": "eu-033d6f3d6b83",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Energy Union Task Force meets to ensure coordination on diesel supplies and prices in Europe",
+      "description": "The Energy Union Task Force - Security has met today to discuss the latest developments concerning the situation on the diesel market and impact on prices.",
+      "url": "https://energy.ec.europa.eu/news/energy-union-task-force-meets-ensure-coordination-diesel-supplies-and-prices-europe-2026-10-02_en",
+      "publishedAt": "2026-10-02T09:55:32.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-64cb70a2cced",
       "source": "eu",
@@ -255,17 +266,6 @@
       "language": "en"
     },
     {
-      "id": "eu-60ff0f8b5c12",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission inaugurates Europe's largest industrial carbon capture and storage facility in the Netherlands",
-      "description": "Today, the Yara Sluiskil plant, the largest commercial carbon capture and storage (CCS) project in Europe started its operations in Sluikil, a village in the Zeeland province of the Netherlands.",
-      "url": "https://energy.ec.europa.eu/news/commission-inaugurates-europes-largest-industrial-carbon-capture-and-storage-facility-netherlands-2026-09-07_en",
-      "publishedAt": "2026-09-17T15:27:44.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-26a54889701f",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-02T05:33:04.711Z",
+      "updatedAt": "2026-10-02T12:30:02.506Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-02T05:33:04.712Z",
+      "updatedAt": "2026-10-02T12:30:02.506Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-02T05:33:04.712Z",
+      "updatedAt": "2026-10-02T12:30:02.506Z",
       "failedFeeds": []
     }
   }
