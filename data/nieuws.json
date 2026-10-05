@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-05T00:54:14.090Z",
+  "updatedAt": "2026-10-05T08:59:59.294Z",
   "items": [
+    {
+      "id": "eu-8f3116956102",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "G7 Leaders' Statement on global energy security and market stability",
+      "description": "Today, we, the Leaders of the G7, convened a virtual meeting to address the deepening challenges to our energy security.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2057",
+      "publishedAt": "2026-10-05T07:30:04.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-033d6f3d6b83",
       "source": "eu",
@@ -222,17 +233,6 @@
       "language": "en"
     },
     {
-      "id": "acm-215b6b7f233e",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Voorstel codewijziging grid forming voor opslageenheden en HVDC",
-      "description": "Netbeheer Nederland stelt voor om de codes aan te passen met betrekking tot grid forming voor electriciteitsopslageenheden en HVDC-systemen.",
-      "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-grid-forming-voor-opslageenheden-en-hvdc",
-      "publishedAt": "2026-09-21T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -253,28 +253,6 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1908",
       "publishedAt": "2026-09-18T14:32:43.000Z",
       "language": "en"
-    },
-    {
-      "id": "eu-7a01c42d3a1b",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Remarks by Executive Vice-President Ribera and Commissioners Hoekstra and Jørgensen at EU Emission Trading System review and Electrification Action Plan press conference",
-      "description": "Commissioner Dan Jørgensen: ‘The age of fossil fuels is over.’ With the EU Emissions Trading System review and Electrification Action Plan, Europe chooses clean electrons over black molecules—cutting costs, boosting security, and leading the green transition.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1643",
-      "publishedAt": "2026-09-18T14:30:21.000Z",
-      "language": "en"
-    },
-    {
-      "id": "acm-26a54889701f",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Woo-besluit over algemene leveringsvoorwaarden van energiebedrijven",
-      "description": "De ACM maakt geen documenten openbaar die betrekking hebben op (de wijziging van) de algemene leveringsvoorwaarden van energiebedrijven.",
-      "url": "https://www.acm.nl/nl/publicaties/woo-besluit-over-algemene-leveringsvoorwaarden-van-energiebedrijven",
-      "publishedAt": "2026-09-17T11:53:37.000Z",
-      "language": "nl"
     },
     {
       "id": "rijksoverheid-28ebe3a4551a",
@@ -491,21 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-05T00:54:14.090Z",
+      "updatedAt": "2026-10-05T08:59:59.293Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-05T00:54:14.090Z",
+      "count": 2,
+      "updatedAt": "2026-10-05T08:59:59.294Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-05T00:54:14.090Z",
+      "updatedAt": "2026-10-05T08:59:59.294Z",
       "failedFeeds": []
     }
   }
