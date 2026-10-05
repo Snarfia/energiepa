@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-05T08:59:59.294Z",
+  "updatedAt": "2026-10-05T19:17:00.200Z",
   "items": [
+    {
+      "id": "acm-94ccb197e0c5",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Monitor Brandstofprijzen ACM: benzineprijs op hoogste punt sinds februari, diesel duurder dan benzine",
+      "description": "De prijs van benzine en diesel aan de pomp is deze zomer flink gestegen en zet door in de herfst. In Nederland liggen de gemiddelde tarieven voor benzine op dit moment op het hoogste punt sinds het uitbreken van de oorlog in Iran. De gemiddelde landelijke…",
+      "url": "https://www.acm.nl/nl/publicaties/monitor-brandstofprijzen-acm-benzineprijs-op-hoogste-punt-sinds-februari-diesel-duurder-dan-benzine",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-beded430183c",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Beslissingen op bezwaren tegen tariefbeschikkingen Bonaire 2026",
+      "description": "De ACM verklaart de bezwaren van WEB en CGB tegen de tariefbeschikkingen over de maximumtarieven voor elektriciteit en drinkwater op Bonaire ongegrond.",
+      "url": "https://www.acm.nl/nl/publicaties/beslissingen-op-bezwaren-tegen-tariefbeschikkingen-bonaire-2026",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-8f3116956102",
       "source": "eu",
@@ -187,17 +209,6 @@
       "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
       "publishedAt": "2026-09-24T15:02:28.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-842fcee37721",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Vanaf 27 september 2026 strengere eisen aan duurzaamheidsclaims",
-      "description": "Op 27 september 2026 treedt de Nederlandse implementatiewet voor de Europese richtlijn Empowering Consumers for the Green Transition in werking. Er gelden vanaf dan strengere regels voor duurzaamheidsclaims.",
-      "url": "https://www.acm.nl/nl/publicaties/vanaf-27-september-2026-strengere-eisen-aan-duurzaamheidsclaims",
-      "publishedAt": "2026-09-24T08:27:18.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-bd1b0f242c40",
@@ -469,21 +480,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-05T08:59:59.293Z",
+      "updatedAt": "2026-10-05T19:17:00.200Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-05T08:59:59.294Z",
+      "count": 3,
+      "updatedAt": "2026-10-05T19:17:00.200Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-05T08:59:59.294Z",
+      "updatedAt": "2026-10-05T19:17:00.200Z",
       "failedFeeds": []
     }
   }
