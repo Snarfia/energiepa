@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-06T16:47:23.403Z",
+  "updatedAt": "2026-10-06T22:38:19.899Z",
   "items": [
-    {
-      "id": "nl-1795d73a325c",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "EU-wetenschapstoets ETS-herziening en analyse van CPB en PBL over verruiming EU-ETS",
-      "startAt": "2026-10-06T17:45:00+02:00",
-      "endAt": "2026-10-06T19:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06787",
-      "language": "nl"
-    },
     {
       "id": "eu-e1a32bbf426d",
       "source": "eu",
@@ -327,6 +314,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-22688b959fb9",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Arbeidsmarktbeleid - Duurzame inzetbaarheid",
+      "startAt": "2026-11-19T10:00:00+01:00",
+      "endAt": "2026-11-19T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Sociale Zaken en Werkgelegenheid",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04806",
+      "language": "nl"
+    },
+    {
       "id": "eu-afc63d005945",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -358,14 +358,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 21,
-      "updatedAt": "2026-10-06T16:47:23.403Z",
+      "updatedAt": "2026-10-06T22:38:19.899Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-06T16:47:23.403Z",
+      "updatedAt": "2026-10-06T22:38:19.899Z",
       "error": null
     }
   }
