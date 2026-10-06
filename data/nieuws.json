@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-06T08:56:45.123Z",
+  "updatedAt": "2026-10-06T16:47:22.030Z",
   "items": [
+    {
+      "id": "eu-599d9deff985",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Energy Transition Investment Council - Call for applications",
+      "description": "The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial…",
+      "url": "https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-06_en",
+      "publishedAt": "2026-10-06T15:54:04.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-62917ffb512f",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM bevestigt dat windparkontwikkelaars samen mogen inschrijven op tenders voor windparken op de Noordzee",
+      "description": "Twee windparkontwikkelaars mogen samen inschrijven op tenders van de Rijksoverheid voor windparken op de Noordzee bij IJmuiden. De ACM bevestigt dat de samenwerking voldoet aan de concurrentieregels en dat gezamenlijke inschrijving is toegestaan.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-bevestigt-dat-windparkontwikkelaars-samen-mogen-inschrijven-op-tenders-voor-windparken-op-de-noordzee",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-d1840f3b7f2a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM wijzigt erkenning van Dow Benelux",
+      "description": "De ACM breidt de erkenning van het gesloten systeem voor elektriciteit van het Dow Benelux B.V. uit met drie nieuwe aangeslotenen, wijzigt de erkenningsgrond en corrigeert het adres van Maschem B.V.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-dow-benelux",
+      "publishedAt": "2026-10-06T11:36:55.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-66ef218d2264",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
+      "description": "Ahead of the October European Council, President von der Leyen debates with Members of the European Parliament how to tackle high energy costs for families and industry.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_2077",
+      "publishedAt": "2026-10-06T09:45:26.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-d8da7db51efa",
       "source": "acm",
@@ -145,17 +189,6 @@
       "language": "en"
     },
     {
-      "id": "acm-e2f20529bfeb",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Ontwerpmethodebesluit vaststelling Start-GAW Warmte",
-      "description": "De ACM consulteert het ontwerp-methodebesluit voor het berekenen van de initiële gestandaardiseerde activawaarde voor aangewezen warmtebedrijven.",
-      "url": "https://www.acm.nl/nl/publicaties/ontwerpmethodebesluit-vaststelling-start-gaw-warmte",
-      "publishedAt": "2026-09-29T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-ed3c218394bf",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -244,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-95c9f72700ba",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Minimum performance standards for data centres in Europe - public consultation launched",
-      "description": "The European Commission has launched a 12-week open public consultation and call for evidence on minimum performance standards for data centres in the EU.",
-      "url": "https://energy.ec.europa.eu/news/minimum-performance-standards-data-centres-europe-public-consultation-launched-2026-09-21_en",
-      "publishedAt": "2026-09-21T12:44:08.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -264,17 +286,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/09/21/nieuwe-website-brengt-energietransitie-in-beeld",
       "publishedAt": "2026-09-21T07:01:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-3bf028580e4e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Speech by Commissioner Jørgensen at the inauguration of the Greensand CCS project",
-      "description": "Commissioner Dan Jørgensen at Greensand’s launch: ‘Carbon storage is now a reality.’ Europe’s first full-scale CO₂ storage project marks a milestone for climate action, proving that decarbonization and competitiveness go hand in hand.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1908",
-      "publishedAt": "2026-09-18T14:32:43.000Z",
-      "language": "en"
     },
     {
       "id": "rijksoverheid-28ebe3a4551a",
@@ -491,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-06T08:56:45.122Z",
+      "updatedAt": "2026-10-06T16:47:22.029Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-06T08:56:45.123Z",
+      "count": 5,
+      "updatedAt": "2026-10-06T16:47:22.030Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-06T08:56:45.123Z",
+      "updatedAt": "2026-10-06T16:47:22.030Z",
       "failedFeeds": []
     }
   }
