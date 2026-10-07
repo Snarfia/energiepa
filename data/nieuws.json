@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-07T05:55:33.662Z",
+  "updatedAt": "2026-10-07T13:18:33.407Z",
   "items": [
+    {
+      "id": "eu-736e4fd1c92f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Supporting clean transport in rural Sweden",
+      "description": "Europe’s transition to climate neutrality must be fair. However, many households living in rural areas, or in places with limited access to public transport, struggle to cover everyday transport costs.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/supporting-clean-transport-rural-sweden-2026-10-07_en",
+      "publishedAt": "2026-10-07T11:12:43.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-b640e9301fb7",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Coteq 2027 regionaal netbeheer elektriciteit",
+      "description": "Coteq heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-coteq-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-ee664dc6801c",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Enexis 2027 regionaal netbeheer elektriciteit",
+      "description": "Enexis heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-enexis-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-e0932e9cabe9",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel RENDO 2027 regionaal netbeheer elektriciteit",
+      "description": "RENDO heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-rendo-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-2290a75864e2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Stedin 2027 regionaal netbeheer elektriciteit",
+      "description": "Stedin heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-stedin-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-8934dc36ade0",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Liander 2027 regionaal netbeheer elektriciteit",
+      "description": "Liander heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-liander-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-9b80c3797c89",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Westland 2027 regionaal netbeheer elektriciteit",
+      "description": "Westland heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-westland-2027-regionaal-netbeheer-elektriciteit",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-b3ee03a661c4",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Coteq 2027 regionaal netbeheer gas",
+      "description": "Coteq heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-coteq-2027-regionaal-netbeheer-gas",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-c5e51dab01d2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Enexis 2027 regionaal netbeheer gas",
+      "description": "Enexis heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-enexis-2027-regionaal-netbeheer-gas",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-aefe9116a8da",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel RENDO 2027 regionaal netbeheer gas",
+      "description": "RENDO heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-rendo-2027-regionaal-netbeheer-gas",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-017d2b3a702f",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenvoorstel Stedin 2027 regionaal netbeheer gas",
+      "description": "Stedin heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-stedin-2027-regionaal-netbeheer-gas",
+      "publishedAt": "2026-10-07T07:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "rijksoverheid-e48d35c99381",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Slimme en hybride warmtepompen vanaf 2029 de nieuwe standaard",
+      "description": "Het kabinet wil dat huiseigenaren vanaf 2029 overstappen op een slimme en hybride warmtepomp, bij vervanging van de cv-ketel. Dit geldt voor woningen die niet zijn of worden aangesloten op een warmtenet. Zo verlagen we het gasverbruik van woningen...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/07/slimme-en-hybride-warmtepompen-vanaf-2029-de-nieuwe-standaard",
+      "publishedAt": "2026-10-07T06:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-599d9deff985",
       "source": "eu",
@@ -13,28 +145,6 @@
       "language": "en"
     },
     {
-      "id": "acm-62917ffb512f",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM bevestigt dat windparkontwikkelaars samen mogen inschrijven op tenders voor windparken op de Noordzee",
-      "description": "Twee windparkontwikkelaars mogen samen inschrijven op tenders van de Rijksoverheid voor windparken op de Noordzee bij IJmuiden. De ACM bevestigt dat de samenwerking voldoet aan de concurrentieregels en dat gezamenlijke inschrijving is toegestaan.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-bevestigt-dat-windparkontwikkelaars-samen-mogen-inschrijven-op-tenders-voor-windparken-op-de-noordzee",
-      "publishedAt": "2026-10-06T12:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-d1840f3b7f2a",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM wijzigt erkenning van Dow Benelux",
-      "description": "De ACM breidt de erkenning van het gesloten systeem voor elektriciteit van het Dow Benelux B.V. uit met drie nieuwe aangeslotenen, wijzigt de erkenningsgrond en corrigeert het adres van Maschem B.V.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-wijzigt-erkenning-van-dow-benelux",
-      "publishedAt": "2026-10-06T11:36:55.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-66ef218d2264",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -44,39 +154,6 @@
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_2077",
       "publishedAt": "2026-10-06T09:45:26.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-d8da7db51efa",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: Ruim 300.000 huishoudens en bedrijven kunnen geld besparen met kleinere aansluiting stroomnet",
-      "description": "Veel huishoudens kunnen geld besparen door te kiezen voor een kleinere aansluiting op het stroomnet. Een zware aansluiting kost veel geld en is vaak niet nodig.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-ruim-300000-huishoudens-en-bedrijven-kunnen-geld-besparen-met-kleinere-aansluiting-stroomnet",
-      "publishedAt": "2026-10-06T04:25:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-94ccb197e0c5",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Monitor Brandstofprijzen ACM: benzineprijs op hoogste punt sinds februari, diesel duurder dan benzine",
-      "description": "De prijs van benzine en diesel aan de pomp is deze zomer flink gestegen en zet door in de herfst. In Nederland liggen de gemiddelde tarieven voor benzine op dit moment op het hoogste punt sinds het uitbreken van de oorlog in Iran. De gemiddelde landelijke…",
-      "url": "https://www.acm.nl/nl/publicaties/monitor-brandstofprijzen-acm-benzineprijs-op-hoogste-punt-sinds-februari-diesel-duurder-dan-benzine",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-beded430183c",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Beslissingen op bezwaren tegen tariefbeschikkingen Bonaire 2026",
-      "description": "De ACM verklaart de bezwaren van WEB en CGB tegen de tariefbeschikkingen over de maximumtarieven voor elektriciteit en drinkwater op Bonaire ongegrond.",
-      "url": "https://www.acm.nl/nl/publicaties/beslissingen-op-bezwaren-tegen-tariefbeschikkingen-bonaire-2026",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-8f3116956102",
@@ -263,17 +340,6 @@
       "description": "Today, the global clean energy transition is firmly underway and has become an engine for competitiveness, resilience and prosperity.",
       "url": "https://energy.ec.europa.eu/news/focus-eu-international-energy-cooperation-2026-09-17_en",
       "publishedAt": "2026-09-23T13:36:43.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-08e04e329545",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission enhances energy efficiency and sustainability of data centres in the EU",
-      "description": "The European Commission proposed today a common rating scheme for data centres aimed at increasing transparency on their energy use and supporting their sustainable integration into Europe's energy system.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1667",
-      "publishedAt": "2026-09-21T12:49:15.000Z",
       "language": "en"
     },
     {
@@ -484,17 +550,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/26/twee-nederlandse-projecten-aangewezen-als-strategisch-project-onder-europese-net-zero-industry-act",
       "publishedAt": "2026-03-26T08:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-34705a0a5b2f",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "Kabinet besluit over herindeling Noordzee",
-      "description": "Meer ruimte voor windenergie op zee met behoud van ruimte voor visserij. Tegelijkertijd wordt ook rekening gehouden met mijnbouw, scheepvaart, defensie, natuur, kustverdediging, zandwinning en maritiem erfgoed.",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/20/kabinet-besluit-over-herindeling-noordzee",
-      "publishedAt": "2026-03-20T14:30:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -502,21 +557,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-07T05:55:33.662Z",
+      "updatedAt": "2026-10-07T13:18:33.407Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-07T05:55:33.662Z",
+      "count": 10,
+      "updatedAt": "2026-10-07T13:18:33.407Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-07T05:55:33.662Z",
+      "updatedAt": "2026-10-07T13:18:33.407Z",
       "failedFeeds": []
     }
   }

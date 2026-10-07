@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:55:35.087Z",
+  "updatedAt": "2026-10-07T13:18:34.303Z",
   "items": [
     {
       "id": "eu-e1a32bbf426d",
@@ -77,6 +77,19 @@
       "type": "Petitie",
       "description": "vaste commissie voor Infrastructuur en Waterstaat",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05996",
+      "language": "nl"
+    },
+    {
+      "id": "nl-4eda8c196867",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energie voor huishoudens (voortzetting)",
+      "startAt": "2026-10-13T19:00:00+02:00",
+      "endAt": "2026-10-13T21:30:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07200",
       "language": "nl"
     },
     {
@@ -197,6 +210,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-2b647491b1d7",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van het ministerie van Klimaat en Groene Groei door de Algemene Rekenkamer",
+      "startAt": "2026-10-27T18:00:00+01:00",
+      "endAt": "2026-10-27T19:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
+      "language": "nl"
+    },
+    {
       "id": "nl-fdd59b523588",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -260,19 +286,6 @@
       "description": "20th SET Plan conference - Competitiveness and sovereignty of strategic energy technologies",
       "url": "https://energy.ec.europa.eu/events/20th-strategic-energy-technology-plan-2026-11-04_en",
       "language": "en"
-    },
-    {
-      "id": "nl-5040d17c5eb3",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Klimaat en voedsel",
-      "startAt": "2026-11-10T17:00:00+01:00",
-      "endAt": "2026-11-10T21:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05314",
-      "language": "nl"
     },
     {
       "id": "nl-c80eec32827f",
@@ -357,15 +370,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 21,
-      "updatedAt": "2026-10-07T05:55:35.086Z",
+      "count": 22,
+      "updatedAt": "2026-10-07T13:18:34.302Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-07T05:55:35.087Z",
+      "updatedAt": "2026-10-07T13:18:34.303Z",
       "error": null
     }
   }
