@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-07T19:58:14.804Z",
+  "updatedAt": "2026-10-08T00:11:03.756Z",
   "items": [
-    {
-      "id": "nl-6212874bd94a",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Investeringsfonds Duurzame Landbouw (IDL)",
-      "startAt": "2026-10-07T14:30:00+02:00",
-      "endAt": "2026-10-07T16:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Rondetafelgesprek",
-      "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04260",
-      "language": "nl"
-    },
     {
       "id": "nl-f75d597643b5",
       "source": "nl",
@@ -327,6 +314,32 @@
       "language": "nl"
     },
     {
+      "id": "nl-439aa0fada08",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Procedurevergadering commissie Klimaat en Groene Groei",
+      "startAt": "2026-11-24T17:00:00+01:00",
+      "endAt": "2026-11-24T17:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Procedurevergadering",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04785",
+      "language": "nl"
+    },
+    {
+      "id": "nl-b1cd5b376b32",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Netcongestie en elektriciteitsnet",
+      "startAt": "2026-11-25T10:00:00+01:00",
+      "endAt": "2026-11-25T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04028",
+      "language": "nl"
+    },
+    {
       "id": "eu-afc63d005945",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
@@ -357,15 +370,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 22,
-      "updatedAt": "2026-10-07T19:58:14.803Z",
+      "count": 23,
+      "updatedAt": "2026-10-08T00:11:03.756Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-10-07T19:58:14.804Z",
+      "updatedAt": "2026-10-08T00:11:03.756Z",
       "error": null
     }
   }
