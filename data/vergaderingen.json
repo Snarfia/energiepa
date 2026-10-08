@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T05:59:32.005Z",
+  "updatedAt": "2026-10-08T13:24:43.927Z",
   "items": [
     {
       "id": "nl-f75d597643b5",
@@ -184,16 +184,29 @@
       "language": "nl"
     },
     {
-      "id": "nl-2b647491b1d7",
+      "id": "nl-4b91c9f584ef",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van het ministerie van Klimaat en Groene Groei door de Algemene Rekenkamer",
-      "startAt": "2026-10-27T18:00:00+01:00",
-      "endAt": "2026-10-27T19:00:00+01:00",
+      "title": "Zon op dak: van potentie naar realisatie",
+      "startAt": "2026-10-28T14:15:00+01:00",
+      "endAt": "2026-10-28T15:45:00+01:00",
       "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
+      "type": "Rondetafelgesprek",
       "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07432",
+      "language": "nl"
+    },
+    {
+      "id": "nl-4b680b0d54a6",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "NGO-observers bij COP31",
+      "startAt": "2026-10-29T13:30:00+01:00",
+      "endAt": "2026-10-29T14:45:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Gesprek",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07197",
       "language": "nl"
     },
     {
@@ -370,15 +383,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-10-08T05:59:32.005Z",
+      "count": 24,
+      "updatedAt": "2026-10-08T13:24:43.926Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-10-08T05:59:32.005Z",
+      "updatedAt": "2026-10-08T13:24:43.927Z",
       "error": null
     }
   }

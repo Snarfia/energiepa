@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-08T05:59:31.164Z",
+  "updatedAt": "2026-10-08T13:24:43.150Z",
   "items": [
+    {
+      "id": "acm-0d93ccb6a236",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM publiceert voorstel voor tijdsafhankelijke nettarieven voor huishoudens die ruimte op het elektriciteitsnet moeten vergroten",
+      "description": "Met deze nieuwe tarieven betalen huishoudens meer naar gebruik en worden huishoudens gestimuleerd hun verbruik te verplaatsen naar rustige momenten op het net.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-publiceert-voorstel-voor-tijdsafhankelijke-nettarieven-voor-huishoudens-die-ruimte-op-het-elektriciteitsnet-moeten-vergroten",
+      "publishedAt": "2026-10-08T08:34:20.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-8acecf381e62",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Ontwerp codebesluit tijdsafhankelijke tarieven voor grote aansluitingen",
+      "description": "ACM heeft een ontwerpbesluit opgesteld over het voorstel van Netbeheer Nederland voor het wijzigen van de Tarievencode elektriciteit 2026 voor de introductie van tijdsafhankelijke tarieven voor grote aansluitingen",
+      "url": "https://www.acm.nl/nl/publicaties/ontwerp-codebesluit-tijdsafhankelijke-tarieven-voor-grote-aansluitingen",
+      "publishedAt": "2026-10-08T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-77d94786ef8b",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Ontwerp codebesluit volume- en tijdsafhankelijke tarieven voor kleine aansluitingen",
+      "description": "ACM heeft een ontwerpbesluit opgesteld over het voorstel van Netbeheer Nederland voor het wijzigen van de Tarievencode elektriciteit 2026 voor de introductie van volume- en tijdsafhankelijke tarieven voor kleine aansluitingen",
+      "url": "https://www.acm.nl/nl/publicaties/ontwerp-codebesluit-volume-en-tijdsafhankelijke-tarieven-voor-kleine-aansluitingen",
+      "publishedAt": "2026-10-08T07:44:28.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-736e4fd1c92f",
       "source": "eu",
@@ -75,50 +108,6 @@
       "title": "Tarievenvoorstel Westland 2027 regionaal netbeheer elektriciteit",
       "description": "Westland heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
       "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-westland-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-b3ee03a661c4",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Coteq 2027 regionaal netbeheer gas",
-      "description": "Coteq heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-coteq-2027-regionaal-netbeheer-gas",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-c5e51dab01d2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Enexis 2027 regionaal netbeheer gas",
-      "description": "Enexis heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-enexis-2027-regionaal-netbeheer-gas",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-aefe9116a8da",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel RENDO 2027 regionaal netbeheer gas",
-      "description": "RENDO heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-rendo-2027-regionaal-netbeheer-gas",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-017d2b3a702f",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Stedin 2027 regionaal netbeheer gas",
-      "description": "Stedin heeft een voorstel ingediend voor de tarieven voor gebruik van het gasnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-stedin-2027-regionaal-netbeheer-gas",
       "publishedAt": "2026-10-07T07:30:00.000Z",
       "language": "nl"
     },
@@ -557,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-08T05:59:31.163Z",
+      "updatedAt": "2026-10-08T13:24:43.150Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 10,
-      "updatedAt": "2026-10-08T05:59:31.164Z",
+      "count": 9,
+      "updatedAt": "2026-10-08T13:24:43.150Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-08T05:59:31.164Z",
+      "updatedAt": "2026-10-08T13:24:43.150Z",
       "failedFeeds": []
     }
   }
