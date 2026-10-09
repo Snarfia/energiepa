@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-09T08:59:45.375Z",
+  "updatedAt": "2026-10-09T16:58:52.682Z",
   "items": [
-    {
-      "id": "nl-a77779c2c093",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
-      "startAt": "2026-10-12T00:00:00+02:00",
-      "endAt": "2026-10-12T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
-      "language": "nl"
-    },
     {
       "id": "eu-651d75629f0f",
       "source": "eu",
@@ -132,6 +119,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-a77779c2c093",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
+      "startAt": "2026-10-26T00:00:00+01:00",
+      "endAt": "2026-10-26T00:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
+      "language": "nl"
+    },
+    {
       "id": "nl-cf2720b629fb",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -155,6 +155,19 @@
       "type": "Notaoverleg",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+      "language": "nl"
+    },
+    {
+      "id": "nl-f7aae0c74563",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Petitieaanbieding door Oxfam Novib tot aanbieding petitie 'Belast de klimaatvervuilers!'",
+      "startAt": "2026-10-27T13:45:00+01:00",
+      "endAt": "2026-10-27T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Petitie",
+      "description": "vaste commissie voor Financiën",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07520",
       "language": "nl"
     },
     {
@@ -370,15 +383,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-10-09T08:59:45.375Z",
+      "count": 24,
+      "updatedAt": "2026-10-09T16:58:52.682Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-10-09T08:59:45.375Z",
+      "updatedAt": "2026-10-09T16:58:52.682Z",
       "error": null
     }
   }

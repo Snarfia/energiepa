@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-09T08:59:44.169Z",
+  "updatedAt": "2026-10-09T16:58:51.558Z",
   "items": [
+    {
+      "id": "eu-736e4fd1c92f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Supporting clean transport in rural Sweden",
+      "description": "Europe’s transition to climate neutrality must be fair. However, many households living in rural areas, or in places with limited access to public transport, struggle to cover everyday transport costs.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/supporting-clean-transport-rural-sweden-2026-10-07_en",
+      "publishedAt": "2026-10-09T13:45:27.000Z",
+      "language": "en"
+    },
+    {
+      "id": "rijksoverheid-8075e181356f",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Voorstel voor bijmengen groen gas in Nederlandse gasleveringen stap dichterbij",
+      "description": "Het kabinet wil het aandeel gas uit hernieuwbare bronnen in de Nederlandse gasleveringen vergroten. Gasleveranciers krijgen daarom de verplichting om bij te dragen aan de verduurzaming van de gasvoorziening. Een uitwerking van het wetsvoorstel...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/09/voorstel-voor-bijmengen-groen-gas-in-nederlandse-gasleveringen-stap-dichterbij",
+      "publishedAt": "2026-10-09T12:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-47002ace667c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Young people meet with Commissioner Hoekstra to discuss EU climate action ahead of COP31",
+      "description": "On 1 October 2026, Wopke Hoekstra, Commissioner for Climate, Net-Zero and Clean Growth, met with 16 young people from across Europe for a Youth Policy Dialogue on COP31 to exchange views ahead of the UN climate conference taking place in Antalya, Türkiye…",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/young-people-meet-commissioner-hoekstra-discuss-eu-climate-action-ahead-cop31-2026-10-09_en",
+      "publishedAt": "2026-10-09T12:19:10.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-f816adbba05e",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Eerste klankbordgroep kostengebaseerde tariefregulering warmte",
+      "description": "Verslag van de de eerste klankbordgroep kostengebaseerde tariefregulering warmte. Onderwerp was de manier waarop efficiëntie vorm kan krijgen in de methode.",
+      "url": "https://www.acm.nl/nl/publicaties/eerste-klankbordgroep-kostengebaseerde-tariefregulering-warmte",
+      "publishedAt": "2026-10-09T10:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-2de71f9921a5",
       "source": "acm",
@@ -57,17 +101,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-736e4fd1c92f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Supporting clean transport in rural Sweden",
-      "description": "Europe’s transition to climate neutrality must be fair. However, many households living in rural areas, or in places with limited access to public transport, struggle to cover everyday transport costs.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/supporting-clean-transport-rural-sweden-2026-10-07_en",
-      "publishedAt": "2026-10-07T11:12:43.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-b640e9301fb7",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -108,17 +141,6 @@
       "title": "Tarievenvoorstel Stedin 2027 regionaal netbeheer elektriciteit",
       "description": "Stedin heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
       "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-stedin-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-8934dc36ade0",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Liander 2027 regionaal netbeheer elektriciteit",
-      "description": "Liander heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-liander-2027-regionaal-netbeheer-elektriciteit",
       "publishedAt": "2026-10-07T07:30:00.000Z",
       "language": "nl"
     },
@@ -321,17 +343,6 @@
       "language": "en"
     },
     {
-      "id": "eu-37482ccf97fe",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
-      "description": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
-      "publishedAt": "2026-09-24T15:02:28.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -528,17 +539,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/22/nieuwe-rode-lijst-libellen-gepubliceerd",
       "publishedAt": "2026-04-22T08:15:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-cedad64a0c2f",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "2 Nederlandse projecten aangewezen als ‘Strategisch Project’ onder Europese Net-Zero Industry Act",
-      "description": "Het ministerie van Economische Zaken en Klimaat heeft twee Nederlandse projecten aangewezen als ‘Strategisch Project’ onder de Europese Net-Zero Industry Act (NZIA). Minister Stientje van Veldhoven van Klimaat en Groene Groei verleende deze status...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/03/26/twee-nederlandse-projecten-aangewezen-als-strategisch-project-onder-europese-net-zero-industry-act",
-      "publishedAt": "2026-03-26T08:00:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-09T08:59:44.168Z",
+      "updatedAt": "2026-10-09T16:58:51.557Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-09T08:59:44.169Z",
+      "updatedAt": "2026-10-09T16:58:51.557Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-09T08:59:44.169Z",
+      "updatedAt": "2026-10-09T16:58:51.558Z",
       "failedFeeds": []
     }
   }
