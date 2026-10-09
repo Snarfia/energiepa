@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-09T00:21:05.068Z",
+  "updatedAt": "2026-10-09T08:59:44.169Z",
   "items": [
+    {
+      "id": "acm-2de71f9921a5",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Geschilbesluit ZonOffensief - Stedin",
+      "description": "De ACM heeft de klacht van ZonOffensief Zeeland II B.V. over het vragen van een Power Generation Module Document door Stedin Netbeheer B.V. afgewezen.",
+      "url": "https://www.acm.nl/nl/publicaties/geschilbesluit-zonoffensief-stedin",
+      "publishedAt": "2026-10-09T07:30:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-d3f2b8dae90b",
       "source": "eu",
@@ -108,17 +119,6 @@
       "title": "Tarievenvoorstel Liander 2027 regionaal netbeheer elektriciteit",
       "description": "Liander heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
       "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-liander-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-9b80c3797c89",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Westland 2027 regionaal netbeheer elektriciteit",
-      "description": "Westland heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-westland-2027-regionaal-netbeheer-elektriciteit",
       "publishedAt": "2026-10-07T07:30:00.000Z",
       "language": "nl"
     },
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-09T00:21:05.067Z",
+      "updatedAt": "2026-10-09T08:59:44.168Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-09T00:21:05.068Z",
+      "updatedAt": "2026-10-09T08:59:44.169Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-09T00:21:05.068Z",
+      "updatedAt": "2026-10-09T08:59:44.169Z",
       "failedFeeds": []
     }
   }
