@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-12T05:52:37.457Z",
+  "updatedAt": "2026-10-12T15:17:57.849Z",
   "items": [
+    {
+      "id": "eu-47002ace667c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Young people meet with Commissioner Hoekstra to discuss EU climate action ahead of COP31",
+      "description": "On 1 October 2026, Wopke Hoekstra, Commissioner for Climate, Net-Zero and Clean Growth, met with 16 young people from across Europe for a Youth Policy Dialogue on COP31 to exchange views ahead of the UN climate conference taking place in Antalya, Türkiye…",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/young-people-meet-commissioner-hoekstra-discuss-eu-climate-action-ahead-cop31-2026-10-09_en",
+      "publishedAt": "2026-10-12T10:08:54.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-efa860ddbf1e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "President von der Leyen attends UN General Assembly underscoring the EU's commitment to multilateralism",
+      "description": "President Ursula von der Leyen was in New York last week to participate in the 81st UN General Assembly. Throughout the week, the President engaged with world leaders and took part in several high-level events, underscoring the EU's commitment to…",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/president-von-der-leyen-attends-un-general-assembly-underscoring-eus-commitment-multilateralism-2026-10-12_en",
+      "publishedAt": "2026-10-12T08:57:41.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-7100fe37818b",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Make your voice heard: Join the EU Youth Policy Dialogue on COP31",
+      "description": "The European Commission and the European Economic and Social Committee, in cooperation with the European Youth Forum and Generation Climate Europe, will organise the EU Youth Policy Dialogue on COP31 on Thursday 1 October 2026.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/make-your-voice-heard-join-eu-youth-policy-dialogue-cop31-2026-06-26_en",
+      "publishedAt": "2026-10-12T08:47:41.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-37d168761c94",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Bonn climate conference keeps momentum towards COP31 with technical negotiations advancing and new action agenda announcements",
+      "description": "The Bonn UN Climate Change Conference concluded with progress on key technical issues, helping to advance implementation of the Paris Agreement and prepare the ground for COP31 in Türkiye. New initiatives and discussions focused on turning climate…",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/bonn-climate-conference-keeps-momentum-towards-cop31-technical-negotiations-advancing-and-new-action-2026-06-23_en",
+      "publishedAt": "2026-10-12T08:47:31.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-1770b8e5afc9",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Methane emissions reporting templates – Commission launches call for feedback",
+      "description": "The European Commission has published a draft implementing regulation adopting reporting templates for methane emissions in the energy sector and launched a 4-week call for feedback on the document.",
+      "url": "https://energy.ec.europa.eu/news/methane-emissions-reporting-templates-commission-launches-call-feedback-2026-10-12_en",
+      "publishedAt": "2026-10-12T07:30:09.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-736e4fd1c92f",
       "source": "eu",
@@ -22,17 +77,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/09/voorstel-voor-bijmengen-groen-gas-in-nederlandse-gasleveringen-stap-dichterbij",
       "publishedAt": "2026-10-09T12:30:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-47002ace667c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Young people meet with Commissioner Hoekstra to discuss EU climate action ahead of COP31",
-      "description": "On 1 October 2026, Wopke Hoekstra, Commissioner for Climate, Net-Zero and Clean Growth, met with 16 young people from across Europe for a Youth Policy Dialogue on COP31 to exchange views ahead of the UN climate conference taking place in Antalya, Türkiye…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/young-people-meet-commissioner-hoekstra-discuss-eu-climate-action-ahead-cop31-2026-10-09_en",
-      "publishedAt": "2026-10-09T12:19:10.000Z",
-      "language": "en"
     },
     {
       "id": "acm-f816adbba05e",
@@ -299,50 +343,6 @@
       "language": "en"
     },
     {
-      "id": "eu-f7552e1945a9",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "EU ETS – Publication of surrender and compliance data",
-      "description": "The Commission will publish the available surrender and compliance data 2025 on October 6, 2026, at the latest.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-ets-publication-surrender-and-compliance-data-2026-09-25_en",
-      "publishedAt": "2026-09-25T09:05:50.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-0a88ff412ad6",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Gas Coordination Group continues work on winter preparedness",
-      "description": "The Gas Coordination Group met again yesterday to take stock of the current gas market situation.",
-      "url": "https://energy.ec.europa.eu/news/gas-coordination-group-continues-work-winter-preparedness-2026-09-25_en",
-      "publishedAt": "2026-09-25T08:33:28.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-638dad3f7548",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "54% of EU’s electricity came from renewables in Q2 2026",
-      "description": "In the second quarter of 2026, 54.1% of the electricity generated in the EU came from renewable energy sources, a slight decrease from 54.3% in the same period of 2025.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260918-1",
-      "publishedAt": "2026-09-24T15:11:30.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-7824f08c4576",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Evolution of fuel prices in August 2026",
-      "description": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
-      "publishedAt": "2026-09-24T15:07:12.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-12T05:52:37.456Z",
+      "updatedAt": "2026-10-12T15:17:57.848Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-12T05:52:37.457Z",
+      "updatedAt": "2026-10-12T15:17:57.849Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-12T05:52:37.457Z",
+      "updatedAt": "2026-10-12T15:17:57.849Z",
       "failedFeeds": []
     }
   }
