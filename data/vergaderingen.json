@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:55:47.007Z",
+  "updatedAt": "2026-10-13T21:13:21.171Z",
   "items": [
     {
       "id": "nl-4eda8c196867",
@@ -65,6 +65,19 @@
       "description": "5th European Energy Efficiency Day: Join us to draw the future of energy",
       "url": "https://energy.ec.europa.eu/events/5th-european-energy-efficiency-day-2026-10-15_en",
       "language": "en"
+    },
+    {
+      "id": "nl-612e7e48d1f5",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "(onder voorbehoud) Tweeminutendebat Energieraad (formeel) d.d. 29 oktober 2026",
+      "startAt": "2026-10-15T10:16:00+02:00",
+      "endAt": "2026-10-15T10:30:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07596",
+      "language": "nl"
     },
     {
       "id": "nl-01e67a390286",
@@ -357,15 +370,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-10-13T15:55:47.007Z",
+      "count": 24,
+      "updatedAt": "2026-10-13T21:13:21.171Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-13T15:55:47.007Z",
+      "updatedAt": "2026-10-13T21:13:21.171Z",
       "error": null
     }
   }
