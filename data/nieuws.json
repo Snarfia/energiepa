@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-12T22:56:35.989Z",
+  "updatedAt": "2026-10-13T06:45:12.401Z",
   "items": [
+    {
+      "id": "acm-ad24a781224b",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: doelstelling verdere verduurzaming van de landbouw uit zicht zonder extra actie",
+      "description": "De ACM constateert dat de duurzaamheidsdoelstellingen voor 2030 voor de Nederlandse landbouw uit het zicht raken zonder extra actie. Verdere verduurzaming slaagt alleen als het prijsverschil tussen gangbare producten en producten met een…",
+      "url": "https://www.acm.nl/nl/publicaties/acm-doelstelling-verdere-verduurzaming-van-de-landbouw-uit-zicht-zonder-extra-actie",
+      "publishedAt": "2026-10-13T06:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-47002ace667c",
       "source": "eu",
@@ -163,28 +174,6 @@
       "title": "Tarievenvoorstel Enexis 2027 regionaal netbeheer elektriciteit",
       "description": "Enexis heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
       "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-enexis-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-e0932e9cabe9",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel RENDO 2027 regionaal netbeheer elektriciteit",
-      "description": "RENDO heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-rendo-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-2290a75864e2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Stedin 2027 regionaal netbeheer elektriciteit",
-      "description": "Stedin heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-stedin-2027-regionaal-netbeheer-elektriciteit",
       "publishedAt": "2026-10-07T07:30:00.000Z",
       "language": "nl"
     },
@@ -546,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-12T22:56:35.988Z",
+      "updatedAt": "2026-10-13T06:45:12.400Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 9,
-      "updatedAt": "2026-10-12T22:56:35.989Z",
+      "count": 8,
+      "updatedAt": "2026-10-13T06:45:12.401Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-12T22:56:35.989Z",
+      "updatedAt": "2026-10-13T06:45:12.401Z",
       "failedFeeds": []
     }
   }
