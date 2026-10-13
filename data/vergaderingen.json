@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-10-13T06:45:13.551Z",
+  "updatedAt": "2026-10-13T15:55:47.007Z",
   "items": [
-    {
-      "id": "eu-651d75629f0f",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "19th European Nuclear Energy Forum",
-      "startAt": "2026-10-12T12:30:00",
-      "endAt": "2026-10-13T14:00:00",
-      "location": "Prague, Czechia",
-      "type": "Europees energie-evenement",
-      "description": "19th European Nuclear Energy Forum",
-      "url": "https://energy.ec.europa.eu/events/19th-european-nuclear-energy-forum-2026-10-12_en",
-      "language": "en"
-    },
-    {
-      "id": "nl-7cf2fb25c5c3",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Petitie 'Maak de kortingsactie voor het Nederland Dal Vrij-abonnement de standaard voor alle jongeren' door Jonge Klimaatbeweging",
-      "startAt": "2026-10-13T13:30:00+02:00",
-      "endAt": "2026-10-13T13:45:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Petitie",
-      "description": "vaste commissie voor Infrastructuur en Waterstaat",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05996",
-      "language": "nl"
-    },
     {
       "id": "nl-4eda8c196867",
       "source": "nl",
@@ -383,15 +357,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 24,
-      "updatedAt": "2026-10-13T06:45:13.551Z",
+      "count": 23,
+      "updatedAt": "2026-10-13T15:55:47.007Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-13T06:45:13.551Z",
+      "count": 4,
+      "updatedAt": "2026-10-13T15:55:47.007Z",
       "error": null
     }
   }
