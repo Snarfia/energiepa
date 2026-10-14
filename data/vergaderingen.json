@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:34:45.736Z",
+  "updatedAt": "2026-10-14T13:41:28.438Z",
   "items": [
     {
       "id": "nl-7322d64d52f5",
@@ -12,19 +12,6 @@
       "type": "Commissiedebat",
       "description": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01796",
-      "language": "nl"
-    },
-    {
-      "id": "nl-3b34ad83d249",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
-      "startAt": "2026-10-14T13:00:00+02:00",
-      "endAt": "2026-10-14T14:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06388",
       "language": "nl"
     },
     {
@@ -83,13 +70,26 @@
       "id": "nl-7fb732929187",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Inzake volume- en tijdsafhankelijke nettarieven namens ACM",
+      "title": "Volume- en tijdsafhankelijke nettarieven door de ACM",
       "startAt": "2026-10-15T16:00:00+02:00",
       "endAt": "2026-10-15T17:00:00+02:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06655",
+      "language": "nl"
+    },
+    {
+      "id": "nl-e08938b39771",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Energie voor huishoudens (CD 13/10)",
+      "startAt": "2026-10-19T00:00:00+02:00",
+      "endAt": "2026-10-19T00:00:00+02:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07643",
       "language": "nl"
     },
     {
@@ -358,14 +358,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 23,
-      "updatedAt": "2026-10-14T07:34:45.736Z",
+      "updatedAt": "2026-10-14T13:41:28.438Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-14T07:34:45.736Z",
+      "updatedAt": "2026-10-14T13:41:28.438Z",
       "error": null
     }
   }
