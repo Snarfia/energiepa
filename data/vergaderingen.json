@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-13T21:13:21.171Z",
+  "updatedAt": "2026-10-14T01:12:14.741Z",
   "items": [
-    {
-      "id": "nl-4eda8c196867",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Energie voor huishoudens (voortzetting)",
-      "startAt": "2026-10-13T19:00:00+02:00",
-      "endAt": "2026-10-13T21:30:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07200",
-      "language": "nl"
-    },
     {
       "id": "nl-7322d64d52f5",
       "source": "nl",
@@ -370,15 +357,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 24,
-      "updatedAt": "2026-10-13T21:13:21.171Z",
+      "count": 23,
+      "updatedAt": "2026-10-14T01:12:14.741Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-13T21:13:21.171Z",
+      "updatedAt": "2026-10-14T01:12:14.741Z",
       "error": null
     }
   }
