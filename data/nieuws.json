@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-14T13:41:27.569Z",
+  "updatedAt": "2026-10-14T18:35:23.861Z",
   "items": [
+    {
+      "id": "eu-9f01caa6c47e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Cross-border gas network code – Commission launches call for feedback on revision of rules",
+      "description": "The European Commission has published a draft implementing regulation on the rules governing how cross-border gas transmission capacity is allocated and launched a 4-week call for feedback on the document.",
+      "url": "https://energy.ec.europa.eu/news/cross-border-gas-network-code-commission-launches-call-feedback-revision-rules-2026-10-14_en",
+      "publishedAt": "2026-10-14T15:50:34.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-8d819d4e8a2c",
       "source": "eu",
@@ -321,17 +332,6 @@
       "language": "en"
     },
     {
-      "id": "eu-f2944dee9a52",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Opening remarks by Commissioner Jørgensen at the press conference concluding the Informal Energy Council",
-      "description": "Commissioner Dan Jørgensen: ‘Thank you, Minister, for hosting these important discussions here in Dublin. And thank you for putting energy affordability and security at the top of the agenda. Months after the start of the conflict in Iran, it is clear that…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2016",
-      "publishedAt": "2026-09-30T15:57:34.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -535,21 +535,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-14T13:41:27.568Z",
+      "updatedAt": "2026-10-14T18:35:23.860Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-14T13:41:27.569Z",
+      "updatedAt": "2026-10-14T18:35:23.861Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-14T13:41:27.569Z",
+      "updatedAt": "2026-10-14T18:35:23.861Z",
       "failedFeeds": []
     }
   }
