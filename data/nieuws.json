@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-15T04:34:15.156Z",
+  "updatedAt": "2026-10-15T11:24:18.787Z",
   "items": [
+    {
+      "id": "acm-6a2972d9b681",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: investeringen en aanvullend beleid nodig voor meer flexibiliteit in het elektriciteitssysteem",
+      "description": "Om zeker te weten dat er de komende 10 jaar voldoende flexibiliteit in het energiesysteem beschikbaar is, zijn nieuwe investeringen en aanvullend beleid nodig.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-investeringen-en-aanvullend-beleid-nodig-voor-meer-flexibiliteit-het-elektriciteitssysteem",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-6a8fcc3733c9",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Flexibility Needs Assessment for the Dutch Electricity System 2026",
+      "description": "TenneT heeft met medewerking van de distributiesysteembeheerders een rapport opgesteld waarin zij de flexibiliteitsbehoeften voor het Nederlandse elektriciteitssysteem voor de jaren 2030 en 2035 in kaart brengt.",
+      "url": "https://www.acm.nl/nl/publicaties/flexibility-needs-assessment-dutch-electricity-system-2026",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-8af69c3755b9",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Goedkeuring van het verslag flexibiliteitsbehoeften Nederland 2026",
+      "description": "De ACM heeft het in 2026 door TenneT opgestelde verslag flexibiliteitsbehoeften voor het Nederlandse elektriciteitssysteem goedgekeurd.",
+      "url": "https://www.acm.nl/nl/publicaties/goedkeuring-van-het-verslag-flexibiliteitsbehoeften-nederland-2026",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-9f01caa6c47e",
       "source": "eu",
@@ -9,7 +42,7 @@
       "title": "Cross-border gas network code – Commission launches call for feedback on revision of rules",
       "description": "The European Commission has published a draft implementing regulation on the rules governing how cross-border gas transmission capacity is allocated and launched a 4-week call for feedback on the document.",
       "url": "https://energy.ec.europa.eu/news/cross-border-gas-network-code-commission-launches-call-feedback-revision-rules-2026-10-14_en",
-      "publishedAt": "2026-10-14T15:50:34.000Z",
+      "publishedAt": "2026-10-15T09:14:27.000Z",
       "language": "en"
     },
     {
@@ -219,28 +252,6 @@
       "description": "ACM heeft een ontwerpbesluit opgesteld over het voorstel van Netbeheer Nederland voor het wijzigen van de Tarievencode elektriciteit 2026 voor de introductie van tijdsafhankelijke tarieven voor grote aansluitingen",
       "url": "https://www.acm.nl/nl/publicaties/ontwerp-codebesluit-tijdsafhankelijke-tarieven-voor-grote-aansluitingen",
       "publishedAt": "2026-10-08T08:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-77d94786ef8b",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Ontwerp codebesluit volume- en tijdsafhankelijke tarieven voor kleine aansluitingen",
-      "description": "ACM heeft een ontwerpbesluit opgesteld over het voorstel van Netbeheer Nederland voor het wijzigen van de Tarievencode elektriciteit 2026 voor de introductie van volume- en tijdsafhankelijke tarieven voor kleine aansluitingen",
-      "url": "https://www.acm.nl/nl/publicaties/ontwerp-codebesluit-volume-en-tijdsafhankelijke-tarieven-voor-kleine-aansluitingen",
-      "publishedAt": "2026-10-08T07:44:28.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-b640e9301fb7",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Tarievenvoorstel Coteq 2027 regionaal netbeheer elektriciteit",
-      "description": "Coteq heeft een voorstel ingediend voor de tarieven voor gebruik van het elektriciteitsnetwerk in 2027.",
-      "url": "https://www.acm.nl/nl/publicaties/tarievenvoorstel-coteq-2027-regionaal-netbeheer-elektriciteit",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
       "language": "nl"
     },
     {
@@ -535,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-15T04:34:15.155Z",
+      "updatedAt": "2026-10-15T11:24:18.786Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 8,
-      "updatedAt": "2026-10-15T04:34:15.156Z",
+      "count": 9,
+      "updatedAt": "2026-10-15T11:24:18.787Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-15T04:34:15.156Z",
+      "updatedAt": "2026-10-15T11:24:18.787Z",
       "failedFeeds": []
     }
   }

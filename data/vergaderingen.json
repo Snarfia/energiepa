@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:34:16.373Z",
+  "updatedAt": "2026-10-15T11:24:20.259Z",
   "items": [
     {
       "id": "eu-4834670f36f5",
@@ -325,47 +325,21 @@
       "description": "This 2026 edition of the PCI Energy Days is dedicated to the practical implementation of Projects of Common Interest and of Projects of Mutual Interest.",
       "url": "https://energy.ec.europa.eu/events/7th-pci-energy-days-2026-12-01_en",
       "language": "en"
-    },
-    {
-      "id": "nl-5040d17c5eb3",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Klimaat en voedsel",
-      "startAt": "2026-12-03T10:00:00+01:00",
-      "endAt": "2026-12-03T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05314",
-      "language": "nl"
-    },
-    {
-      "id": "nl-8affb5516c5b",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Leveringszekerheid",
-      "startAt": "2026-12-03T10:00:00+01:00",
-      "endAt": "2026-12-03T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07640",
-      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 23,
-      "updatedAt": "2026-10-15T04:34:16.373Z",
+      "count": 21,
+      "updatedAt": "2026-10-15T11:24:20.259Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-15T04:34:16.373Z",
+      "updatedAt": "2026-10-15T11:24:20.259Z",
       "error": null
     }
   }
