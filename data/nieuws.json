@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-15T11:24:18.787Z",
+  "updatedAt": "2026-10-15T16:57:46.171Z",
   "items": [
+    {
+      "id": "eu-a4c93eeb94eb",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission hosts a high-level policy dialogue on the role of forest-based value chains in the EU’s climate transition",
+      "description": "Today, Commissioner for Climate, Net Zero and Clean Growth, Wopke Hoekstra brought together representatives of forest owners and the pulp and paper sector for a high-level policy dialogue on Europe’s forest-based value chains.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-hosts-high-level-policy-dialogue-role-forest-based-value-chains-eus-climate-transition-2026-10-15_en",
+      "publishedAt": "2026-10-15T16:14:34.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-ae54679752a4",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Mayors meet with EU leaders in Brussels to advance affordable energy and climate resilience",
+      "description": "This year’s Covenant of Mayors Ceremony highlighted how cooperation between EU and local leaders is essential to protect Europeans from price shocks and climate risks.",
+      "url": "https://eu-mayors.ec.europa.eu/en/news/mayors-meet-eu-leaders-brussels-advance-affordable-energy-and-climate-resilience",
+      "publishedAt": "2026-10-15T14:41:45.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-6a2972d9b681",
       "source": "acm",
@@ -321,28 +343,6 @@
       "language": "en"
     },
     {
-      "id": "eu-3530e869efe9",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "October infringements package: key decisions on energy",
-      "description": "In the list of October infringements, there are 2 energy-related letters of formal notice and additional letters of formal notice, 5 reasoned opinions and 1 referral to the court of Justice.",
-      "url": "https://energy.ec.europa.eu/news/october-infringements-package-key-decisions-energy-2026-10-01_en",
-      "publishedAt": "2026-10-01T10:21:16.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-ce9fb48bf0a9",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Revised 2027 EU ETS1 and initial 2027 EU ETS2 auction calendars published",
-      "description": "Yesterday, the European Energy Exchange (EEX) published the revised 2027 EU ETS1 and the new 2027 EU ETS2 auction calendars.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2027-eu-ets1-and-initial-2027-eu-ets2-auction-calendars-published-2026-10-01_en",
-      "publishedAt": "2026-10-01T07:41:48.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-15T11:24:18.786Z",
+      "updatedAt": "2026-10-15T16:57:46.170Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-15T11:24:18.787Z",
+      "updatedAt": "2026-10-15T16:57:46.171Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-15T11:24:18.787Z",
+      "updatedAt": "2026-10-15T16:57:46.171Z",
       "failedFeeds": []
     }
   }
