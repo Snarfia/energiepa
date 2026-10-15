@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:57:47.368Z",
+  "updatedAt": "2026-10-15T21:20:06.142Z",
   "items": [
     {
       "id": "nl-612e7e48d1f5",
@@ -12,19 +12,6 @@
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07596",
-      "language": "nl"
-    },
-    {
-      "id": "nl-7fb732929187",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Volume- en tijdsafhankelijke nettarieven door de ACM",
-      "startAt": "2026-10-15T16:00:00+02:00",
-      "endAt": "2026-10-15T17:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06655",
       "language": "nl"
     },
     {
@@ -331,15 +318,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 22,
-      "updatedAt": "2026-10-15T16:57:47.368Z",
+      "count": 21,
+      "updatedAt": "2026-10-15T21:20:06.142Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-15T16:57:47.368Z",
+      "updatedAt": "2026-10-15T21:20:06.142Z",
       "error": null
     }
   }
