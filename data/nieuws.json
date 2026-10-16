@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-16T00:22:20.231Z",
+  "updatedAt": "2026-10-16T07:07:07.299Z",
   "items": [
+    {
+      "id": "eu-ae54679752a4",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Mayors meet with EU leaders in Brussels to advance affordable energy and climate resilience",
+      "description": "This year’s Covenant of Mayors Ceremony highlighted how cooperation between EU and local leaders is essential to protect Europeans from price shocks and climate risks.",
+      "url": "https://eu-mayors.ec.europa.eu/en/news/mayors-meet-eu-leaders-brussels-advance-affordable-energy-and-climate-resilience",
+      "publishedAt": "2026-10-16T06:18:10.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-a4c93eeb94eb",
       "source": "eu",
@@ -13,14 +24,14 @@
       "language": "en"
     },
     {
-      "id": "eu-ae54679752a4",
+      "id": "eu-ecb1e75d7cc0",
       "source": "eu",
       "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Mayors meet with EU leaders in Brussels to advance affordable energy and climate resilience",
-      "description": "This year’s Covenant of Mayors Ceremony highlighted how cooperation between EU and local leaders is essential to protect Europeans from price shocks and climate risks.",
-      "url": "https://eu-mayors.ec.europa.eu/en/news/mayors-meet-eu-leaders-brussels-advance-affordable-energy-and-climate-resilience",
-      "publishedAt": "2026-10-15T14:41:45.000Z",
+      "feed": "Europese Commissie · energie",
+      "title": "Steady progress on the One Europe, One Market roadmap",
+      "description": "In their second review of the joint declaration and roadmap, designed to boost economic growth, the EU institutions reaffirmed their commitment to timely delivery.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2169",
+      "publishedAt": "2026-10-15T13:17:39.000Z",
       "language": "en"
     },
     {
@@ -332,17 +343,6 @@
       "language": "en"
     },
     {
-      "id": "eu-64cb70a2cced",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission grants CB RES status to three additional cross-border renewable energy projects",
-      "description": "The European Commission has approved three new cross-border renewable energy projects under the fifth call for CB RES status: WIND, DEPLOY and ZEGA-LINNK. Following this update, and after the withdrawal of PONTIS from the list, the number of projects holding…",
-      "url": "https://cinea.ec.europa.eu/news-events/news/commission-grants-cb-res-status-three-additional-cross-border-renewable-energy-projects-2026-10-01_en",
-      "publishedAt": "2026-10-01T11:36:01.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-5015e7ecd8ce",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-16T00:22:20.230Z",
+      "updatedAt": "2026-10-16T07:07:07.298Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-16T00:22:20.231Z",
+      "updatedAt": "2026-10-16T07:07:07.299Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-16T00:22:20.231Z",
+      "updatedAt": "2026-10-16T07:07:07.299Z",
       "failedFeeds": []
     }
   }
