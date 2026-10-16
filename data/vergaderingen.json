@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:13:40.664Z",
+  "updatedAt": "2026-10-16T18:01:45.172Z",
   "items": [
     {
       "id": "nl-ca98de2a9877",
@@ -286,21 +286,34 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04755",
       "language": "nl"
+    },
+    {
+      "id": "nl-c732acbeb1d4",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Een verbod op fossiele reclame",
+      "startAt": "2026-12-09T13:00:00+01:00",
+      "endAt": "2026-12-09T15:15:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Rondetafelgesprek",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07634",
+      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 18,
-      "updatedAt": "2026-10-16T13:13:40.664Z",
+      "count": 19,
+      "updatedAt": "2026-10-16T18:01:45.172Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-16T13:13:40.664Z",
+      "updatedAt": "2026-10-16T18:01:45.172Z",
       "error": null
     }
   }
