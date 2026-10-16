@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-16T07:07:07.299Z",
+  "updatedAt": "2026-10-16T13:13:37.930Z",
   "items": [
+    {
+      "id": "eu-1177c07b2d48",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Slovakia to discuss energy prices and security with Visegrad Energy Ministers and continue his Affordable Housing Tour",
+      "description": "On Monday, 19 October, Commissioner for Energy and Housing Dan Jørgensen will be in Bratislava, Slovakia, to discuss high energy prices and security of supply with the energy ministers of the Visegrad Group (Czechia, Hungary, Poland and Slovakia).",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-slovakia-discuss-energy-prices-and-security-visegrad-energy-ministers-and-2026-10-16_en",
+      "publishedAt": "2026-10-16T12:18:52.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-d345a88e4c10",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Energiemonitor ACM: steeds meer huishoudens merken hoge energieprijzen, ook warmtetarieven gaan in 2027 fors omhoog",
+      "description": "Omdat de maximumtarieven voor warmte gekoppeld zijn aan de gasprijs gaan de warmtetarieven op 1 januari 2027 fors omhoog.",
+      "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-steeds-meer-huishoudens-merken-hoge-energieprijzen-ook-warmtetarieven-gaan-2027-fors-omhoog",
+      "publishedAt": "2026-10-16T11:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-ae54679752a4",
       "source": "eu",
@@ -277,17 +299,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-8acecf381e62",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Ontwerp codebesluit tijdsafhankelijke tarieven voor grote aansluitingen",
-      "description": "ACM heeft een ontwerpbesluit opgesteld over het voorstel van Netbeheer Nederland voor het wijzigen van de Tarievencode elektriciteit 2026 voor de introductie van tijdsafhankelijke tarieven voor grote aansluitingen",
-      "url": "https://www.acm.nl/nl/publicaties/ontwerp-codebesluit-tijdsafhankelijke-tarieven-voor-grote-aansluitingen",
-      "publishedAt": "2026-10-08T08:30:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "rijksoverheid-e48d35c99381",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -329,17 +340,6 @@
       "description": "Today, we, the Leaders of the G7, convened a virtual meeting to address the deepening challenges to our energy security.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2057",
       "publishedAt": "2026-10-05T07:30:04.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-033d6f3d6b83",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Energy Union Task Force meets to ensure coordination on diesel supplies and prices in Europe",
-      "description": "The Energy Union Task Force - Security has met today to discuss the latest developments concerning the situation on the diesel market and impact on prices.",
-      "url": "https://energy.ec.europa.eu/news/energy-union-task-force-meets-ensure-coordination-diesel-supplies-and-prices-europe-2026-10-02_en",
-      "publishedAt": "2026-10-02T09:55:32.000Z",
       "language": "en"
     },
     {
@@ -546,21 +546,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-16T07:07:07.298Z",
+      "updatedAt": "2026-10-16T13:13:37.929Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-16T07:07:07.299Z",
+      "updatedAt": "2026-10-16T13:13:37.930Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-16T07:07:07.299Z",
+      "updatedAt": "2026-10-16T13:13:37.930Z",
       "failedFeeds": []
     }
   }

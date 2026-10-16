@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-10-16T07:07:08.272Z",
+  "updatedAt": "2026-10-16T13:13:40.664Z",
   "items": [
-    {
-      "id": "nl-e08938b39771",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Energie voor huishoudens (CD 13/10)",
-      "startAt": "2026-10-19T00:00:00+02:00",
-      "endAt": "2026-10-19T00:00:00+02:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07643",
-      "language": "nl"
-    },
-    {
-      "id": "nl-a77779c2c093",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Verkenning belastingvermindering energiebelasting toespitsen op huishoudens (32140-335)",
-      "startAt": "2026-10-26T00:00:00+01:00",
-      "endAt": "2026-10-26T00:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06453",
-      "language": "nl"
-    },
-    {
-      "id": "nl-cf2720b629fb",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
-      "startAt": "2026-10-26T00:00:00+01:00",
-      "endAt": "2026-10-26T00:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
-      "language": "nl"
-    },
     {
       "id": "nl-ca98de2a9877",
       "source": "nl",
@@ -93,6 +54,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-fe006beeb31f",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Klimaatbeleid gebouwde omgeving - voortzetting",
+      "startAt": "2026-10-29T10:30:00+01:00",
+      "endAt": "2026-10-29T12:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07641",
+      "language": "nl"
+    },
+    {
       "id": "nl-4b680b0d54a6",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -106,6 +80,19 @@
       "language": "nl"
     },
     {
+      "id": "eu-b8a4aa8d8f18",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Workshop: Digitalisation and AI in the energy sector",
+      "startAt": "2026-10-29T15:00:00",
+      "endAt": "2026-10-29T16:30:00",
+      "location": "Europa / online",
+      "type": "Europees energie-evenement",
+      "description": "Workshop: Digitalisation and AI in the energy sector",
+      "url": "https://energy.ec.europa.eu/events/workshop-digitalisation-and-ai-energy-sector-2026-10-29_en",
+      "language": "en"
+    },
+    {
       "id": "nl-fdd59b523588",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -116,32 +103,6 @@
       "type": "Plenair debat (wetgeving)",
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A05417",
-      "language": "nl"
-    },
-    {
-      "id": "nl-bc9ff4ddacc5",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Circulaire economie (CD 8/9)",
-      "startAt": "2026-11-02T00:00:00+01:00",
-      "endAt": "2026-11-02T00:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06387",
-      "language": "nl"
-    },
-    {
-      "id": "nl-4f684f515bc3",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Voortgang klimaatbeleid (CD 30/9)",
-      "startAt": "2026-11-02T00:00:00+01:00",
-      "endAt": "2026-11-02T00:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07281",
       "language": "nl"
     },
     {
@@ -299,21 +260,47 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07640",
       "language": "nl"
+    },
+    {
+      "id": "nl-b44b9ea971a1",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Procedurevergadering commissie Klimaat en Groene Groei",
+      "startAt": "2026-12-08T17:00:00+01:00",
+      "endAt": "2026-12-08T17:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Procedurevergadering",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04786",
+      "language": "nl"
+    },
+    {
+      "id": "nl-f685c17ab5bc",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Energieraad (formeel) d.d. 10 december 2026",
+      "startAt": "2026-12-08T18:00:00+01:00",
+      "endAt": "2026-12-08T21:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04755",
+      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 20,
-      "updatedAt": "2026-10-16T07:07:08.272Z",
+      "count": 18,
+      "updatedAt": "2026-10-16T13:13:40.664Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-16T07:07:08.272Z",
+      "count": 4,
+      "updatedAt": "2026-10-16T13:13:40.664Z",
       "error": null
     }
   }
