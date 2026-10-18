@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:49:38.873Z",
+  "updatedAt": "2026-10-18T18:37:17.317Z",
   "items": [
     {
       "id": "eu-68f5a81dddd1",
@@ -544,23 +544,26 @@
   "sources": {
     "rijksoverheid": {
       "label": "Rijksoverheid",
-      "status": "ok",
+      "status": "fallback",
       "count": 20,
-      "updatedAt": "2026-10-18T15:49:38.872Z",
-      "failedFeeds": []
+      "updatedAt": "2026-10-18T18:37:17.316Z",
+      "failedFeeds": [
+        "Rijksoverheid · duurzame energie",
+        "Rijksoverheid · klimaatverandering"
+      ]
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 9,
-      "updatedAt": "2026-10-18T15:49:38.873Z",
+      "updatedAt": "2026-10-18T18:37:17.317Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-18T15:49:38.873Z",
+      "updatedAt": "2026-10-18T18:37:17.317Z",
       "failedFeeds": []
     }
   }
