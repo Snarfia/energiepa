@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-19T04:36:19.837Z",
+  "updatedAt": "2026-10-19T13:07:55.004Z",
   "items": [
+    {
+      "id": "eu-ffcaf16dc748",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026",
+      "description": "Following the European Council of 15-16 October 2026, President von der Leyen outlined the EU's response to high energy prices, from coordinated short-term measures to accelerating electrification and renewables to structurally lower energy costs for…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2190",
+      "publishedAt": "2026-10-19T12:36:18.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-599d9deff985",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Energy Transition Investment Council - Call for applications",
+      "description": "The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial…",
+      "url": "https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-06_en",
+      "publishedAt": "2026-10-19T11:58:19.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-405cf4c52129",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU invests over €390 million in 135 new climate and environment projects",
+      "description": "The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action. The allocated amount represents more than half of the €579 million total investment needs for…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184",
+      "publishedAt": "2026-10-19T11:23:08.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a94331551dcb",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission invests €3.4 billion in net-zero technology projects",
+      "description": "Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
+      "publishedAt": "2026-10-19T11:09:03.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-b41b59fe25ca",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "In focus: Renewable energy – building trust and sharing benefits",
+      "description": "The advantages of renewable energy projects for the local community can be manifold, ranging from economic and social gains to environmental ones.",
+      "url": "https://energy.ec.europa.eu/news/focus-renewable-energy-building-trust-and-sharing-benefits-2026-10-19_en",
+      "publishedAt": "2026-10-19T09:59:23.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-68f5a81dddd1",
       "source": "eu",
@@ -233,28 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-1770b8e5afc9",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Methane emissions reporting templates – Commission launches call for feedback",
-      "description": "The European Commission has published a draft implementing regulation adopting reporting templates for methane emissions in the energy sector and launched a 4-week call for feedback on the document.",
-      "url": "https://energy.ec.europa.eu/news/methane-emissions-reporting-templates-commission-launches-call-feedback-2026-10-12_en",
-      "publishedAt": "2026-10-12T07:30:09.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-736e4fd1c92f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Supporting clean transport in rural Sweden",
-      "description": "Europe’s transition to climate neutrality must be fair. However, many households living in rural areas, or in places with limited access to public transport, struggle to cover everyday transport costs.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/supporting-clean-transport-rural-sweden-2026-10-07_en",
-      "publishedAt": "2026-10-09T13:45:27.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -263,50 +296,6 @@
       "description": "Het kabinet wil het aandeel gas uit hernieuwbare bronnen in de Nederlandse gasleveringen vergroten. Gasleveranciers krijgen daarom de verplichting om bij te dragen aan de verduurzaming van de gasvoorziening. Een uitwerking van het wetsvoorstel...",
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/09/voorstel-voor-bijmengen-groen-gas-in-nederlandse-gasleveringen-stap-dichterbij",
       "publishedAt": "2026-10-09T12:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-f816adbba05e",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Eerste klankbordgroep kostengebaseerde tariefregulering warmte",
-      "description": "Verslag van de de eerste klankbordgroep kostengebaseerde tariefregulering warmte. Onderwerp was de manier waarop efficiëntie vorm kan krijgen in de methode.",
-      "url": "https://www.acm.nl/nl/publicaties/eerste-klankbordgroep-kostengebaseerde-tariefregulering-warmte",
-      "publishedAt": "2026-10-09T10:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-2de71f9921a5",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Geschilbesluit ZonOffensief - Stedin",
-      "description": "De ACM heeft de klacht van ZonOffensief Zeeland II B.V. over het vragen van een Power Generation Module Document door Stedin Netbeheer B.V. afgewezen.",
-      "url": "https://www.acm.nl/nl/publicaties/geschilbesluit-zonoffensief-stedin",
-      "publishedAt": "2026-10-09T07:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "eu-d3f2b8dae90b",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU gas system prepared for the winter despite lower storage levels",
-      "description": "The Gas Coordination Group has met again today to take stock of the current gas market situation in Europe.",
-      "url": "https://energy.ec.europa.eu/news/eu-gas-system-prepared-winter-despite-lower-storage-levels-2026-10-08_en",
-      "publishedAt": "2026-10-08T15:55:59.000Z",
-      "language": "en"
-    },
-    {
-      "id": "acm-0d93ccb6a236",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM publiceert voorstel voor tijdsafhankelijke nettarieven voor huishoudens die ruimte op het elektriciteitsnet moeten vergroten",
-      "description": "Met deze nieuwe tarieven betalen huishoudens meer naar gebruik en worden huishoudens gestimuleerd hun verbruik te verplaatsen naar rustige momenten op het net.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-publiceert-voorstel-voor-tijdsafhankelijke-nettarieven-voor-huishoudens-die-ruimte-op-het-elektriciteitsnet-moeten-vergroten",
-      "publishedAt": "2026-10-08T08:34:20.000Z",
       "language": "nl"
     },
     {
@@ -319,28 +308,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/07/slimme-en-hybride-warmtepompen-vanaf-2029-de-nieuwe-standaard",
       "publishedAt": "2026-10-07T06:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-599d9deff985",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Energy Transition Investment Council - Call for applications",
-      "description": "The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial…",
-      "url": "https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-06_en",
-      "publishedAt": "2026-10-06T15:54:04.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-66ef218d2264",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
-      "description": "Ahead of the October European Council, President von der Leyen debates with Members of the European Parliament how to tackle high energy costs for families and industry.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_2077",
-      "publishedAt": "2026-10-06T09:45:26.000Z",
-      "language": "en"
     },
     {
       "id": "rijksoverheid-5015e7ecd8ce",
@@ -546,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-19T04:36:19.837Z",
+      "updatedAt": "2026-10-19T13:07:55.003Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 9,
-      "updatedAt": "2026-10-19T04:36:19.837Z",
+      "count": 6,
+      "updatedAt": "2026-10-19T13:07:55.004Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-19T04:36:19.837Z",
+      "updatedAt": "2026-10-19T13:07:55.004Z",
       "failedFeeds": []
     }
   }
