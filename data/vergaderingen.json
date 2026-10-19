@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T13:07:56.098Z",
+  "updatedAt": "2026-10-19T19:53:47.568Z",
   "items": [
     {
       "id": "nl-ca98de2a9877",
@@ -143,6 +143,19 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05144",
       "language": "nl"
+    },
+    {
+      "id": "eu-c8668ec44344",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Beyond Coal: Youth perspectives for thriving regions",
+      "startAt": "2026-11-16T12:00:00",
+      "endAt": "2026-11-16T14:00:00",
+      "location": "Europa / online",
+      "type": "Europees energie-evenement",
+      "description": "The European Commission's Initiative for Coal Regions in Transition (CRiT) is organising a session at the EURegionsWeek 2026 Close to You programme to discuss this – with young people.",
+      "url": "https://energy.ec.europa.eu/events/beyond-coal-youth-perspectives-thriving-regions-2026-11-16_en",
+      "language": "en"
     },
     {
       "id": "nl-03fec31fc8a2",
@@ -293,14 +306,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 18,
-      "updatedAt": "2026-10-19T13:07:56.098Z",
+      "updatedAt": "2026-10-19T19:53:47.568Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-19T13:07:56.098Z",
+      "count": 5,
+      "updatedAt": "2026-10-19T19:53:47.568Z",
       "error": null
     }
   }
