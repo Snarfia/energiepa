@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-10-20T11:31:51.346Z",
+  "updatedAt": "2026-10-20T16:59:55.454Z",
   "items": [
+    {
+      "id": "eu-624e105bd201",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission data shows continued growth in sustainable investments across the EU",
+      "description": "Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.",
+      "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
+      "publishedAt": "2026-10-20T13:52:01.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a94331551dcb",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission invests €3.4 billion in net-zero technology projects",
+      "description": "On 19 October 2026, the European Commission selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
+      "publishedAt": "2026-10-20T12:42:42.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-b56b975023cf",
       "source": "eu",
@@ -54,17 +76,6 @@
       "description": "The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action. The allocated amount represents more than half of the €579 million total investment needs for…",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184",
       "publishedAt": "2026-10-19T11:23:08.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a94331551dcb",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission invests €3.4 billion in net-zero technology projects",
-      "description": "Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
-      "publishedAt": "2026-10-19T11:09:03.000Z",
       "language": "en"
     },
     {
@@ -230,17 +241,6 @@
       "description": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
       "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
       "publishedAt": "2026-10-13T09:58:28.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-7100fe37818b",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Make your voice heard: Join the EU Youth Policy Dialogue on COP31",
-      "description": "The European Commission and the European Economic and Social Committee, in cooperation with the European Youth Forum and Generation Climate Europe, will organise the EU Youth Policy Dialogue on COP31 on Thursday 1 October 2026.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/make-your-voice-heard-join-eu-youth-policy-dialogue-cop31-2026-06-26_en",
-      "publishedAt": "2026-10-12T08:47:41.000Z",
       "language": "en"
     },
     {
@@ -469,21 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-20T11:31:51.346Z",
+      "updatedAt": "2026-10-20T16:59:55.453Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-20T11:31:51.346Z",
+      "updatedAt": "2026-10-20T16:59:55.453Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-20T11:31:51.346Z",
+      "updatedAt": "2026-10-20T16:59:55.454Z",
       "failedFeeds": []
     }
   }
