@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-20T04:45:44.286Z",
+  "updatedAt": "2026-10-20T11:31:51.346Z",
   "items": [
+    {
+      "id": "eu-b56b975023cf",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
+      "description": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
+      "publishedAt": "2026-10-20T07:29:19.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-b41b59fe25ca",
       "source": "eu",
@@ -134,28 +145,6 @@
       "language": "nl"
     },
     {
-      "id": "acm-6a8fcc3733c9",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Flexibility Needs Assessment for the Dutch Electricity System 2026",
-      "description": "TenneT heeft met medewerking van de distributiesysteembeheerders een rapport opgesteld waarin zij de flexibiliteitsbehoeften voor het Nederlandse elektriciteitssysteem voor de jaren 2030 en 2035 in kaart brengt.",
-      "url": "https://www.acm.nl/nl/publicaties/flexibility-needs-assessment-dutch-electricity-system-2026",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-8af69c3755b9",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Goedkeuring van het verslag flexibiliteitsbehoeften Nederland 2026",
-      "description": "De ACM heeft het in 2026 door TenneT opgestelde verslag flexibiliteitsbehoeften voor het Nederlandse elektriciteitssysteem goedgekeurd.",
-      "url": "https://www.acm.nl/nl/publicaties/goedkeuring-van-het-verslag-flexibiliteitsbehoeften-nederland-2026",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-9f01caa6c47e",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -176,17 +165,6 @@
       "url": "https://energy.ec.europa.eu/news/eu-local-leaders-and-authorities-gather-discuss-affordable-energy-housing-and-climate-resilience-2026-10-14_en",
       "publishedAt": "2026-10-14T12:30:55.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-6e2329740ff3",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Onderzoek PlanEnergi over egalisatie kapitaallasten warmte",
-      "description": "Onderzoek in opdracht van de ACM naar activacategorieën, afschrijvingstermijnen en afschrijvingsmethoden voor de kostengebaseerde tariefregulering van de Wcw.",
-      "url": "https://www.acm.nl/nl/publicaties/onderzoek-planenergi-over-egalisatie-kapitaallasten-warmte",
-      "publishedAt": "2026-10-14T10:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-2069651c3f1b",
@@ -255,17 +233,6 @@
       "language": "en"
     },
     {
-      "id": "acm-ad24a781224b",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: doelstelling verdere verduurzaming van de landbouw uit zicht zonder extra actie",
-      "description": "De ACM constateert dat de duurzaamheidsdoelstellingen voor 2030 voor de Nederlandse landbouw uit het zicht raken zonder extra actie. Verdere verduurzaming slaagt alleen als het prijsverschil tussen gangbare producten en producten met een…",
-      "url": "https://www.acm.nl/nl/publicaties/acm-doelstelling-verdere-verduurzaming-van-de-landbouw-uit-zicht-zonder-extra-actie",
-      "publishedAt": "2026-10-13T06:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-7100fe37818b",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -274,17 +241,6 @@
       "description": "The European Commission and the European Economic and Social Committee, in cooperation with the European Youth Forum and Generation Climate Europe, will organise the EU Youth Policy Dialogue on COP31 on Thursday 1 October 2026.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/make-your-voice-heard-join-eu-youth-policy-dialogue-cop31-2026-06-26_en",
       "publishedAt": "2026-10-12T08:47:41.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-37d168761c94",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Bonn climate conference keeps momentum towards COP31 with technical negotiations advancing and new action agenda announcements",
-      "description": "The Bonn UN Climate Change Conference concluded with progress on key technical issues, helping to advance implementation of the Paris Agreement and prepare the ground for COP31 in Türkiye. New initiatives and discussions focused on turning climate…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/bonn-climate-conference-keeps-momentum-towards-cop31-technical-negotiations-advancing-and-new-action-2026-06-23_en",
-      "publishedAt": "2026-10-12T08:47:31.000Z",
       "language": "en"
     },
     {
@@ -513,21 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-20T04:45:44.285Z",
+      "updatedAt": "2026-10-20T11:31:51.346Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-10-20T04:45:44.286Z",
+      "count": 2,
+      "updatedAt": "2026-10-20T11:31:51.346Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-20T04:45:44.286Z",
+      "updatedAt": "2026-10-20T11:31:51.346Z",
       "failedFeeds": []
     }
   }
