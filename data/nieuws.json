@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-21T07:35:10.055Z",
+  "updatedAt": "2026-10-21T13:44:49.121Z",
   "items": [
+    {
+      "id": "eu-b56b975023cf",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
+      "description": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
+      "publishedAt": "2026-10-21T12:00:32.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-405cf4c52129",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU invests over €390 million in 135 new climate and environment projects",
+      "description": "The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action. The allocated amount represents more than half of the €579 million total investment needs for…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184",
+      "publishedAt": "2026-10-21T11:52:46.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a94331551dcb",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission invests €3.4 billion in net-zero technology projects",
+      "description": "Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
+      "publishedAt": "2026-10-21T11:49:51.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-6b061834d005",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: EU trade in wind turbines increased in 2025",
+      "description": "EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261020-1",
+      "publishedAt": "2026-10-21T11:44:30.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-1177c07b2d48",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Slovakia to discuss energy prices and security with Visegrad Energy Ministers and continue his Affordable Housing Tour",
+      "description": "On Monday, 19 October, Commissioner for Energy and Housing Dan Jørgensen will be in Bratislava, Slovakia, to discuss high energy prices and security of supply with the energy ministers of the Visegrad Group (Czechia, Hungary, Poland and Slovakia).",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-slovakia-discuss-energy-prices-and-security-visegrad-energy-ministers-and-2026-10-16_en",
+      "publishedAt": "2026-10-21T10:24:37.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-c8db42f1f94e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
+      "description": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
+      "publishedAt": "2026-10-21T10:20:06.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-624e105bd201",
       "source": "eu",
@@ -10,17 +76,6 @@
       "description": "Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.",
       "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
       "publishedAt": "2026-10-20T13:52:01.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-b56b975023cf",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
-      "description": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
-      "publishedAt": "2026-10-20T07:29:19.000Z",
       "language": "en"
     },
     {
@@ -57,28 +112,6 @@
       "language": "en"
     },
     {
-      "id": "eu-405cf4c52129",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU invests over €390 million in 135 new climate and environment projects",
-      "description": "The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action. The allocated amount represents more than half of the €579 million total investment needs for…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184",
-      "publishedAt": "2026-10-19T11:23:08.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a94331551dcb",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission invests €3.4 billion in net-zero technology projects",
-      "description": "Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
-      "publishedAt": "2026-10-19T11:09:03.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-68f5a81dddd1",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -87,17 +120,6 @@
       "description": "You have until 31 October 2026 to submit your European Climate Pact Ambassador application. Applications are assessed on a rolling basis – so early applications are welcome!",
       "url": "https://commission.europa.eu/news-and-media/news/apply-now-be-european-climate-pact-ambassador-2026-10-15_en",
       "publishedAt": "2026-10-16T15:31:09.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-1177c07b2d48",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Slovakia to discuss energy prices and security with Visegrad Energy Ministers and continue his Affordable Housing Tour",
-      "description": "On Monday, 19 October, Commissioner for Energy and Housing Dan Jørgensen will be in Bratislava, Slovakia, to discuss high energy prices and security of supply with the energy ministers of the Visegrad Group (Czechia, Hungary, Poland and Slovakia).",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-slovakia-discuss-energy-prices-and-security-visegrad-energy-ministers-and-2026-10-16_en",
-      "publishedAt": "2026-10-16T12:18:52.000Z",
       "language": "en"
     },
     {
@@ -219,28 +241,6 @@
       "description": "On 1 October 2026, Wopke Hoekstra, Commissioner for Climate, Net-Zero and Clean Growth, met with 16 young people from across Europe for a Youth Policy Dialogue on COP31 to exchange views ahead of the UN climate conference taking place in Antalya, Türkiye…",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/young-people-meet-commissioner-hoekstra-discuss-eu-climate-action-ahead-cop31-2026-10-09_en",
       "publishedAt": "2026-10-13T11:45:30.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-37482ccf97fe",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: EU oil imports value up by 56%, volume stable in Q2 2026",
-      "description": "In the second quarter of 2026, the value of the EU’s petroleum oil imports rose sharply, by 55.8%, however their volume remained mostly stable compared with the monthly average in 2025, at 36.7 million tonnes (+1.2%).",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260922-2",
-      "publishedAt": "2026-10-13T09:58:44.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-7824f08c4576",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Evolution of fuel prices in August 2026",
-      "description": "In August 2026, the price of fuels and lubricants for personal transport in the EU increased by 23.8% compared with August 2025. This followed year-on-year increases of 13.7% in June and 16.9% in July.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20250922-1",
-      "publishedAt": "2026-10-13T09:58:28.000Z",
       "language": "en"
     },
     {
@@ -469,21 +469,23 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-21T07:35:10.055Z",
+      "updatedAt": "2026-10-21T13:44:49.120Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
-      "status": "ok",
+      "status": "fallback",
       "count": 2,
-      "updatedAt": "2026-10-21T07:35:10.055Z",
-      "failedFeeds": []
+      "updatedAt": "2026-10-21T13:44:49.121Z",
+      "failedFeeds": [
+        "ACM · energie"
+      ]
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-21T07:35:10.055Z",
+      "updatedAt": "2026-10-21T13:44:49.121Z",
       "failedFeeds": []
     }
   }
