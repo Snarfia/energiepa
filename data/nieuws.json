@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-21T13:44:49.121Z",
+  "updatedAt": "2026-10-21T18:35:50.772Z",
   "items": [
+    {
+      "id": "eu-d93a5f9ff39b",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market",
+      "description": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on a targeted amendment to strengthen the Market Stability Reserve (MSR) of the EU's Emissions Trading System (EU ETS).",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206",
+      "publishedAt": "2026-10-21T16:32:10.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-b56b975023cf",
       "source": "eu",
@@ -66,6 +77,17 @@
       "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
       "publishedAt": "2026-10-21T10:20:06.000Z",
       "language": "en"
+    },
+    {
+      "id": "acm-ade45459f4f2",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: Netbeheerders rapporteren dat zij op koers liggen met verbeterprogramma netcongestie",
+      "description": "Netbeheerders rapporteren aan de ACM dat zij op koers liggen bij het uitvoeren van de afspraken over het beter benutten van het elektriciteitsnet.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-netbeheerders-rapporteren-dat-zij-op-koers-liggen-met-verbeterprogramma-netcongestie",
+      "publishedAt": "2026-10-21T08:00:00.000Z",
+      "language": "nl"
     },
     {
       "id": "eu-624e105bd201",
@@ -167,17 +189,6 @@
       "language": "en"
     },
     {
-      "id": "acm-6a2972d9b681",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: investeringen en aanvullend beleid nodig voor meer flexibiliteit in het elektriciteitssysteem",
-      "description": "Om zeker te weten dat er de komende 10 jaar voldoende flexibiliteit in het energiesysteem beschikbaar is, zijn nieuwe investeringen en aanvullend beleid nodig.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-investeringen-en-aanvullend-beleid-nodig-voor-meer-flexibiliteit-het-elektriciteitssysteem",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-9f01caa6c47e",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -230,17 +241,6 @@
       "description": "President Ursula von der Leyen was in New York last week to participate in the 81st UN General Assembly. Throughout the week, the President engaged with world leaders and took part in several high-level events, underscoring the EU's commitment to…",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/president-von-der-leyen-attends-un-general-assembly-underscoring-eus-commitment-multilateralism-2026-09-30_en",
       "publishedAt": "2026-10-13T11:46:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-47002ace667c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Young people meet with Commissioner Hoekstra to discuss EU climate action ahead of COP31",
-      "description": "On 1 October 2026, Wopke Hoekstra, Commissioner for Climate, Net-Zero and Clean Growth, met with 16 young people from across Europe for a Youth Policy Dialogue on COP31 to exchange views ahead of the UN climate conference taking place in Antalya, Türkiye…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/young-people-meet-commissioner-hoekstra-discuss-eu-climate-action-ahead-cop31-2026-10-09_en",
-      "publishedAt": "2026-10-13T11:45:30.000Z",
       "language": "en"
     },
     {
@@ -469,23 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-21T13:44:49.120Z",
+      "updatedAt": "2026-10-21T18:35:50.771Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
-      "status": "fallback",
+      "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-21T13:44:49.121Z",
-      "failedFeeds": [
-        "ACM · energie"
-      ]
+      "updatedAt": "2026-10-21T18:35:50.772Z",
+      "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-21T13:44:49.121Z",
+      "updatedAt": "2026-10-21T18:35:50.772Z",
       "failedFeeds": []
     }
   }
