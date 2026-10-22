@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-22T04:39:43.630Z",
+  "updatedAt": "2026-10-22T11:47:19.396Z",
   "items": [
+    {
+      "id": "eu-377683e66019",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Oil Coordination Group discusses EU fuel market developments",
+      "description": "Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en",
+      "publishedAt": "2026-10-22T08:18:20.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-d93a5f9ff39b",
       "source": "eu",
@@ -145,17 +156,6 @@
       "language": "en"
     },
     {
-      "id": "acm-d345a88e4c10",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Energiemonitor ACM: steeds meer huishoudens merken hoge energieprijzen, ook warmtetarieven gaan in 2027 fors omhoog",
-      "description": "Omdat de maximumtarieven voor warmte gekoppeld zijn aan de gasprijs gaan de warmtetarieven op 1 januari 2027 fors omhoog.",
-      "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-steeds-meer-huishoudens-merken-hoge-energieprijzen-ook-warmtetarieven-gaan-2027-fors-omhoog",
-      "publishedAt": "2026-10-16T11:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-ae54679752a4",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -230,17 +230,6 @@
       "description": "Today, the Council approved two sets of conclusions setting out the EU’s main negotiating positions ahead of the United Nations climate change (COP31) and biodiversity (COP17) summits.",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
       "publishedAt": "2026-10-13T15:11:34.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-cd088dda5d72",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "President von der Leyen attends UN General Assembly underscoring the EU's commitment to multilateralism",
-      "description": "President Ursula von der Leyen was in New York last week to participate in the 81st UN General Assembly. Throughout the week, the President engaged with world leaders and took part in several high-level events, underscoring the EU's commitment to…",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/president-von-der-leyen-attends-un-general-assembly-underscoring-eus-commitment-multilateralism-2026-09-30_en",
-      "publishedAt": "2026-10-13T11:46:00.000Z",
       "language": "en"
     },
     {
@@ -469,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-22T04:39:43.629Z",
+      "updatedAt": "2026-10-22T11:47:19.396Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-22T04:39:43.630Z",
+      "count": 1,
+      "updatedAt": "2026-10-22T11:47:19.396Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-22T04:39:43.630Z",
+      "updatedAt": "2026-10-22T11:47:19.396Z",
       "failedFeeds": []
     }
   }
