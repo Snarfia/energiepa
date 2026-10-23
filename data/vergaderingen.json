@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:28:28.072Z",
+  "updatedAt": "2026-10-23T13:23:08.398Z",
   "items": [
     {
       "id": "nl-ca98de2a9877",
@@ -197,6 +197,19 @@
       "language": "nl"
     },
     {
+      "id": "eu-878e08d621ba",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Workshop: Modelling the European electricity and energy system",
+      "startAt": "2026-11-25T09:00:00",
+      "endAt": "2026-11-25T17:00:00",
+      "location": "Brussels, Belgium",
+      "type": "Europees energie-evenement",
+      "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
+      "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-25_en",
+      "language": "en"
+    },
+    {
       "id": "nl-b1cd5b376b32",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -286,34 +299,21 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04755",
       "language": "nl"
-    },
-    {
-      "id": "nl-c732acbeb1d4",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Een verbod op fossiele reclame",
-      "startAt": "2026-12-09T13:00:00+01:00",
-      "endAt": "2026-12-09T15:15:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Rondetafelgesprek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07634",
-      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 18,
-      "updatedAt": "2026-10-23T07:28:28.072Z",
+      "count": 17,
+      "updatedAt": "2026-10-23T13:23:08.398Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-23T07:28:28.072Z",
+      "count": 6,
+      "updatedAt": "2026-10-23T13:23:08.398Z",
       "error": null
     }
   }
