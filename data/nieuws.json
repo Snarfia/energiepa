@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-23T00:38:41.141Z",
+  "updatedAt": "2026-10-23T07:28:26.076Z",
   "items": [
+    {
+      "id": "eu-c8db42f1f94e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
+      "description": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
+      "publishedAt": "2026-10-23T07:05:55.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-377683e66019",
       "source": "eu",
@@ -76,17 +87,6 @@
       "description": "On Monday, 19 October, Commissioner for Energy and Housing Dan Jørgensen will be in Bratislava, Slovakia, to discuss high energy prices and security of supply with the energy ministers of the Visegrad Group (Czechia, Hungary, Poland and Slovakia).",
       "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-slovakia-discuss-energy-prices-and-security-visegrad-energy-ministers-and-2026-10-16_en",
       "publishedAt": "2026-10-21T10:24:37.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-c8db42f1f94e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
-      "description": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
-      "publishedAt": "2026-10-21T10:20:06.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-23T00:38:41.141Z",
+      "updatedAt": "2026-10-23T07:28:26.076Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-23T00:38:41.141Z",
+      "updatedAt": "2026-10-23T07:28:26.076Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-23T00:38:41.141Z",
+      "updatedAt": "2026-10-23T07:28:26.076Z",
       "failedFeeds": []
     }
   }
