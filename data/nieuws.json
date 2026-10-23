@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T13:23:06.926Z",
+  "updatedAt": "2026-10-23T18:18:15.933Z",
   "items": [
     {
       "id": "eu-c8db42f1f94e",
@@ -9,7 +9,7 @@
       "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
       "description": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
       "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
-      "publishedAt": "2026-10-23T07:05:55.000Z",
+      "publishedAt": "2026-10-23T15:34:59.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-23T13:23:06.926Z",
+      "updatedAt": "2026-10-23T18:18:15.933Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-23T13:23:06.926Z",
+      "updatedAt": "2026-10-23T18:18:15.933Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-23T13:23:06.926Z",
+      "updatedAt": "2026-10-23T18:18:15.933Z",
       "failedFeeds": []
     }
   }
