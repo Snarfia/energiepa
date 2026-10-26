@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-26T12:56:06.866Z",
+  "updatedAt": "2026-10-26T19:55:09.791Z",
   "items": [
+    {
+      "id": "eu-2a2b5401060a",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "CEF Energy 2026 call for PCI/PMI projects attracts strong interest with 67 applications requesting €2.88 billion",
+      "description": "The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.",
+      "url": "https://cinea.ec.europa.eu/news-events/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en",
+      "publishedAt": "2026-10-26T15:22:35.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-f63a2e0c4ba3",
       "source": "eu",
@@ -219,17 +230,6 @@
       "description": "Tomorrow, hundreds of mayors, local and regional leaders and representatives from across Europe will come together in Brussels to participate in the EU Covenant of Mayors Ceremony 2026.",
       "url": "https://energy.ec.europa.eu/news/eu-local-leaders-and-authorities-gather-discuss-affordable-energy-housing-and-climate-resilience-2026-10-14_en",
       "publishedAt": "2026-10-14T12:30:55.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-2069651c3f1b",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission proposes flexibility to methane importers to help save costs",
-      "description": "The Commission proposes a one-year flexibility for importers on the methane regulation's monitoring and verification requirements, delaying the 2027 obligations to help save costs amid the energy crisis.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2119",
-      "publishedAt": "2026-10-14T08:56:36.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-26T12:56:06.866Z",
+      "updatedAt": "2026-10-26T19:55:09.790Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-26T12:56:06.866Z",
+      "updatedAt": "2026-10-26T19:55:09.790Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-26T12:56:06.866Z",
+      "updatedAt": "2026-10-26T19:55:09.791Z",
       "failedFeeds": []
     }
   }
