@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-26T04:42:18.737Z",
+  "updatedAt": "2026-10-26T12:56:06.866Z",
   "items": [
+    {
+      "id": "eu-f63a2e0c4ba3",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Hydrogen Strategy – Commission launches consultation",
+      "description": "The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.",
+      "url": "https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-consultation-2026-10-26_en",
+      "publishedAt": "2026-10-26T10:53:48.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-c8db42f1f94e",
       "source": "eu",
@@ -219,17 +230,6 @@
       "description": "The Commission proposes a one-year flexibility for importers on the methane regulation's monitoring and verification requirements, delaying the 2027 obligations to help save costs amid the energy crisis.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2119",
       "publishedAt": "2026-10-14T08:56:36.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-0a0345a208de",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Multilateralism: Council sets EU position ahead of climate change and biodiversity summits",
-      "description": "Today, the Council approved two sets of conclusions setting out the EU’s main negotiating positions ahead of the United Nations climate change (COP31) and biodiversity (COP17) summits.",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
-      "publishedAt": "2026-10-13T15:11:34.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-26T04:42:18.736Z",
+      "updatedAt": "2026-10-26T12:56:06.866Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-26T04:42:18.737Z",
+      "updatedAt": "2026-10-26T12:56:06.866Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-26T04:42:18.737Z",
+      "updatedAt": "2026-10-26T12:56:06.866Z",
       "failedFeeds": []
     }
   }
