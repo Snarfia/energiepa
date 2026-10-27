@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-27T12:06:34.340Z",
+  "updatedAt": "2026-10-27T17:58:01.991Z",
   "items": [
+    {
+      "id": "eu-778b5b38976c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU gas storage is 75% filled",
+      "description": "In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.",
+      "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
+      "publishedAt": "2026-10-27T10:57:52.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-6a3d00caad81",
       "source": "eu",
@@ -219,17 +230,6 @@
       "description": "In their second review of the joint declaration and roadmap, designed to boost economic growth, the EU institutions reaffirmed their commitment to timely delivery.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2169",
       "publishedAt": "2026-10-15T13:17:39.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-9f01caa6c47e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Cross-border gas network code – Commission launches call for feedback on revision of rules",
-      "description": "The European Commission has published a draft implementing regulation on the rules governing how cross-border gas transmission capacity is allocated and launched a 4-week call for feedback on the document.",
-      "url": "https://energy.ec.europa.eu/news/cross-border-gas-network-code-commission-launches-call-feedback-revision-rules-2026-10-14_en",
-      "publishedAt": "2026-10-15T09:14:27.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-27T12:06:34.340Z",
+      "updatedAt": "2026-10-27T17:58:01.991Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-27T12:06:34.340Z",
+      "updatedAt": "2026-10-27T17:58:01.991Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-27T12:06:34.340Z",
+      "updatedAt": "2026-10-27T17:58:01.991Z",
       "failedFeeds": []
     }
   }
