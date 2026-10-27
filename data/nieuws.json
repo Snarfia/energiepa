@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-27T04:59:29.517Z",
+  "updatedAt": "2026-10-27T12:06:34.340Z",
   "items": [
+    {
+      "id": "eu-6a3d00caad81",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission launches T-MED Investment Platform with up to €4.5 billion in EU guarantees",
+      "description": "Today, the European Commission launched the T-MED Investment Platform, to mobilise large-scale investment in renewable energy and clean technologies across the Mediterranean.",
+      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-launches-t-med-investment-platform-eur45-billion-eu-guarantees-2026-10-26_en",
+      "publishedAt": "2026-10-27T10:20:39.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-2a2b5401060a",
       "source": "eu",
@@ -219,17 +230,6 @@
       "description": "The European Commission has published a draft implementing regulation on the rules governing how cross-border gas transmission capacity is allocated and launched a 4-week call for feedback on the document.",
       "url": "https://energy.ec.europa.eu/news/cross-border-gas-network-code-commission-launches-call-feedback-revision-rules-2026-10-14_en",
       "publishedAt": "2026-10-15T09:14:27.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-8d819d4e8a2c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "EU local leaders and authorities gather to discuss affordable energy, housing and climate resilience",
-      "description": "Tomorrow, hundreds of mayors, local and regional leaders and representatives from across Europe will come together in Brussels to participate in the EU Covenant of Mayors Ceremony 2026.",
-      "url": "https://energy.ec.europa.eu/news/eu-local-leaders-and-authorities-gather-discuss-affordable-energy-housing-and-climate-resilience-2026-10-14_en",
-      "publishedAt": "2026-10-14T12:30:55.000Z",
       "language": "en"
     },
     {
@@ -458,21 +458,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-27T04:59:29.516Z",
+      "updatedAt": "2026-10-27T12:06:34.340Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-27T04:59:29.517Z",
+      "updatedAt": "2026-10-27T12:06:34.340Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-27T04:59:29.517Z",
+      "updatedAt": "2026-10-27T12:06:34.340Z",
       "failedFeeds": []
     }
   }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:59:30.979Z",
+  "updatedAt": "2026-10-27T12:06:35.697Z",
   "items": [
     {
       "id": "nl-f7aae0c74563",
@@ -184,19 +184,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-878e08d621ba",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-25T09:00:00",
-      "endAt": "2026-11-25T17:00:00",
-      "location": "Brussels, Belgium",
-      "type": "Europees energie-evenement",
-      "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
-      "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-25_en",
-      "language": "en"
-    },
-    {
       "id": "nl-b1cd5b376b32",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -208,6 +195,19 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04028",
       "language": "nl"
+    },
+    {
+      "id": "eu-7ba17ffdc1a3",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Workshop: Modelling the European electricity and energy system",
+      "startAt": "2026-11-26T09:00:00",
+      "endAt": "2026-11-26T17:00:00",
+      "location": "Brussels, Belgium",
+      "type": "Europees energie-evenement",
+      "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
+      "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
+      "language": "en"
     },
     {
       "id": "eu-afc63d005945",
@@ -286,34 +286,21 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04755",
       "language": "nl"
-    },
-    {
-      "id": "nl-c732acbeb1d4",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Een verbod op fossiele reclame",
-      "startAt": "2026-12-09T13:00:00+01:00",
-      "endAt": "2026-12-09T15:15:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Rondetafelgesprek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07634",
-      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 17,
-      "updatedAt": "2026-10-27T04:59:30.978Z",
+      "count": 16,
+      "updatedAt": "2026-10-27T12:06:35.697Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-27T04:59:30.979Z",
+      "updatedAt": "2026-10-27T12:06:35.697Z",
       "error": null
     }
   }
