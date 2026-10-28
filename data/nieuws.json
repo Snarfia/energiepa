@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-28T08:25:27.349Z",
+  "updatedAt": "2026-10-28T16:36:30.597Z",
   "items": [
+    {
+      "id": "eu-b766cc4c09db",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission launches High-Level Dialogue with the European oil refining sector",
+      "description": "The European Commission launched today the first High-Level Dialogue with the European oil refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.",
+      "url": "https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-oil-refining-sector-2026-10-28_en",
+      "publishedAt": "2026-10-28T16:32:56.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-7ea9e0b73a9c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Press remarks by Commissioner Jørgensen following the Dialogue with European refineries",
+      "description": "The Commissioner for Energy and Housing, Dan Jørgensen, gave a press point following the High-Level Dialogue on EU refineries.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2278",
+      "publishedAt": "2026-10-28T16:00:46.000Z",
+      "language": "en"
+    },
+    {
+      "id": "acm-2d26e0ab5c26",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: Digitale autonomie staat op de agenda, maar overstappen cloudaanbieder gebeurt weinig",
+      "description": "Nederlandse energieleveranciers willen hun digitale autonomie versterken, maar weinig bedrijven stappen over op een andere cloudaanbieder. Ze vrezen hoge kosten en verstoring van processen.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-digitale-autonomie-staat-op-de-agenda-maar-overstappen-cloudaanbieder-gebeurt-weinig",
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-778b5b38976c",
       "source": "eu",
@@ -10,6 +43,17 @@
       "description": "In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.",
       "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
       "publishedAt": "2026-10-27T10:57:52.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-da72cf7ecc7f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission presents Climate Resilience Framework for a better prepared and protected Europe",
+      "description": "The European Commission today presented an EU Framework for Climate Resilience to strengthen Europe’s ability to anticipate, prepare for, and manage climate risks.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2244",
+      "publishedAt": "2026-10-27T10:41:34.000Z",
       "language": "en"
     },
     {
@@ -197,39 +241,6 @@
       "description": "You have until 31 October 2026 to submit your European Climate Pact Ambassador application. Applications are assessed on a rolling basis – so early applications are welcome!",
       "url": "https://commission.europa.eu/news-and-media/news/apply-now-be-european-climate-pact-ambassador-2026-10-15_en",
       "publishedAt": "2026-10-16T15:31:09.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-ae54679752a4",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Mayors meet with EU leaders in Brussels to advance affordable energy and climate resilience",
-      "description": "This year’s Covenant of Mayors Ceremony highlighted how cooperation between EU and local leaders is essential to protect Europeans from price shocks and climate risks.",
-      "url": "https://eu-mayors.ec.europa.eu/en/news/mayors-meet-eu-leaders-brussels-advance-affordable-energy-and-climate-resilience",
-      "publishedAt": "2026-10-16T06:18:10.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a4c93eeb94eb",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission hosts a high-level policy dialogue on the role of forest-based value chains in the EU’s climate transition",
-      "description": "Today, Commissioner for Climate, Net Zero and Clean Growth, Wopke Hoekstra brought together representatives of forest owners and the pulp and paper sector for a high-level policy dialogue on Europe’s forest-based value chains.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-hosts-high-level-policy-dialogue-role-forest-based-value-chains-eus-climate-transition-2026-10-15_en",
-      "publishedAt": "2026-10-15T16:14:34.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-ecb1e75d7cc0",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Steady progress on the One Europe, One Market roadmap",
-      "description": "In their second review of the joint declaration and roadmap, designed to boost economic growth, the EU institutions reaffirmed their commitment to timely delivery.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2169",
-      "publishedAt": "2026-10-15T13:17:39.000Z",
       "language": "en"
     },
     {
@@ -458,21 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-28T08:25:27.349Z",
+      "updatedAt": "2026-10-28T16:36:30.596Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-28T08:25:27.349Z",
+      "count": 2,
+      "updatedAt": "2026-10-28T16:36:30.597Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-28T08:25:27.349Z",
+      "updatedAt": "2026-10-28T16:36:30.597Z",
       "failedFeeds": []
     }
   }
