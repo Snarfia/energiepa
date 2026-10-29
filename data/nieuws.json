@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-29T12:56:01.498Z",
+  "updatedAt": "2026-10-29T19:36:34.280Z",
   "items": [
+    {
+      "id": "eu-77644a52e6be",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Council publishes 2025 international climate finance figures",
+      "description": "In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt…",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
+      "publishedAt": "2026-10-29T13:42:28.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-9c9dcbcff77b",
       "source": "acm",
@@ -277,17 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-68f5a81dddd1",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Apply now to be a European Climate Pact Ambassador!",
-      "description": "You have until 31 October 2026 to submit your European Climate Pact Ambassador application. Applications are assessed on a rolling basis – so early applications are welcome!",
-      "url": "https://commission.europa.eu/news-and-media/news/apply-now-be-european-climate-pact-ambassador-2026-10-15_en",
-      "publishedAt": "2026-10-16T15:31:09.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-29T12:56:01.497Z",
+      "updatedAt": "2026-10-29T19:36:34.280Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-29T12:56:01.498Z",
+      "updatedAt": "2026-10-29T19:36:34.280Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-29T12:56:01.498Z",
+      "updatedAt": "2026-10-29T19:36:34.280Z",
       "failedFeeds": []
     }
   }
