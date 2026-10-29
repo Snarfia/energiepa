@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-10-29T05:43:44.670Z",
+  "updatedAt": "2026-10-29T12:56:01.498Z",
   "items": [
+    {
+      "id": "acm-9c9dcbcff77b",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Greenchoice Solutions mag elektriciteit en gas leveren aan eindafnemers met een kleine aansluiting",
+      "description": "Greenchoice Solutions B.V. mag elektriciteit en gas leveren aan eindafnemers met een kleine aansluiting. De ACM heeft op 23 oktober 2026 hiervoor een vergunning verleend.",
+      "url": "https://www.acm.nl/nl/publicaties/greenchoice-solutions-mag-elektriciteit-en-gas-leveren-aan-eindafnemers-met-een-kleine-aansluiting",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-ceeeb0329b92",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "UHT Concept Regeling gegevensuitwisseling Energiewet",
+      "description": "De ACM heeft een uitvoerbaarheids- en handhaafbaarheidstoets (UHT) uitgevoerd op de concept Regeling gegevensuitwisseling Energiewet.",
+      "url": "https://www.acm.nl/nl/publicaties/uht-concept-regeling-gegevensuitwisseling-energiewet",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-ff34aeefb140",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "UHT op conceptregelingen voor tijdsafhankelijke nettarieven",
+      "description": "De ACM heeft een UHT uitgevoerd op de conceptartikelen uit de Energieregeling en de Regeling Gegevensuitwisseling voor de introductie van volume- en tijdsafhankelijke transporttarieven voor elektriciteit voor kleine aansluitingen.",
+      "url": "https://www.acm.nl/nl/publicaties/uht-op-conceptregelingen-voor-tijdsafhankelijke-nettarieven",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-12f039f5f43f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission launches High-Level Dialogue with the European refining sector",
+      "description": "The European Commission launched today the first High-Level Dialogue with the European refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.",
+      "url": "https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-refining-sector-2026-10-28_en",
+      "publishedAt": "2026-10-29T08:41:16.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-7d491fd5a8b7",
       "source": "acm",
@@ -11,17 +55,6 @@
       "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-uitbreiding-gotork",
       "publishedAt": "2026-10-29T05:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-b766cc4c09db",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission launches High-Level Dialogue with the European oil refining sector",
-      "description": "The European Commission launched today the first High-Level Dialogue with the European oil refining industry to discuss how to strengthen Europe’s energy security, defence readiness and industrial competitiveness in a rapidly changing geopolitical environment.",
-      "url": "https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-oil-refining-sector-2026-10-28_en",
-      "publishedAt": "2026-10-28T16:32:56.000Z",
-      "language": "en"
     },
     {
       "id": "eu-7ea9e0b73a9c",
@@ -480,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-29T05:43:44.669Z",
+      "updatedAt": "2026-10-29T12:56:01.497Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-29T05:43:44.670Z",
+      "count": 6,
+      "updatedAt": "2026-10-29T12:56:01.498Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-10-29T05:43:44.670Z",
+      "updatedAt": "2026-10-29T12:56:01.498Z",
       "failedFeeds": []
     }
   }
