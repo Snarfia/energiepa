@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-30T05:43:19.484Z",
+  "updatedAt": "2026-10-30T12:49:40.436Z",
   "items": [
-    {
-      "id": "nl-fdd59b523588",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Begroting Klimaat en Groene Groei",
-      "startAt": "2026-11-02T00:00:00+01:00",
-      "endAt": "2026-11-02T00:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (wetgeving)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A05417",
-      "language": "nl"
-    },
     {
       "id": "nl-2d1eb0cf921b",
       "source": "nl",
@@ -52,6 +39,32 @@
       "description": "20th SET Plan conference - Competitiveness and sovereignty of strategic energy technologies",
       "url": "https://energy.ec.europa.eu/events/20th-strategic-energy-technology-plan-2026-11-04_en",
       "language": "en"
+    },
+    {
+      "id": "nl-0537f2a87c7c",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Begroting Klimaat en Groene Groei (37 020-XXIII) (1e TK)",
+      "startAt": "2026-11-04T10:15:00+01:00",
+      "endAt": "2026-11-04T15:30:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (wetgeving)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A05417",
+      "language": "nl"
+    },
+    {
+      "id": "nl-fdd59b523588",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Begroting Klimaat en Groene Groei (37 020-XXIII) (voortzetting)",
+      "startAt": "2026-11-05T16:00:00+01:00",
+      "endAt": "2026-11-05T23:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (wetgeving)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07995",
+      "language": "nl"
     },
     {
       "id": "eu-9d22c1be099e",
@@ -253,15 +266,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-10-30T05:43:19.484Z",
+      "count": 14,
+      "updatedAt": "2026-10-30T12:49:40.436Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-30T05:43:19.484Z",
+      "updatedAt": "2026-10-30T12:49:40.436Z",
       "error": null
     }
   }
