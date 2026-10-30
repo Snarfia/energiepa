@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:19:33.716Z",
+  "updatedAt": "2026-10-30T23:43:49.880Z",
   "items": [
     {
       "id": "nl-2d1eb0cf921b",
@@ -265,16 +265,16 @@
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
-      "status": "fallback",
+      "status": "ok",
       "count": 14,
-      "updatedAt": "2026-10-30T19:19:33.716Z",
-      "error": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Activiteit?%24filter=Datum+ge+2026-10-30+and+Verwijderd+eq+false+and+Besloten+eq+false+and+Status+eq+%27Gepland%27&%24select=Id%2CNummer%2CSoort%2COnderwerp%2CDatum%2CAanvangstijd%2CEindtijd%2CLocatie%2CStatus%2CVoortouwnaam%2CVoortouwafkorting%2CBesloten&%24orderby=Datum+asc%2CAanvangstijd+asc&%24top=250: HTTP 500"
+      "updatedAt": "2026-10-30T23:43:49.880Z",
+      "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-30T19:19:33.716Z",
+      "updatedAt": "2026-10-30T23:43:49.880Z",
       "error": null
     }
   }
