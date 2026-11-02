@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-02T05:57:39.492Z",
+  "updatedAt": "2026-11-02T15:43:40.073Z",
   "items": [
+    {
+      "id": "acm-6af147b0af94",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Gezamenlijke waarschuwing ACM en maatschappelijke organisaties: pas op voor onbetrouwbare verkopers van energieproducten",
+      "description": "Met de campagne ‘Stop het gesprek. Start je eigen check.’ waarschuwt de ACM voor onbetrouwbare verkopers van thuisbatterijen, warmtepompen en andere energieproducten.",
+      "url": "https://www.acm.nl/nl/publicaties/gezamenlijke-waarschuwing-acm-en-maatschappelijke-organisaties-pas-op-voor-onbetrouwbare-verkopers-van-energieproducten",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-25e2877c5bfb",
       "source": "eu",
@@ -513,21 +524,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-02T05:57:39.492Z",
+      "updatedAt": "2026-11-02T15:43:40.073Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-11-02T05:57:39.492Z",
+      "count": 7,
+      "updatedAt": "2026-11-02T15:43:40.073Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-02T05:57:39.492Z",
+      "updatedAt": "2026-11-02T15:43:40.073Z",
       "failedFeeds": []
     }
   }
