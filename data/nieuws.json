@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:43:23.346Z",
+  "updatedAt": "2026-11-03T16:12:29.164Z",
   "items": [
     {
       "id": "acm-6af147b0af94",
@@ -277,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "acm-ade45459f4f2",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: Netbeheerders rapporteren dat zij op koers liggen met verbeterprogramma netcongestie",
-      "description": "Netbeheerders rapporteren aan de ACM dat zij op koers liggen bij het uitvoeren van de afspraken over het beter benutten van het elektriciteitsnet.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-netbeheerders-rapporteren-dat-zij-op-koers-liggen-met-verbeterprogramma-netcongestie",
-      "publishedAt": "2026-10-21T08:00:00.000Z",
-      "language": "nl"
-    },
-    {
       "id": "eu-624e105bd201",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -524,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-03T06:43:23.346Z",
+      "updatedAt": "2026-11-03T16:12:29.164Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-11-03T06:43:23.346Z",
+      "count": 6,
+      "updatedAt": "2026-11-03T16:12:29.164Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-03T06:43:23.346Z",
+      "updatedAt": "2026-11-03T16:12:29.164Z",
       "failedFeeds": []
     }
   }
