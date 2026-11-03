@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-03T16:12:29.164Z",
+  "updatedAt": "2026-11-03T21:45:05.513Z",
   "items": [
+    {
+      "id": "rijksoverheid-238f48d98d00",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Kabinet helpt industrie met hoge elektriciteitskosten",
+      "description": "Het kabinet stelt volgend jaar € 150 miljoen beschikbaar voor de industrie om de hoge elektriciteitskosten te helpen compenseren. Vanaf 2028 is er € 345 miljoen beschikbaar en vanaf 2029 is er € 495 miljoen per jaar beschikbaar tot 2035. Deze...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-helpt-industrie-met-hoge-elektriciteitskosten",
+      "publishedAt": "2026-11-03T16:19:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "acm-6af147b0af94",
       "source": "acm",
@@ -495,17 +506,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/22/subsidie-voor-verduurzaming-binnenvaart-na-zomer-van-start",
       "publishedAt": "2026-04-22T10:06:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-7702b29031de",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · klimaatverandering",
-      "title": "Nieuwe Rode Lijst Libellen gepubliceerd",
-      "description": "De geactualiseerde Rode Lijst Libellen is gepubliceerd in de Staatscourant. Op deze lijst staan inheemse libellensoorten die uit Nederland zijn verdwenen of dreigen te verdwijnen. Voor deze actualisatie zijn alle Nederlandse libellen opnieuw...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/22/nieuwe-rode-lijst-libellen-gepubliceerd",
-      "publishedAt": "2026-04-22T08:15:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-03T16:12:29.164Z",
+      "updatedAt": "2026-11-03T21:45:05.513Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-03T16:12:29.164Z",
+      "updatedAt": "2026-11-03T21:45:05.513Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-03T16:12:29.164Z",
+      "updatedAt": "2026-11-03T21:45:05.513Z",
       "failedFeeds": []
     }
   }
