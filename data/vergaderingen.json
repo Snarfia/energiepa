@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:04:11.618Z",
+  "updatedAt": "2026-11-04T19:42:49.434Z",
   "items": [
     {
       "id": "eu-ce808b64f1a0",
@@ -45,8 +45,8 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Energy events at COP31",
-      "startAt": "2026-11-09T09:00:00",
-      "endAt": "2026-11-19T17:30:00",
+      "startAt": "2026-11-09T07:00:00",
+      "endAt": "2026-11-19T15:30:00",
       "location": "Antalya, Türkiye",
       "type": "Europees energie-evenement",
       "description": "Energy events at COP31",
@@ -247,21 +247,47 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07634",
       "language": "nl"
+    },
+    {
+      "id": "nl-f70d6f54796a",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Verduurzaming Industrie",
+      "startAt": "2026-12-17T13:00:00+01:00",
+      "endAt": "2026-12-17T17:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02571",
+      "language": "nl"
+    },
+    {
+      "id": "nl-884c45555b6b",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met een jaarverplichting voor het vervangen van het waterstofgebruik door exploitanten van industriële installaties in de industrie door het gebruik van hernieuwbare brandstoffen van niet-biologische oorsprong ter ondersteuning van het behalen van het doel in de richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328) ter bevordering van het verbruik van hernieuwbare brandstoffen van niet-biologische oorsprong in de industrie (Wet jaarverplichting hernieuwbare brandstoffen van niet-biologische oorsprong in de industrie) (36936)",
+      "startAt": "2027-01-11T00:00:00+01:00",
+      "endAt": "2027-01-11T00:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (wetgeving)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06382",
+      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-11-04T12:04:11.618Z",
+      "count": 15,
+      "updatedAt": "2026-11-04T19:42:49.434Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-04T12:04:11.618Z",
+      "updatedAt": "2026-11-04T19:42:49.434Z",
       "error": null
     }
   }

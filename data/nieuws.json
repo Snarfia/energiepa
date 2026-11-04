@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-04T12:04:10.306Z",
+  "updatedAt": "2026-11-04T19:42:47.786Z",
   "items": [
+    {
+      "id": "eu-7a1420260b4a",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
+      "description": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy…",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
+      "publishedAt": "2026-11-04T16:44:28.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-667848594e23",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
+      "description": "Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313",
+      "publishedAt": "2026-11-04T15:35:27.000Z",
+      "language": "en"
+    },
+    {
+      "id": "rijksoverheid-40793364b7c0",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Kabinet en maatschappelijke partijen in gesprek over de klimaat- en energieopgave",
+      "description": "Nederland staat voor een grote opgave om een weerbaarder en betaalbaar energiesysteem te bouwen en klimaatverandering aan te pakken en ons erop aan te passen. Het kabinet heeft daarom op het ministerie van Algemene Zaken met maatschappelijke...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/kabinet-en-maatschappelijke-partijen-in-gesprek-over-de-klimaat-en-energieopgave",
+      "publishedAt": "2026-11-04T15:11:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-a9a395843d28",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU electricity market integration progresses but significant benefits remain untapped",
+      "description": "Integrated electricity markets are central to a secure, affordable and sustainable EU energy system. By enabling cross-border trade, they increase competition, improve affordability for consumers, support more renewables and strengthen security of supply and…",
+      "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
+      "publishedAt": "2026-11-04T14:30:23.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-2934cc6a11f1",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: Non-household electricity prices fall further in 2026",
+      "description": "In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
+      "publishedAt": "2026-11-04T12:57:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-03922fdbdede",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Eurostat: Annual fall in non-household gas prices: -6.7%",
+      "description": "In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-2",
+      "publishedAt": "2026-11-04T12:51:05.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-605aad29cb92",
       "source": "eu",
@@ -244,61 +310,6 @@
       "language": "en"
     },
     {
-      "id": "eu-b56b975023cf",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
-      "description": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
-      "publishedAt": "2026-10-21T12:00:32.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-405cf4c52129",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU invests over €390 million in 135 new climate and environment projects",
-      "description": "The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action. The allocated amount represents more than half of the €579 million total investment needs for…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184",
-      "publishedAt": "2026-10-21T11:52:46.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a94331551dcb",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission invests €3.4 billion in net-zero technology projects",
-      "description": "Today, the European Commission has selected 77 European net-zero technology projects to receive funding support worth €3.4 billion under the call of the Innovation Fund, launched in December 2025.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2187",
-      "publishedAt": "2026-10-21T11:49:51.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-6b061834d005",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: EU trade in wind turbines increased in 2025",
-      "description": "EU-produced wind turbines had an export value of €3.1 billion in 2025, relative to imports of €0.7 billion. Compared with the previous year, exports increased both in value (10.8%) and volume (9.5%).",
-      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261020-1",
-      "publishedAt": "2026-10-21T11:44:30.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-1177c07b2d48",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Slovakia to discuss energy prices and security with Visegrad Energy Ministers and continue his Affordable Housing Tour",
-      "description": "On Monday, 19 October, Commissioner for Energy and Housing Dan Jørgensen will be in Bratislava, Slovakia, to discuss high energy prices and security of supply with the energy ministers of the Visegrad Group (Czechia, Hungary, Poland and Slovakia).",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-slovakia-discuss-energy-prices-and-security-visegrad-energy-ministers-and-2026-10-16_en",
-      "publishedAt": "2026-10-21T10:24:37.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -495,17 +506,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/13/nederland-en-belgie-gaan-samenwerking-rond-kernenergie-verder-intensiveren",
       "publishedAt": "2026-05-13T13:49:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-42f66e6f67be",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "Subsidie voor verduurzaming binnenvaart na zomer van start",
-      "description": "Binnenvaartschippers die duurzaam willen gaan varen kunnen hier na de zomer van 2026 subsidie voor aanvragen. De subsidie kan gebruikt worden om een schip om te bouwen zodat deze (hybride-) elektrisch of op waterstof of methanol kan varen, of om...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/04/22/subsidie-voor-verduurzaming-binnenvaart-na-zomer-van-start",
-      "publishedAt": "2026-04-22T10:06:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-04T12:04:10.306Z",
+      "updatedAt": "2026-11-04T19:42:47.785Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-04T12:04:10.306Z",
+      "updatedAt": "2026-11-04T19:42:47.785Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-04T12:04:10.306Z",
+      "updatedAt": "2026-11-04T19:42:47.786Z",
       "failedFeeds": []
     }
   }
