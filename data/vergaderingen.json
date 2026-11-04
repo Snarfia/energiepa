@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-04T02:17:50.076Z",
+  "updatedAt": "2026-11-04T12:04:11.618Z",
   "items": [
     {
       "id": "eu-ce808b64f1a0",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "20th Strategic Energy Technology Plan",
-      "startAt": "2026-11-04T09:00:00",
-      "endAt": "2026-11-05T17:00:00",
+      "startAt": "2026-11-04T10:00:00",
+      "endAt": "2026-11-05T18:00:00",
       "location": "Cork City Hall, Cork, Ireland",
       "type": "Europees energie-evenement",
       "description": "20th SET Plan conference - Competitiveness and sovereignty of strategic energy technologies",
@@ -254,14 +254,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-11-04T02:17:50.076Z",
+      "updatedAt": "2026-11-04T12:04:11.618Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-04T02:17:50.076Z",
+      "updatedAt": "2026-11-04T12:04:11.618Z",
       "error": null
     }
   }

@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-04T02:17:48.718Z",
+  "updatedAt": "2026-11-04T12:04:10.306Z",
   "items": [
+    {
+      "id": "eu-605aad29cb92",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Biomethane Mechanism: First matching round to connect buyers and suppliers",
+      "description": "The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.",
+      "url": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
+      "publishedAt": "2026-11-04T10:58:25.000Z",
+      "language": "en"
+    },
     {
       "id": "rijksoverheid-238f48d98d00",
       "source": "rijksoverheid",
@@ -288,17 +299,6 @@
       "language": "en"
     },
     {
-      "id": "eu-624e105bd201",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission data shows continued growth in sustainable investments across the EU",
-      "description": "Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.",
-      "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
-      "publishedAt": "2026-10-20T13:52:01.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-04T02:17:48.718Z",
+      "updatedAt": "2026-11-04T12:04:10.306Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-04T02:17:48.718Z",
+      "updatedAt": "2026-11-04T12:04:10.306Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-04T02:17:48.718Z",
+      "updatedAt": "2026-11-04T12:04:10.306Z",
       "failedFeeds": []
     }
   }
