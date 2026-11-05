@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-05T17:59:33.685Z",
+  "updatedAt": "2026-11-05T23:36:51.422Z",
   "items": [
-    {
-      "id": "nl-fdd59b523588",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Begroting Klimaat en Groene Groei (37 020-XXIII) (voortzetting)",
-      "startAt": "2026-11-05T16:00:00+01:00",
-      "endAt": "2026-11-05T23:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (wetgeving)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07995",
-      "language": "nl"
-    },
     {
       "id": "eu-9d22c1be099e",
       "source": "eu",
@@ -266,15 +253,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 15,
-      "updatedAt": "2026-11-05T17:59:33.685Z",
+      "count": 14,
+      "updatedAt": "2026-11-05T23:36:51.422Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-05T17:59:33.685Z",
+      "updatedAt": "2026-11-05T23:36:51.422Z",
       "error": null
     }
   }
