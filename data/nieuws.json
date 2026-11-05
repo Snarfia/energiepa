@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-05T09:26:30.949Z",
+  "updatedAt": "2026-11-05T17:59:31.426Z",
   "items": [
+    {
+      "id": "acm-a50603e737fe",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: verplicht delen van brandstofprijsdata versterkt transparantie en kan consumenten geld besparen",
+      "description": "De ACM is voorstander van een plicht voor tankstations om actuele brandstofprijzen gratis beschikbaar te stellen aan informatiediensten zoals routeplanners en prijsvergelijkingswebsites.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-verplicht-delen-van-brandstofprijsdata-versterkt-transparantie-en-kan-consumenten-geld-besparen",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-f8c7ed959c01",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM voert UHT uit op de Regeling collectieve warmte (Rcw)",
+      "description": "De Autoriteit Consument & Markt heeft de conceptregeling getoetst op uitvoerbaarheid en handhaafbaarheid.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-voert-uht-uit-op-de-regeling-collectieve-warmte-rcw",
+      "publishedAt": "2026-11-05T09:22:06.000Z",
+      "language": "nl"
+    },
     {
       "id": "rijksoverheid-40793364b7c0",
       "source": "rijksoverheid",
@@ -175,28 +197,6 @@
       "description": "De ACM heeft een UHT uitgevoerd op de conceptartikelen uit de Energieregeling en de Regeling Gegevensuitwisseling voor de introductie van volume- en tijdsafhankelijke transporttarieven voor elektriciteit voor kleine aansluitingen.",
       "url": "https://www.acm.nl/nl/publicaties/uht-op-conceptregelingen-voor-tijdsafhankelijke-nettarieven",
       "publishedAt": "2026-10-29T09:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-7d491fd5a8b7",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Voorstel codewijziging uitbreiding GOTORK",
-      "description": "Netbeheer Nederland stelt voor de regels voor GOTORK uit te breiden en onbenut transportvermogen bij partijen zonder aansluiting te verlagen.",
-      "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-uitbreiding-gotork",
-      "publishedAt": "2026-10-29T05:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-2d26e0ab5c26",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: Digitale autonomie staat op de agenda, maar overstappen cloudaanbieder gebeurt weinig",
-      "description": "Nederlandse energieleveranciers willen hun digitale autonomie versterken, maar weinig bedrijven stappen over op een andere cloudaanbieder. Ze vrezen hoge kosten en verstoring van processen.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-digitale-autonomie-staat-op-de-agenda-maar-overstappen-cloudaanbieder-gebeurt-weinig",
-      "publishedAt": "2026-10-28T09:00:00.000Z",
       "language": "nl"
     },
     {
@@ -513,21 +513,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-05T09:26:30.948Z",
+      "updatedAt": "2026-11-05T17:59:31.426Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-05T09:26:30.949Z",
+      "updatedAt": "2026-11-05T17:59:31.426Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-05T09:26:30.949Z",
+      "updatedAt": "2026-11-05T17:59:31.426Z",
       "failedFeeds": []
     }
   }
