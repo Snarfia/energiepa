@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:37:53.194Z",
+  "updatedAt": "2026-11-06T15:54:08.851Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -38,6 +38,19 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08066",
+      "language": "nl"
+    },
+    {
+      "id": "nl-1d9320d0ef34",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Debat over het advies van het Nationaal Burgerberaad Klimaat",
+      "startAt": "2026-11-12T18:30:00+01:00",
+      "endAt": "2026-11-12T23:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (debat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06162",
       "language": "nl"
     },
     {
@@ -234,19 +247,6 @@
       "description": "TK",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06382",
       "language": "nl"
-    },
-    {
-      "id": "nl-5982dc6db3cf",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Mijnbouw",
-      "startAt": "2027-01-13T10:00:00+01:00",
-      "endAt": "2027-01-13T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05097",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -254,14 +254,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-11-06T06:37:53.194Z",
+      "updatedAt": "2026-11-06T15:54:08.851Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-06T06:37:53.194Z",
+      "updatedAt": "2026-11-06T15:54:08.851Z",
       "error": null
     }
   }

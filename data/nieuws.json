@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-06T06:37:52.204Z",
+  "updatedAt": "2026-11-06T15:54:07.281Z",
   "items": [
+    {
+      "id": "rijksoverheid-f74df790fd3a",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "€ 50 miljoen voor batterijparken en stroomnet op Aruba en Curaçao",
+      "description": "Het kabinet steunt met circa € 50 miljoen de ontwikkeling van 2 omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de 2 eilanden robuuster te maken voor verdere economische groei.",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/50-miljoen-voor-batterijparken-en-stroomnet-op-aruba-en-curacao",
+      "publishedAt": "2026-11-06T15:10:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-483e6092ec4c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU to push for accelerated global climate action at COP31",
+      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2342",
+      "publishedAt": "2026-11-05T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-1c63d9034d48",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group",
+      "description": "The Commission and Ministers of the Central and South-East European Energy Connectivity (CESEC) High-level group met in Zagreb today to explore progress on cross-border energy infrastructure, electrification and measures to meet the challenge of high energy…",
+      "url": "https://energy.ec.europa.eu/news/cesec-ministerial-takes-stock-cross-border-energy-infrastructure-and-prices-and-welcomes-czechia-and-2026-11-06_en",
+      "publishedAt": "2026-11-05T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-a50603e737fe",
       "source": "acm",
@@ -156,17 +189,6 @@
       "language": "en"
     },
     {
-      "id": "eu-77644a52e6be",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Council publishes 2025 international climate finance figures",
-      "description": "In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt…",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
-      "publishedAt": "2026-10-29T13:42:28.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-9c9dcbcff77b",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -189,15 +211,15 @@
       "language": "nl"
     },
     {
-      "id": "acm-ff34aeefb140",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "UHT op conceptregelingen voor tijdsafhankelijke nettarieven",
-      "description": "De ACM heeft een UHT uitgevoerd op de conceptartikelen uit de Energieregeling en de Regeling Gegevensuitwisseling voor de introductie van volume- en tijdsafhankelijke transporttarieven voor elektriciteit voor kleine aansluitingen.",
-      "url": "https://www.acm.nl/nl/publicaties/uht-op-conceptregelingen-voor-tijdsafhankelijke-nettarieven",
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "language": "nl"
+      "id": "eu-77644a52e6be",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Council publishes 2025 international climate finance figures",
+      "description": "In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt…",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "language": "en"
     },
     {
       "id": "eu-7ea9e0b73a9c",
@@ -222,17 +244,6 @@
       "language": "en"
     },
     {
-      "id": "eu-da72cf7ecc7f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission presents Climate Resilience Framework for a better prepared and protected Europe",
-      "description": "The European Commission today presented an EU Framework for Climate Resilience to strengthen Europe’s ability to anticipate, prepare for, and manage climate risks.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2244",
-      "publishedAt": "2026-10-27T10:41:34.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-6a3d00caad81",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -251,6 +262,17 @@
       "title": "EU gas storage is 75% filled",
       "description": "In summer 2026, disruptions to liquefied natural gas (LNG) flows linked to the conflict in the Middle East, low gas storage levels after winter 2025-2026 and slower refilling contributed to tighter supply and pushed the EU’s gas prices higher.",
       "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
+      "publishedAt": "2026-10-26T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-da72cf7ecc7f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission presents Climate Resilience Framework for a better prepared and protected Europe",
+      "description": "The European Commission today presented an EU Framework for Climate Resilience to strengthen Europe’s ability to anticipate, prepare for, and manage climate risks.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2244",
       "publishedAt": "2026-10-26T23:00:00.000Z",
       "language": "en"
     },
@@ -285,28 +307,6 @@
       "description": "Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.",
       "url": "https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en",
       "publishedAt": "2026-10-21T22:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-d93a5f9ff39b",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market",
-      "description": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on a targeted amendment to strengthen the Market Stability Reserve (MSR) of the EU's Emissions Trading System (EU ETS).",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206",
-      "publishedAt": "2026-10-21T16:32:10.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-c8db42f1f94e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
-      "description": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen will be in Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
-      "publishedAt": "2026-10-20T22:00:00.000Z",
       "language": "en"
     },
     {
@@ -495,17 +495,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/27/mission-sustainable-jaarverslag-2025-buitenlandse-zaken",
       "publishedAt": "2026-05-27T08:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-e35e810ca4f1",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · duurzame energie",
-      "title": "Nederland en België gaan samenwerking rond kernenergie verder intensiveren",
-      "description": "Nederland en België hebben officieel vastgelegd dat ze intensiever gaan samenwerken op het gebied van kernenergie. De samenwerking moet bijdragen aan betere kennisuitwisseling en een sterkere toeleveringsketen. Zo willen beide landen het nucleaire...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/13/nederland-en-belgie-gaan-samenwerking-rond-kernenergie-verder-intensiveren",
-      "publishedAt": "2026-05-13T13:49:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -513,21 +502,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-06T06:37:52.204Z",
+      "updatedAt": "2026-11-06T15:54:07.281Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-11-06T06:37:52.204Z",
+      "count": 5,
+      "updatedAt": "2026-11-06T15:54:07.281Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-06T06:37:52.204Z",
+      "updatedAt": "2026-11-06T15:54:07.281Z",
       "failedFeeds": []
     }
   }
