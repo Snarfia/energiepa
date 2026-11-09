@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-09T01:42:50.805Z",
+  "updatedAt": "2026-11-09T09:45:03.455Z",
   "items": [
+    {
+      "id": "rijksoverheid-3bbf227fdbb3",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Overheid en energiesector spreken doel en acties af voor meer grote batterijen in Nederland",
+      "description": "Het kabinet publiceert vandaag een ambitieuze visie op de rol van energieopslag in Nederland en bepaalt voor het eerst een richtwaarde voor nieuwe grote batterijen. De verwachting is dat er in 2040 110 gigawattuur (GWh) aan batterijcapaciteit is...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/overheid-en-energiesector-spreken-doel-en-acties-af-voor-meer-grote-batterijen-in-nederland",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "rijksoverheid-f74df790fd3a",
       "source": "rijksoverheid",
@@ -196,17 +207,6 @@
       "title": "Greenchoice Solutions mag elektriciteit en gas leveren aan eindafnemers met een kleine aansluiting",
       "description": "Greenchoice Solutions B.V. mag elektriciteit en gas leveren aan eindafnemers met een kleine aansluiting. De ACM heeft op 23 oktober 2026 hiervoor een vergunning verleend.",
       "url": "https://www.acm.nl/nl/publicaties/greenchoice-solutions-mag-elektriciteit-en-gas-leveren-aan-eindafnemers-met-een-kleine-aansluiting",
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-ceeeb0329b92",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "UHT Concept Regeling gegevensuitwisseling Energiewet",
-      "description": "De ACM heeft een uitvoerbaarheids- en handhaafbaarheidstoets (UHT) uitgevoerd op de concept Regeling gegevensuitwisseling Energiewet.",
-      "url": "https://www.acm.nl/nl/publicaties/uht-concept-regeling-gegevensuitwisseling-energiewet",
       "publishedAt": "2026-10-29T09:00:00.000Z",
       "language": "nl"
     },
@@ -484,17 +484,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/29/kabinet-neemt-helft-van-het-nationale-burgerberaad-klimaat-meteen-over",
       "publishedAt": "2026-05-29T11:30:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-fc583f515c76",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · klimaatverandering",
-      "title": "Duurzame stappen van Buitenlandse Zaken",
-      "description": "Het ministerie van Buitenlandse Zaken werkte in 2025 weer op alle mogelijke manieren aan een duurzame toekomst. Zo werkte het ministerie aan een emissiereductie van 40% ten opzichte van 2022 en aan het optimaal hergebruiken van producten,...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/27/mission-sustainable-jaarverslag-2025-buitenlandse-zaken",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -502,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-09T01:42:50.804Z",
+      "updatedAt": "2026-11-09T09:45:03.454Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-11-09T01:42:50.805Z",
+      "count": 4,
+      "updatedAt": "2026-11-09T09:45:03.454Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-09T01:42:50.805Z",
+      "updatedAt": "2026-11-09T09:45:03.455Z",
       "failedFeeds": []
     }
   }

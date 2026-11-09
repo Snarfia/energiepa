@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T01:42:52.498Z",
+  "updatedAt": "2026-11-09T09:45:04.497Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -38,6 +38,19 @@
       "type": "Technische briefing",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08066",
+      "language": "nl"
+    },
+    {
+      "id": "nl-8c902526d580",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Gesprek Nationaal Burgerberaad Klimaat",
+      "startAt": "2026-11-12T17:15:00+01:00",
+      "endAt": "2026-11-12T18:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Gesprek",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08234",
       "language": "nl"
     },
     {
@@ -253,15 +266,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 14,
-      "updatedAt": "2026-11-09T01:42:52.498Z",
+      "count": 15,
+      "updatedAt": "2026-11-09T09:45:04.497Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-09T01:42:52.498Z",
+      "updatedAt": "2026-11-09T09:45:04.497Z",
       "error": null
     }
   }
