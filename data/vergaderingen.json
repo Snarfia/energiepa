@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T09:45:04.497Z",
+  "updatedAt": "2026-11-09T20:41:48.390Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -44,7 +44,7 @@
       "id": "nl-8c902526d580",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Gesprek Nationaal Burgerberaad Klimaat",
+      "title": "Deelnemers van het Nationaal Burgerberaad Klimaat",
       "startAt": "2026-11-12T17:15:00+01:00",
       "endAt": "2026-11-12T18:00:00+01:00",
       "location": "Tweede Kamer, Den Haag",
@@ -267,14 +267,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 15,
-      "updatedAt": "2026-11-09T09:45:04.497Z",
+      "updatedAt": "2026-11-09T20:41:48.390Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-09T09:45:04.497Z",
+      "updatedAt": "2026-11-09T20:41:48.390Z",
       "error": null
     }
   }

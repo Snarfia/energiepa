@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T09:45:03.455Z",
+  "updatedAt": "2026-11-09T20:41:47.189Z",
   "items": [
     {
       "id": "rijksoverheid-3bbf227fdbb3",
@@ -11,6 +11,28 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/09/overheid-en-energiesector-spreken-doel-en-acties-af-voor-meer-grote-batterijen-in-nederland",
       "publishedAt": "2026-11-09T08:00:00.000Z",
       "language": "nl"
+    },
+    {
+      "id": "eu-16ea3e5ca695",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU emissions continue to fall as clean energy gains ground",
+      "description": "The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-625207cc16c6",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables",
+      "description": "The EU and its 27 member states, together with the 77 members of the Organisation of African, Caribbean and Pacific States (OACPS) signatories of the Samoa Agreement, have reaffirmed their commitment to the full implementation of the Paris Agreement and to…",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/",
+      "publishedAt": "2026-11-08T23:00:00.000Z",
+      "language": "en"
     },
     {
       "id": "rijksoverheid-f74df790fd3a",
@@ -79,6 +101,17 @@
       "language": "nl"
     },
     {
+      "id": "eu-7a1420260b4a",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
+      "description": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy…",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "language": "en"
+    },
+    {
       "id": "eu-605aad29cb92",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -123,17 +156,6 @@
       "language": "en"
     },
     {
-      "id": "eu-7a1420260b4a",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
-      "description": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy…",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-238f48d98d00",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -154,17 +176,6 @@
       "url": "https://www.acm.nl/nl/publicaties/gezamenlijke-waarschuwing-acm-en-maatschappelijke-organisaties-pas-op-voor-onbetrouwbare-verkopers-van-energieproducten",
       "publishedAt": "2026-11-02T08:00:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-667848594e23",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
-      "description": "Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313",
-      "publishedAt": "2026-10-29T23:00:00.000Z",
-      "language": "en"
     },
     {
       "id": "eu-3998b4a36321",
@@ -196,6 +207,17 @@
       "title": "Eurostat: Household electricity prices ease in 1st half of 2026",
       "description": "In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.",
       "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261030-2",
+      "publishedAt": "2026-10-29T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-667848594e23",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
+      "description": "Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313",
       "publishedAt": "2026-10-29T23:00:00.000Z",
       "language": "en"
     },
@@ -285,28 +307,6 @@
       "description": "The Commission has received 67 applications for cross-border energy infrastructure projects requesting €2.88 billion in EU co-funding under the Connecting Europe Facility (CEF) Energy programme.",
       "url": "https://cinea.ec.europa.eu/news-events/news/cef-energy-2026-call-pcipmi-projects-attracts-strong-interest-67-applications-requesting-eur288-2026-10-26_en",
       "publishedAt": "2026-10-25T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-f63a2e0c4ba3",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Hydrogen Strategy – Commission launches consultation",
-      "description": "The European Commission has today launched a 4-week call for evidence and a 4-week targeted stakeholder consultation to gather input to help shape the forthcoming Hydrogen Strategy.",
-      "url": "https://energy.ec.europa.eu/news/hydrogen-strategy-commission-launches-consultation-2026-10-26_en",
-      "publishedAt": "2026-10-25T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-377683e66019",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Oil Coordination Group discusses EU fuel market developments",
-      "description": "Experts from the European Commission, EU countries, the International Energy Agency (IEA) and the Energy Community met yesterday in the Oil Coordination Group to take stock of the recent developments in fuels markets.",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-discusses-eu-fuel-market-developments-2026-10-22_en",
-      "publishedAt": "2026-10-21T22:00:00.000Z",
       "language": "en"
     },
     {
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-09T09:45:03.454Z",
+      "updatedAt": "2026-11-09T20:41:47.188Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-09T09:45:03.454Z",
+      "updatedAt": "2026-11-09T20:41:47.188Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-09T09:45:03.455Z",
+      "updatedAt": "2026-11-09T20:41:47.188Z",
       "failedFeeds": []
     }
   }
