@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:19:43.738Z",
+  "updatedAt": "2026-11-11T17:52:35.516Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -13,19 +13,6 @@
       "description": "Energy events at COP31",
       "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en",
       "language": "en"
-    },
-    {
-      "id": "nl-05dac240a186",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Strategisch gasbeleid",
-      "startAt": "2026-11-11T16:00:00+01:00",
-      "endAt": "2026-11-11T17:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Technische briefing",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08066",
-      "language": "nl"
     },
     {
       "id": "nl-8c902526d580",
@@ -45,7 +32,7 @@
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
       "title": "Debat over het advies van het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-11-12T18:30:00+01:00",
+      "startAt": "2026-11-12T18:45:00+01:00",
       "endAt": "2026-11-12T23:00:00+01:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (debat)",
@@ -58,8 +45,8 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Beyond Coal: Youth perspectives for thriving regions",
-      "startAt": "2026-11-16T09:00:00+02:00",
-      "endAt": "2026-11-16T09:00:00+02:00",
+      "startAt": "2026-11-16T12:00:00",
+      "endAt": "2026-11-16T14:00:00",
       "location": "Europa / online",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Initiative for Coal Regions in Transition (CRiT) is organising a session at the EURegionsWeek 2026 Close to You programme to discuss this – with young people.",
@@ -123,25 +110,25 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-26T09:00:00+02:00",
-      "endAt": "2026-11-26T09:00:00+02:00",
-      "location": "Europa / online",
+      "startAt": "2026-11-26T09:00:00",
+      "endAt": "2026-11-26T17:00:00",
+      "location": "Brussels, Belgium",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
       "language": "en"
     },
     {
-      "id": "eu-d950728d56b7",
+      "id": "eu-71088e0ebccc",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
-      "title": "10th Equality Platform for the energy sector",
+      "title": "10th meeting of the Equality Platform for the energy sector",
       "startAt": "2026-11-26T18:30:00",
       "endAt": "2026-11-27T12:30:00",
       "location": "Brussels, Belgium",
       "type": "Europees energie-evenement",
       "description": "10th meeting Equality Platform for the Energy Sector",
-      "url": "https://energy.ec.europa.eu/events/10th-equality-platform-energy-sector-2026-11-26_en",
+      "url": "https://energy.ec.europa.eu/events/10th-meeting-equality-platform-energy-sector-2026-11-26_en",
       "language": "en"
     },
     {
@@ -236,6 +223,19 @@
       "language": "nl"
     },
     {
+      "id": "nl-76ff2c59714f",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Werkbezoek Nederlandse Vereniging van Banken (NVB) en ING Bank",
+      "startAt": "2027-01-07T09:00:00+01:00",
+      "endAt": "2027-01-07T13:00:00+01:00",
+      "location": "Amsterdam",
+      "type": "Werkbezoek",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08382",
+      "language": "nl"
+    },
+    {
       "id": "nl-884c45555b6b",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -260,21 +260,34 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05097",
       "language": "nl"
+    },
+    {
+      "id": "nl-25a73fb9eda9",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Kernenergie",
+      "startAt": "2027-01-20T10:00:00+01:00",
+      "endAt": "2027-01-20T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07906",
+      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 15,
-      "updatedAt": "2026-11-11T09:19:43.738Z",
+      "count": 16,
+      "updatedAt": "2026-11-11T17:52:35.516Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-11T09:19:43.738Z",
+      "updatedAt": "2026-11-11T17:52:35.516Z",
       "error": null
     }
   }
