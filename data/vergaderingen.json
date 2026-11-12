@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:38:38.380Z",
+  "updatedAt": "2026-11-12T09:46:30.799Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -119,16 +119,16 @@
       "language": "en"
     },
     {
-      "id": "eu-71088e0ebccc",
+      "id": "eu-6aca9ab6ca67",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
-      "title": "10th meeting of the Equality Platform for the energy sector",
+      "title": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
       "startAt": "2026-11-26T18:30:00",
       "endAt": "2026-11-27T12:30:00",
       "location": "Brussels, Belgium",
       "type": "Europees energie-evenement",
-      "description": "10th meeting Equality Platform for the Energy Sector",
-      "url": "https://energy.ec.europa.eu/events/10th-meeting-equality-platform-energy-sector-2026-11-26_en",
+      "description": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
+      "url": "https://energy.ec.europa.eu/events/10th-meeting-equality-platform-applying-gender-mainstreaming-energy-sector-2026-11-26_en",
       "language": "en"
     },
     {
@@ -280,14 +280,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 16,
-      "updatedAt": "2026-11-12T00:38:38.380Z",
+      "updatedAt": "2026-11-12T09:46:30.799Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-12T00:38:38.380Z",
+      "updatedAt": "2026-11-12T09:46:30.799Z",
       "error": null
     }
   }
