@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T18:16:14.548Z",
+  "updatedAt": "2026-11-12T23:40:04.889Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -13,19 +13,6 @@
       "description": "Energy events at COP31",
       "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en",
       "language": "en"
-    },
-    {
-      "id": "nl-1d9320d0ef34",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Debat over het advies van het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-11-12T21:15:00+01:00",
-      "endAt": "2026-11-12T23:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (debat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06162",
-      "language": "nl"
     },
     {
       "id": "eu-c8668ec44344",
@@ -247,6 +234,19 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07906",
       "language": "nl"
+    },
+    {
+      "id": "nl-288b608f9d3d",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Duurzame energiedragers",
+      "startAt": "2027-01-27T10:00:00+01:00",
+      "endAt": "2027-01-27T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05151",
+      "language": "nl"
     }
   ],
   "sources": {
@@ -254,15 +254,15 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-11-12T18:16:14.548Z",
+      "updatedAt": "2026-11-12T23:40:04.889Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
-      "status": "ok",
+      "status": "fallback",
       "count": 5,
-      "updatedAt": "2026-11-12T18:16:14.548Z",
-      "error": null
+      "updatedAt": "2026-11-12T23:40:04.889Z",
+      "error": "https://energy.ec.europa.eu/node/4/rss_en: HTTP 429"
     }
   }
 }
