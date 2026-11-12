@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T09:46:30.799Z",
+  "updatedAt": "2026-11-12T18:16:14.548Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -15,24 +15,11 @@
       "language": "en"
     },
     {
-      "id": "nl-8c902526d580",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Deelnemers van het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-11-12T17:15:00+01:00",
-      "endAt": "2026-11-12T18:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Gesprek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08234",
-      "language": "nl"
-    },
-    {
       "id": "nl-1d9320d0ef34",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
       "title": "Debat over het advies van het Nationaal Burgerberaad Klimaat",
-      "startAt": "2026-11-12T18:45:00+01:00",
+      "startAt": "2026-11-12T21:15:00+01:00",
       "endAt": "2026-11-12T23:00:00+01:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (debat)",
@@ -223,19 +210,6 @@
       "language": "nl"
     },
     {
-      "id": "nl-76ff2c59714f",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Werkbezoek Nederlandse Vereniging van Banken (NVB) en ING Bank",
-      "startAt": "2027-01-07T09:00:00+01:00",
-      "endAt": "2027-01-07T13:00:00+01:00",
-      "location": "Amsterdam",
-      "type": "Werkbezoek",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08382",
-      "language": "nl"
-    },
-    {
       "id": "nl-884c45555b6b",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
@@ -279,15 +253,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 16,
-      "updatedAt": "2026-11-12T09:46:30.799Z",
+      "count": 14,
+      "updatedAt": "2026-11-12T18:16:14.548Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-12T09:46:30.799Z",
+      "updatedAt": "2026-11-12T18:16:14.548Z",
       "error": null
     }
   }
