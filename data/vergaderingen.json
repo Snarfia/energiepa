@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T23:40:04.889Z",
+  "updatedAt": "2026-11-13T06:38:59.847Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -84,9 +84,9 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-26T09:00:00",
-      "endAt": "2026-11-26T17:00:00",
-      "location": "Brussels, Belgium",
+      "startAt": "2026-11-26T09:00:00+02:00",
+      "endAt": "2026-11-26T09:00:00+02:00",
+      "location": "Europa / online",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
@@ -254,15 +254,15 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-11-12T23:40:04.889Z",
+      "updatedAt": "2026-11-13T06:38:59.847Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
-      "status": "fallback",
+      "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-12T23:40:04.889Z",
-      "error": "https://energy.ec.europa.eu/node/4/rss_en: HTTP 429"
+      "updatedAt": "2026-11-13T06:38:59.847Z",
+      "error": null
     }
   }
 }
