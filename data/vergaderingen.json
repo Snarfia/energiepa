@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:38:59.847Z",
+  "updatedAt": "2026-11-13T16:17:45.689Z",
   "items": [
     {
       "id": "eu-9d22c1be099e",
@@ -38,6 +38,19 @@
       "type": "Petitie",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06876",
+      "language": "nl"
+    },
+    {
+      "id": "nl-cf2720b629fb",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
+      "startAt": "2026-11-17T16:30:00+01:00",
+      "endAt": "2026-11-17T16:50:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Plenair debat (tweeminutendebat)",
+      "description": "TK",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
       "language": "nl"
     },
     {
@@ -84,9 +97,9 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-26T09:00:00+02:00",
-      "endAt": "2026-11-26T09:00:00+02:00",
-      "location": "Europa / online",
+      "startAt": "2026-11-26T09:00:00",
+      "endAt": "2026-11-26T17:00:00",
+      "location": "Brussels, Belgium",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
@@ -234,19 +247,6 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07906",
       "language": "nl"
-    },
-    {
-      "id": "nl-288b608f9d3d",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Duurzame energiedragers",
-      "startAt": "2027-01-27T10:00:00+01:00",
-      "endAt": "2027-01-27T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05151",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -254,14 +254,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-11-13T06:38:59.847Z",
+      "updatedAt": "2026-11-13T16:17:45.688Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-13T06:38:59.847Z",
+      "updatedAt": "2026-11-13T16:17:45.689Z",
       "error": null
     }
   }

@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-13T06:38:58.688Z",
+  "updatedAt": "2026-11-13T16:17:44.485Z",
   "items": [
+    {
+      "id": "eu-a7e8ccef1eb0",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities",
+      "description": "Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities…",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-498bf81f9f60",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission assesses Poland’s 2030 NECP",
+      "description": "The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan",
+      "url": "https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-acf22cb3e95e",
       "source": "acm",
@@ -277,28 +299,6 @@
       "language": "en"
     },
     {
-      "id": "eu-667848594e23",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
-      "description": "Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common prosperity and economic security space.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313",
-      "publishedAt": "2026-10-29T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-77644a52e6be",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Council publishes 2025 international climate finance figures",
-      "description": "In 2025, the EU and its 27 member states contributed €32.3 billion in climate finance from public sources and mobilised an additional amount of €9.3 billion of private finance to support developing countries to reduce their greenhouse gas emissions and adapt…",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/29/council-publishes-2025-international-climate-finance-figures/",
-      "publishedAt": "2026-10-28T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-13T06:38:58.688Z",
+      "updatedAt": "2026-11-13T16:17:44.485Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-13T06:38:58.688Z",
+      "updatedAt": "2026-11-13T16:17:44.485Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-13T06:38:58.688Z",
+      "updatedAt": "2026-11-13T16:17:44.485Z",
       "failedFeeds": []
     }
   }
