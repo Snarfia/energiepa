@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:17:44.485Z",
+  "updatedAt": "2026-11-13T23:30:15.309Z",
   "items": [
     {
       "id": "eu-a7e8ccef1eb0",
@@ -20,6 +20,28 @@
       "title": "Commission assesses Poland’s 2030 NECP",
       "description": "The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan",
       "url": "https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-3da91ae187f6",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Oil Coordination Group confirms continued supply stability across the EU",
+      "description": "Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.",
+      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-3ad77a87953e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "EU actions improving access to climate finance",
+      "description": "As the world’s largest climate finance provider, the European Union (EU) is committed to making international climate finance easier to access, especially for the poorest and most vulnerable countries.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-actions-improving-access-climate-finance-2026-11-13_en",
       "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
@@ -277,28 +299,6 @@
       "language": "en"
     },
     {
-      "id": "eu-25e2877c5bfb",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Energy Transition Investment Council - Call for applications",
-      "description": "The European Commission has launched a 4-week call for applications for membership of the newly established Energy Transition Investment Council (ETIC) expert group and its National Promotional Banks and Institution (NPBI) and International Financial…",
-      "url": "https://energy.ec.europa.eu/news/energy-transition-investment-council-call-applications-2026-10-30_en",
-      "publishedAt": "2026-10-29T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-d9de1a3d691c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Household electricity prices ease in 1st half of 2026",
-      "description": "In the first half of 2026, average electricity prices for households in the EU decreased by 2.2% to €0.28, down from €0.29 per kWh in the second half of 2025. Prices remained well above levels from before the 2022 energy crisis.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261030-2",
-      "publishedAt": "2026-10-29T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-13T16:17:44.485Z",
+      "updatedAt": "2026-11-13T23:30:15.309Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-13T16:17:44.485Z",
+      "updatedAt": "2026-11-13T23:30:15.309Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-13T16:17:44.485Z",
+      "updatedAt": "2026-11-13T23:30:15.309Z",
       "failedFeeds": []
     }
   }
