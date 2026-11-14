@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T13:34:09.933Z",
+  "updatedAt": "2026-11-14T19:08:57.178Z",
   "items": [
     {
       "id": "eu-a7e8ccef1eb0",
@@ -42,6 +42,17 @@
       "title": "EU actions improving access to climate finance",
       "description": "As the world’s largest climate finance provider, the European Union (EU) is committed to making international climate finance easier to access, especially for the poorest and most vulnerable countries.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-actions-improving-access-climate-finance-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-5be547946648",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
+      "description": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and…",
+      "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
       "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
@@ -288,17 +299,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-3998b4a36321",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: EU household gas prices decrease in first half of 2026",
-      "description": "In the first half of 2026, average gas prices for EU households fell to €0.11 per kilowatt-hour (kWh). Prices decreased by 10.2% compared with the second semester of 2025 and by 3.5% compared with the first semester of 2025.",
-      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261030-3",
-      "publishedAt": "2026-10-29T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-8075e181356f",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-14T13:34:09.932Z",
+      "updatedAt": "2026-11-14T19:08:57.177Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-14T13:34:09.933Z",
+      "updatedAt": "2026-11-14T19:08:57.178Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-14T13:34:09.933Z",
+      "updatedAt": "2026-11-14T19:08:57.178Z",
       "failedFeeds": []
     }
   }
