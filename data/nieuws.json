@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-16T02:01:00.692Z",
+  "updatedAt": "2026-11-16T09:36:40.142Z",
   "items": [
+    {
+      "id": "acm-c3541d103c88",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Kikker Energie voldoet weer aan vergunningsvoorwaarden na bindende aanwijzing",
+      "description": "Uit controles van de ACM blijkt dat Kikker Energie weer voldoet aan de wettelijke vergunningsvoorwaarden die gelden voor energieleveranciers.",
+      "url": "https://www.acm.nl/nl/publicaties/kikker-energie-voldoet-weer-aan-vergunningsvoorwaarden-na-bindende-aanwijzing",
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "eu-f303ed32a266",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Electricity Coordination Group considers EU electricity market prepared for the winter",
+      "description": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination…",
+      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
+      "publishedAt": "2026-11-15T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-a7e8ccef1eb0",
       "source": "eu",
@@ -53,6 +75,28 @@
       "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
       "description": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and…",
       "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-bbd1af33177e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
+      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean .",
+      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-f96ea0400aed",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission launches first global alliance on climate and health research funding at COP31",
+      "description": "At COP 31 today, the European Commission launched the Multilateral Initiative on Climate & Health Research Funding together with the Wellcome Trust and public research funders from five continents.",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
       "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
@@ -244,39 +288,6 @@
       "language": "en"
     },
     {
-      "id": "eu-03922fdbdede",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Annual fall in non-household gas prices: -6.7%",
-      "description": "In the first half of 2026, the average gas price for non-household consumers in the EU was €0.06 per kilowatt-hour (kWh), up by 1.8% compared with the second half of 2025, but down 6.7% compared with the same period of 2025.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-2",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-2934cc6a11f1",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Non-household electricity prices fall further in 2026",
-      "description": "In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a9a395843d28",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU electricity market integration progresses but significant benefits remain untapped",
-      "description": "Integrated electricity markets are central to a secure, affordable and sustainable EU energy system. By enabling cross-border trade, they increase competition, improve affordability for consumers, support more renewables and strengthen security of supply and…",
-      "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-238f48d98d00",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -285,17 +296,6 @@
       "description": "Het kabinet stelt volgend jaar € 150 miljoen beschikbaar voor de industrie om de hoge elektriciteitskosten te helpen compenseren. Vanaf 2028 is er € 345 miljoen beschikbaar en vanaf 2029 is er € 495 miljoen per jaar beschikbaar tot 2035. Deze...",
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/03/kabinet-helpt-industrie-met-hoge-elektriciteitskosten",
       "publishedAt": "2026-11-03T16:19:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-6af147b0af94",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Gezamenlijke waarschuwing ACM en maatschappelijke organisaties: pas op voor onbetrouwbare verkopers van energieproducten",
-      "description": "Met de campagne ‘Stop het gesprek. Start je eigen check.’ waarschuwt de ACM voor onbetrouwbare verkopers van thuisbatterijen, warmtepompen en andere energieproducten.",
-      "url": "https://www.acm.nl/nl/publicaties/gezamenlijke-waarschuwing-acm-en-maatschappelijke-organisaties-pas-op-voor-onbetrouwbare-verkopers-van-energieproducten",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
       "language": "nl"
     },
     {
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-16T02:01:00.692Z",
+      "updatedAt": "2026-11-16T09:36:40.142Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-16T02:01:00.692Z",
+      "updatedAt": "2026-11-16T09:36:40.142Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-16T02:01:00.692Z",
+      "updatedAt": "2026-11-16T09:36:40.142Z",
       "failedFeeds": []
     }
   }
