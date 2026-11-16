@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:36:40.142Z",
+  "updatedAt": "2026-11-16T20:25:54.389Z",
   "items": [
     {
       "id": "acm-c3541d103c88",
@@ -20,6 +20,17 @@
       "title": "Electricity Coordination Group considers EU electricity market prepared for the winter",
       "description": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination…",
       "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
+      "publishedAt": "2026-11-15T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-4013866ed304",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+      "description": "High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
       "publishedAt": "2026-11-15T23:00:00.000Z",
       "language": "en"
     },
@@ -57,6 +68,28 @@
       "language": "en"
     },
     {
+      "id": "eu-f96ea0400aed",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission launches first global alliance on climate and health research funding at COP31",
+      "description": "At COP 31 today, the European Commission launched the Multilateral Initiative on Climate & Health Research Funding together with the Wellcome Trust and public research funders from five continents.",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-bbd1af33177e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
+      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean .",
+      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
+      "language": "en"
+    },
+    {
       "id": "eu-3ad77a87953e",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -75,28 +108,6 @@
       "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
       "description": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and…",
       "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-bbd1af33177e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
-      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean .",
-      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-f96ea0400aed",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission launches first global alliance on climate and health research funding at COP31",
-      "description": "At COP 31 today, the European Commission launched the Multilateral Initiative on Climate & Health Research Funding together with the Wellcome Trust and public research funders from five continents.",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
       "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
@@ -273,17 +284,6 @@
       "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
       "description": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy…",
       "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-605aad29cb92",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Biomethane Mechanism: First matching round to connect buyers and suppliers",
-      "description": "The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.",
-      "url": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
       "publishedAt": "2026-11-03T23:00:00.000Z",
       "language": "en"
     },
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-16T09:36:40.142Z",
+      "updatedAt": "2026-11-16T20:25:54.389Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-16T09:36:40.142Z",
+      "updatedAt": "2026-11-16T20:25:54.389Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-16T09:36:40.142Z",
+      "updatedAt": "2026-11-16T20:25:54.389Z",
       "failedFeeds": []
     }
   }

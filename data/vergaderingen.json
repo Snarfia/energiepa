@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-11-16T09:36:50.726Z",
+  "updatedAt": "2026-11-16T20:26:05.473Z",
   "items": [
-    {
-      "id": "eu-9d22c1be099e",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Energy events at COP31",
-      "startAt": "2026-11-09T07:00:00",
-      "endAt": "2026-11-19T15:30:00",
-      "location": "Antalya, Türkiye",
-      "type": "Europees energie-evenement",
-      "description": "Energy events at COP31",
-      "url": "https://energy.ec.europa.eu/events/energy-events-cop31-2026-11-09_en",
-      "language": "en"
-    },
-    {
-      "id": "eu-c8668ec44344",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "Beyond Coal: Youth perspectives for thriving regions",
-      "startAt": "2026-11-16T12:00:00",
-      "endAt": "2026-11-16T14:00:00",
-      "location": "Europa / online",
-      "type": "Europees energie-evenement",
-      "description": "The European Commission's Initiative for Coal Regions in Transition (CRiT) is organising a session at the EURegionsWeek 2026 Close to You programme to discuss this – with young people.",
-      "url": "https://energy.ec.europa.eu/events/beyond-coal-youth-perspectives-thriving-regions-2026-11-16_en",
-      "language": "en"
-    },
     {
       "id": "nl-03fec31fc8a2",
       "source": "nl",
@@ -97,9 +71,9 @@
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-26T09:00:00+02:00",
-      "endAt": "2026-11-26T09:00:00+02:00",
-      "location": "Europa / online",
+      "startAt": "2026-11-26T09:00:00",
+      "endAt": "2026-11-26T17:00:00",
+      "location": "Brussels, Belgium",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
@@ -267,14 +241,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-11-16T09:36:50.726Z",
+      "updatedAt": "2026-11-16T20:26:05.473Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-11-16T09:36:50.726Z",
+      "count": 4,
+      "updatedAt": "2026-11-16T20:26:05.473Z",
       "error": null
     }
   }
