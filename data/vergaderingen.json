@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-17T15:56:26.303Z",
+  "updatedAt": "2026-11-17T23:29:42.263Z",
   "items": [
-    {
-      "id": "nl-cf2720b629fb",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Tweeminutendebat Kernenergie (CD 2/7)",
-      "startAt": "2026-11-17T16:15:00+01:00",
-      "endAt": "2026-11-17T17:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Plenair debat (tweeminutendebat)",
-      "description": "TK",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A06131",
-      "language": "nl"
-    },
     {
       "id": "nl-22688b959fb9",
       "source": "nl",
@@ -260,6 +247,19 @@
       "description": "vaste commissie voor Infrastructuur en Waterstaat",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07631",
       "language": "nl"
+    },
+    {
+      "id": "nl-b8d234d7fd28",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Rapport 'Circulair versterkt' door de Wetenschappelijke Klimaatraad",
+      "startAt": "2027-01-27T15:00:00+01:00",
+      "endAt": "2027-01-27T16:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Technische briefing",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06444",
+      "language": "nl"
     }
   ],
   "sources": {
@@ -267,14 +267,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 15,
-      "updatedAt": "2026-11-17T15:56:26.303Z",
+      "updatedAt": "2026-11-17T23:29:42.263Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-17T15:56:26.303Z",
+      "updatedAt": "2026-11-17T23:29:42.263Z",
       "error": null
     }
   }
