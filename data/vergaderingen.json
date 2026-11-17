@@ -1,26 +1,13 @@
 {
-  "updatedAt": "2026-11-17T04:27:33.745Z",
+  "updatedAt": "2026-11-17T15:56:26.303Z",
   "items": [
-    {
-      "id": "nl-03fec31fc8a2",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Rapport Holons – lokale flex als oplossing voor netcongestie namens Zenmo simulations",
-      "startAt": "2026-11-17T13:15:00+01:00",
-      "endAt": "2026-11-17T13:30:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Petitie",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06876",
-      "language": "nl"
-    },
     {
       "id": "nl-cf2720b629fb",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
       "title": "Tweeminutendebat Kernenergie (CD 2/7)",
-      "startAt": "2026-11-17T16:30:00+01:00",
-      "endAt": "2026-11-17T16:50:00+01:00",
+      "startAt": "2026-11-17T16:15:00+01:00",
+      "endAt": "2026-11-17T17:00:00+01:00",
       "location": "Tweede Kamer, Den Haag",
       "type": "Plenair debat (tweeminutendebat)",
       "description": "TK",
@@ -77,6 +64,19 @@
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
+      "language": "en"
+    },
+    {
+      "id": "eu-e2ee2425dc9c",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "Webinar on the Biomethane Mechanism: First matching round",
+      "startAt": "2026-11-26T14:00:00",
+      "endAt": "2026-11-26T15:30:00",
+      "location": "Europa / online",
+      "type": "Europees energie-evenement",
+      "description": "The European Commission opened, on 4 November 2026, the registrations for the demand submission phase of the Biomethane Mechanism under the EU Energy and Raw Materials Platform.",
+      "url": "https://energy.ec.europa.eu/events/webinar-biomethane-mechanism-first-matching-round-2026-11-26_en",
       "language": "en"
     },
     {
@@ -234,22 +234,48 @@
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07906",
       "language": "nl"
+    },
+    {
+      "id": "nl-288b608f9d3d",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Duurzame energiedragers",
+      "startAt": "2027-01-27T10:00:00+01:00",
+      "endAt": "2027-01-27T14:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Klimaat en Groene Groei",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05151",
+      "language": "nl"
+    },
+    {
+      "id": "nl-35d4e7b1009b",
+      "source": "nl",
+      "sourceLabel": "Tweede Kamer",
+      "title": "Duurzaam vervoer",
+      "startAt": "2027-01-27T14:00:00+01:00",
+      "endAt": "2027-01-27T17:00:00+01:00",
+      "location": "Tweede Kamer, Den Haag",
+      "type": "Commissiedebat",
+      "description": "vaste commissie voor Infrastructuur en Waterstaat",
+      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07631",
+      "language": "nl"
     }
   ],
   "sources": {
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 14,
-      "updatedAt": "2026-11-17T04:27:33.745Z",
+      "count": 15,
+      "updatedAt": "2026-11-17T15:56:26.303Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
-      "status": "fallback",
-      "count": 4,
-      "updatedAt": "2026-11-17T04:27:33.745Z",
-      "error": "https://energy.ec.europa.eu/node/4/rss_en: HTTP 429"
+      "status": "ok",
+      "count": 5,
+      "updatedAt": "2026-11-17T15:56:26.303Z",
+      "error": null
     }
   }
 }

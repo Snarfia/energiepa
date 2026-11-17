@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-17T04:27:32.867Z",
+  "updatedAt": "2026-11-17T15:56:24.250Z",
   "items": [
+    {
+      "id": "eu-1628092eda69",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission approves amended German State aid schemes for energy-intensive companies",
+      "description": "The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2456",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a71b92d5886f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "In focus: Industrial carbon management – how it works and why we need it",
+      "description": "Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for the EU to become the world’s first climate-neutral continent by 2050.",
+      "url": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-063b4a26c079",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission approves €9.5 billion Dutch State aid to support offshore wind energy",
+      "description": "The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2457",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-c3541d103c88",
       "source": "acm",
@@ -222,28 +255,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-483e6092ec4c",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU to push for accelerated global climate action at COP31",
-      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2342",
-      "publishedAt": "2026-11-05T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-1c63d9034d48",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "CESEC Ministerial takes stock of cross-border energy infrastructure and prices and welcomes Czechia and Poland to the group",
-      "description": "The Commission and Ministers of the Central and South-East European Energy Connectivity (CESEC) High-level group met in Zagreb today to explore progress on cross-border energy infrastructure, electrification and measures to meet the challenge of high energy…",
-      "url": "https://energy.ec.europa.eu/news/cesec-ministerial-takes-stock-cross-border-energy-infrastructure-and-prices-and-welcomes-czechia-and-2026-11-06_en",
-      "publishedAt": "2026-11-05T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-a50603e737fe",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -275,17 +286,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/04/kabinet-en-maatschappelijke-partijen-in-gesprek-over-de-klimaat-en-energieopgave",
       "publishedAt": "2026-11-04T15:11:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-7a1420260b4a",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commissioner Jørgensen in Croatia to discuss housing and energy priorities",
-      "description": "Tomorrow and Friday, Commissioner for Energy and Housing Dan Jørgensen will be in Zagreb, Croatia, to exchange on energy and housing affordability with national and local authorities, and to participate in the Central and South-East European Energy…",
-      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-croatia-discuss-housing-and-energy-priorities-2026-11-04_en",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "language": "en"
     },
     {
       "id": "rijksoverheid-238f48d98d00",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-17T04:27:32.866Z",
+      "updatedAt": "2026-11-17T15:56:24.249Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-17T04:27:32.867Z",
+      "updatedAt": "2026-11-17T15:56:24.249Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-17T04:27:32.867Z",
+      "updatedAt": "2026-11-17T15:56:24.250Z",
       "failedFeeds": []
     }
   }
