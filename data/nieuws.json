@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:22:02.403Z",
+  "updatedAt": "2026-11-18T17:13:23.116Z",
   "items": [
     {
       "id": "eu-54b8df5a5920",
@@ -13,14 +13,58 @@
       "language": "en"
     },
     {
-      "id": "eu-a71b92d5886f",
+      "id": "eu-e734c86ad2d6",
       "source": "eu",
       "sourceLabel": "EU Commissie",
       "feed": "Europese Commissie · energie",
-      "title": "In focus: Industrial carbon management – how it works and why we need it",
-      "description": "Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for the EU to become the world’s first climate-neutral continent by 2050.",
-      "url": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "title": "Commissioner Jørgensen in Poland to discuss energy and housing priorities",
+      "description": "From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen will be in Warsaw and Gdańsk, Poland, to discuss with Polish decision makers and stakeholders about two key priorities for European citizens: affordable, secure and clean energy,…",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-0f88bf149732",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects",
+      "description": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2450",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-b3f34e388b3c",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "OceanEye International Alliance gets bigger at COP31",
+      "description": "The OceanEye International Alliance for the Global Ocean Observing System (GOOS) gained further international support at COP31, with new countries and organisations joining the initiative and announcing commitments to strengthen global ocean observation.",
+      "url": "https://oceans-and-fisheries.ec.europa.eu/news/oceaneye-international-alliance-gets-bigger-cop31-2026-11-18_en",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-c40b4536743d",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission invites public to shape new carbon storage certification for buildings",
+      "description": "The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-ae52cc56e52e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "European Commission signs €25 million contribution agreement for the Fund for responding to Loss and Damage at COP31",
+      "description": "The European Commission announced today that it has signed a €25 million Contribution Agreement to the Fund for responding to Loss and Damage (FRLD) on the margins of COP31 in Antalya, Türkiye.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/european-commission-signs-eur25-million-contribution-agreement-fund-responding-loss-and-damage-cop31-2026-11-18_en",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
       "language": "en"
     },
     {
@@ -42,6 +86,28 @@
       "title": "Commission approves €9.5 billion Dutch State aid to support offshore wind energy",
       "description": "The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2457",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a71b92d5886f",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "In focus: Industrial carbon management – how it works and why we need it",
+      "description": "Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for the EU to become the world’s first climate-neutral continent by 2050.",
+      "url": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-86f384595cbe",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Registrations open for the Innovation Fund 2026 Info Days",
+      "description": "The Commission plans to launch five calls for proposals (grants and auctions) on 3 December. Three grant calls will include the regular net-zero technologies call, as well as two new calls for Small and Medium-sized Enterprise (SME) projects and maritime…",
+      "url": "https://cinea.ec.europa.eu/news-events/news/registrations-open-innovation-fund-2026-info-days-2026-11-17_en",
       "publishedAt": "2026-11-16T23:00:00.000Z",
       "language": "en"
     },
@@ -178,72 +244,6 @@
       "language": "en"
     },
     {
-      "id": "eu-7fb245b947e8",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026",
-      "description": "In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261112-2",
-      "publishedAt": "2026-11-11T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-b5ccb68167b9",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
-      "description": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2410",
-      "publishedAt": "2026-11-11T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-7eab7b92ace7",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "INNOZHERO: A major step towards capturing carbon emissions from waste",
-      "description": "An innovative carbon capture project in Helsingborg, Sweden, has reached its Final Investment Decision, helping bring one of Europe’s first large-scale carbon capture facilities at a waste-to-energy plant closer to reality.",
-      "url": "https://cinea.ec.europa.eu/news-events/news/innozhero-major-step-towards-capturing-carbon-emissions-waste-2026-11-12_en",
-      "publishedAt": "2026-11-11T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-01eac7e2951a",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission approves €2 billion Belgian State aid to support offshore wind energy",
-      "description": "The European Commission has approved a €2.04 billion Belgian scheme to support offshore wind energy in line with the objectives of the Clean Industrial Deal.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2373",
-      "publishedAt": "2026-11-09T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-6e7c720486d8",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU signs up to Global Geothermal Pledge at COP31",
-      "description": "The European Union has joined a new global pledge on geothermal energy at the ongoing COP31 talks in Antalya, Türkiye this week.",
-      "url": "https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en",
-      "publishedAt": "2026-11-09T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-16ea3e5ca695",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "EU emissions continue to fall as clean energy gains ground",
-      "description": "The European Commission has today published the 2026 EU Climate Action Progress Report and Carbon Market Report.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2343",
-      "publishedAt": "2026-11-08T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-f74df790fd3a",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -252,17 +252,6 @@
       "description": "Het kabinet steunt met circa € 50 miljoen de ontwikkeling van 2 omvangrijke batterijparken op Aruba en Curaçao om het stroomnet op de 2 eilanden robuuster te maken voor verdere economische groei.",
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/50-miljoen-voor-batterijparken-en-stroomnet-op-aruba-en-curacao",
       "publishedAt": "2026-11-06T15:10:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-a50603e737fe",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: verplicht delen van brandstofprijsdata versterkt transparantie en kan consumenten geld besparen",
-      "description": "De ACM is voorstander van een plicht voor tankstations om actuele brandstofprijzen gratis beschikbaar te stellen aan informatiediensten zoals routeplanners en prijsvergelijkingswebsites.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-verplicht-delen-van-brandstofprijsdata-versterkt-transparantie-en-kan-consumenten-geld-besparen",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
       "language": "nl"
     },
     {
@@ -480,21 +469,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-18T07:22:02.402Z",
+      "updatedAt": "2026-11-18T17:13:23.116Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-18T07:22:02.403Z",
+      "count": 2,
+      "updatedAt": "2026-11-18T17:13:23.116Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-18T07:22:02.403Z",
+      "updatedAt": "2026-11-18T17:13:23.116Z",
       "failedFeeds": []
     }
   }
