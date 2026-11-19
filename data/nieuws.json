@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-19T00:19:21.357Z",
+  "updatedAt": "2026-11-19T10:16:47.701Z",
   "items": [
+    {
+      "id": "acm-d4030e38579c",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Woo-besluit over TenneT en netcongestie",
+      "description": "De ACM stelt openbaarmakingsverzoek van alle documenten die betrekking hebben op TenneT en netcongestie voor de periode 2023 - 2026 buiten behandeling.",
+      "url": "https://www.acm.nl/nl/publicaties/woo-besluit-over-tennet-en-netcongestie",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-5ec6bd768ac1",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Voorstel codewijziging harmonisatie boetebeding balancering",
+      "description": "Voorstel van Netbeheer Nederland voor het wijzigen van de codes energie over de harmonisatie van het boetebeding voor het niet nakomen van verplichtingen voor het leveren van balanceringsdiensten.",
+      "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-harmonisatie-boetebeding-balancering",
+      "publishedAt": "2026-11-19T09:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-54b8df5a5920",
       "source": "eu",
@@ -46,17 +68,6 @@
       "language": "en"
     },
     {
-      "id": "eu-c40b4536743d",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission invites public to shape new carbon storage certification for buildings",
-      "description": "The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en",
-      "publishedAt": "2026-11-17T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-ae52cc56e52e",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -64,6 +75,17 @@
       "title": "European Commission signs €25 million contribution agreement for the Fund for responding to Loss and Damage at COP31",
       "description": "The European Commission announced today that it has signed a €25 million Contribution Agreement to the Fund for responding to Loss and Damage (FRLD) on the margins of COP31 in Antalya, Türkiye.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/european-commission-signs-eur25-million-contribution-agreement-fund-responding-loss-and-damage-cop31-2026-11-18_en",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-c40b4536743d",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission invites public to shape new carbon storage certification for buildings",
+      "description": "The Commission has launched a public consultation on a new methodology to certify biogenic carbon storage in buildings, closing 10 December 2026.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en",
       "publishedAt": "2026-11-17T23:00:00.000Z",
       "language": "en"
     },
@@ -469,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-19T00:19:21.356Z",
+      "updatedAt": "2026-11-19T10:16:47.701Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-19T00:19:21.357Z",
+      "count": 4,
+      "updatedAt": "2026-11-19T10:16:47.701Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-19T00:19:21.357Z",
+      "updatedAt": "2026-11-19T10:16:47.701Z",
       "failedFeeds": []
     }
   }
