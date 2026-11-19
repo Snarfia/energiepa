@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:16:47.701Z",
+  "updatedAt": "2026-11-19T18:59:58.604Z",
   "items": [
     {
       "id": "acm-d4030e38579c",
@@ -22,6 +22,61 @@
       "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-harmonisatie-boetebeding-balancering",
       "publishedAt": "2026-11-19T09:00:00.000Z",
       "language": "nl"
+    },
+    {
+      "id": "eu-6f520f2ed184",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "November infringements package: key decisions on energy",
+      "description": "In the list of November infringements, there is one energy-related letter of formal notice and one reasoned opinion.",
+      "url": "https://energy.ec.europa.eu/news/november-infringements-package-key-decisions-energy-2026-11-19_en",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-b910545c7b5e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU spending on electricity support measures reached €12 billion, as reliance grows",
+      "description": "Secure electricity supply is key for European citizens and economy. As EU countries increasingly rely on support measures, cooperation and coordination between Member States on these measures is needed to deliver security of supply at the most affordable…",
+      "url": "https://www.acer.europa.eu/news/eu-spending-electricity-support-measures-reaches-eur12-billion-2025-reliance-grows",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-f9403a09b39e",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Co-legislators agree on a targeted amendment to Methane Regulation to ensure supply security amid energy crisis",
+      "description": "This morning, the European Parliament and Council reached a provisional agreement on the amendment to the EU Methane Regulation to postpone by 2 years the application of certain requirements for natural gas, crude oil and coal importers and EU operators.",
+      "url": "https://energy.ec.europa.eu/news/co-legislators-agree-targeted-amendment-methane-regulation-ensure-supply-security-amid-energy-crisis-2026-11-19_en",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-849db54a36a2",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "COP31: EU submits second Biennial Transparency Report under Paris Agreement, and calls on others to follow",
+      "description": "The European Union (EU) today published its second Biennial Transparency Report (BTR2) under the Paris Agreement.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-submits-second-biennial-transparency-report-under-paris-agreement-and-calls-others-follow-2026-11-19_en",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-efdb4549879a",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "COP31: EU joins ‘Global SF6 Pledge’ to fight world’s most potent greenhouse gas",
+      "description": "Today, at COP31 in Antalya, the European Union joined the Global SF6 Pledge, an initiative launched by Germany to reduce global emissions from Sulphur Hexafluoride (SF6) in the power sector.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-joins-global-sf6-pledge-fight-worlds-most-potent-greenhouse-gas-2026-11-19_en",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
     },
     {
       "id": "eu-54b8df5a5920",
@@ -112,6 +167,17 @@
       "language": "en"
     },
     {
+      "id": "eu-97b9ad711dbf",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "The Greek Dodecanese islands will be connected to the mainland grid thanks to a €228.9 million EU grant",
+      "description": "The EU is supporting an ambitious energy infrastructure project in Greece that will link its Dodecanese islands to the mainland electricity grid.",
+      "url": "https://cinea.ec.europa.eu/news-events/news/greek-dodecanese-islands-will-be-connected-mainland-grid-thanks-eur2289-million-eu-grant-2026-11-16_en",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "language": "en"
+    },
+    {
       "id": "eu-a71b92d5886f",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -189,61 +255,6 @@
       "language": "en"
     },
     {
-      "id": "eu-3da91ae187f6",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Oil Coordination Group confirms continued supply stability across the EU",
-      "description": "Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-f96ea0400aed",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Commission launches first global alliance on climate and health research funding at COP31",
-      "description": "At COP 31 today, the European Commission launched the Multilateral Initiative on Climate & Health Research Funding together with the Wellcome Trust and public research funders from five continents.",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-bbd1af33177e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
-      "description": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean .",
-      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-3ad77a87953e",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "EU actions improving access to climate finance",
-      "description": "As the world’s largest climate finance provider, the European Union (EU) is committed to making international climate finance easier to access, especially for the poorest and most vulnerable countries.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-actions-improving-access-climate-finance-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-5be547946648",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
-      "description": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and…",
-      "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-acf22cb3e95e",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -253,17 +264,6 @@
       "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-einde-salderingsregeling-goed-moment-om-energiecontract-te-controleren",
       "publishedAt": "2026-11-12T12:11:02.000Z",
       "language": "nl"
-    },
-    {
-      "id": "eu-8682a70f0530",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
-      "description": "This summer was the summer of truth. Devastating floods in Nepal, droughts from Sudan to Central America and, in Europe, one of the worst wildfire seasons on record. At the same time as the climate crisis is unfolding, disruptions of energy supplies through…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_2410",
-      "publishedAt": "2026-11-11T23:00:00.000Z",
-      "language": "en"
     },
     {
       "id": "rijksoverheid-f74df790fd3a",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-19T10:16:47.701Z",
+      "updatedAt": "2026-11-19T18:59:58.603Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-19T10:16:47.701Z",
+      "updatedAt": "2026-11-19T18:59:58.604Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-19T10:16:47.701Z",
+      "updatedAt": "2026-11-19T18:59:58.604Z",
       "failedFeeds": []
     }
   }
