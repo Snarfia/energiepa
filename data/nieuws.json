@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:58:50.930Z",
+  "updatedAt": "2026-11-20T18:35:35.058Z",
   "items": [
     {
       "id": "eu-29cfce8a4a08",
@@ -9,6 +9,28 @@
       "title": "EU backs global compact to cut energy bills and emissions from buildings",
       "description": "Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.",
       "url": "https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en",
+      "publishedAt": "2026-11-19T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-0c56c63ce3ee",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Gas Coordination Group confirms EU’s winter preparedness, importance of gas storage through the winter",
+      "description": "Despite challenging price conditions and continued geopolitical uncertainty, experts from the EU countries, the Commission and stakeholder associations confirmed once again today in the latest meeting of the Gas Coordination Group that the EU is prepared for…",
+      "url": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en",
+      "publishedAt": "2026-11-19T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-a95029db0c20",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Negotiations finalised to link EU and UK Emissions Trading Systems",
+      "description": "Negotiations finalised to link EU and UK Emissions Trading Systems",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
       "publishedAt": "2026-11-19T23:00:00.000Z",
       "language": "en"
     },
@@ -68,17 +90,6 @@
       "language": "en"
     },
     {
-      "id": "eu-849db54a36a2",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "COP31: EU submits second Biennial Transparency Report under Paris Agreement, and calls on others to follow",
-      "description": "The European Union (EU) today published its second Biennial Transparency Report (BTR2) under the Paris Agreement.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-submits-second-biennial-transparency-report-under-paris-agreement-and-calls-others-follow-2026-11-19_en",
-      "publishedAt": "2026-11-18T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "eu-efdb4549879a",
       "source": "eu",
       "sourceLabel": "EU Commissie",
@@ -86,6 +97,17 @@
       "title": "COP31: EU joins ‘Global SF6 Pledge’ to fight world’s most potent greenhouse gas",
       "description": "Today, at COP31 in Antalya, the European Union joined the Global SF6 Pledge, an initiative launched by Germany to reduce global emissions from Sulphur Hexafluoride (SF6) in the power sector.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-joins-global-sf6-pledge-fight-worlds-most-potent-greenhouse-gas-2026-11-19_en",
+      "publishedAt": "2026-11-18T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-849db54a36a2",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "COP31: EU submits second Biennial Transparency Report under Paris Agreement, and calls on others to follow",
+      "description": "The European Union (EU) today published its second Biennial Transparency Report (BTR2) under the Paris Agreement.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/cop31-eu-submits-second-biennial-transparency-report-under-paris-agreement-and-calls-others-follow-2026-11-19_en",
       "publishedAt": "2026-11-18T23:00:00.000Z",
       "language": "en"
     },
@@ -230,28 +252,6 @@
       "description": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination…",
       "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
       "publishedAt": "2026-11-15T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-4013866ed304",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
-      "description": "High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
-      "publishedAt": "2026-11-15T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-a7e8ccef1eb0",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities",
-      "description": "Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities…",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
     {
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-20T09:58:50.930Z",
+      "updatedAt": "2026-11-20T18:35:35.057Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-20T09:58:50.930Z",
+      "updatedAt": "2026-11-20T18:35:35.058Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-20T09:58:50.930Z",
+      "updatedAt": "2026-11-20T18:35:35.058Z",
       "failedFeeds": []
     }
   }
