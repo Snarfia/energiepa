@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-20T01:45:49.955Z",
+  "updatedAt": "2026-11-20T09:58:50.930Z",
   "items": [
+    {
+      "id": "eu-29cfce8a4a08",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "EU backs global compact to cut energy bills and emissions from buildings",
+      "description": "Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.",
+      "url": "https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en",
+      "publishedAt": "2026-11-19T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-d4030e38579c",
       "source": "acm",
@@ -79,13 +90,13 @@
       "language": "en"
     },
     {
-      "id": "eu-54b8df5a5920",
+      "id": "eu-0f88bf149732",
       "source": "eu",
       "sourceLabel": "EU Commissie",
       "feed": "Europese Commissie · energie",
-      "title": "EU endorses Global Electrification Pledge at COP31",
-      "description": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2465",
+      "title": "Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects",
+      "description": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2450",
       "publishedAt": "2026-11-17T23:00:00.000Z",
       "language": "en"
     },
@@ -101,13 +112,13 @@
       "language": "en"
     },
     {
-      "id": "eu-0f88bf149732",
+      "id": "eu-54b8df5a5920",
       "source": "eu",
       "sourceLabel": "EU Commissie",
       "feed": "Europese Commissie · energie",
-      "title": "Commission welcomes political agreement on faster and simpler permitting for grids, clean energy projects",
-      "description": "The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on new rules to simplify and accelerate permitting procedures for grids and clean energy infrastructure.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2450",
+      "title": "EU endorses Global Electrification Pledge at COP31",
+      "description": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2465",
       "publishedAt": "2026-11-17T23:00:00.000Z",
       "language": "en"
     },
@@ -240,17 +251,6 @@
       "title": "Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities",
       "description": "Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities…",
       "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-10_en",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-498bf81f9f60",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission assesses Poland’s 2030 NECP",
-      "description": "The Commission today published its assessment of Poland’s final updated National Energy and Climate Plan (NECP), acknowledging Poland’s increased ambition compared to its draft plan",
-      "url": "https://energy.ec.europa.eu/news/commission-assesses-polands-2030-necp-2026-11-13_en",
       "publishedAt": "2026-11-12T23:00:00.000Z",
       "language": "en"
     },
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-20T01:45:49.955Z",
+      "updatedAt": "2026-11-20T09:58:50.930Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-20T01:45:49.955Z",
+      "updatedAt": "2026-11-20T09:58:50.930Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-20T01:45:49.955Z",
+      "updatedAt": "2026-11-20T09:58:50.930Z",
       "failedFeeds": []
     }
   }

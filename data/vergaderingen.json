@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:45:53.017Z",
+  "updatedAt": "2026-11-20T09:58:54.131Z",
   "items": [
     {
       "id": "nl-cc589b65b678",
@@ -41,13 +41,26 @@
       "language": "nl"
     },
     {
+      "id": "eu-6aca9ab6ca67",
+      "source": "eu",
+      "sourceLabel": "Europese Commissie",
+      "title": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
+      "startAt": "2026-11-26T09:00:00+02:00",
+      "endAt": "2026-11-26T09:00:00+02:00",
+      "location": "Europa / online",
+      "type": "Europees energie-evenement",
+      "description": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
+      "url": "https://energy.ec.europa.eu/events/10th-meeting-equality-platform-applying-gender-mainstreaming-energy-sector-2026-11-26_en",
+      "language": "en"
+    },
+    {
       "id": "eu-7ba17ffdc1a3",
       "source": "eu",
       "sourceLabel": "Europese Commissie",
       "title": "Workshop: Modelling the European electricity and energy system",
-      "startAt": "2026-11-26T09:00:00",
-      "endAt": "2026-11-26T17:00:00",
-      "location": "Brussels, Belgium",
+      "startAt": "2026-11-26T09:00:00+02:00",
+      "endAt": "2026-11-26T09:00:00+02:00",
+      "location": "Europa / online",
       "type": "Europees energie-evenement",
       "description": "The European Commission's Directorate-General for Energy and the Nuclear Energy Agency (NEA) will jointly organise a workshop on Modelling the European electricity and energy system with renewable and nuclear energy…",
       "url": "https://energy.ec.europa.eu/events/workshop-modelling-european-electricity-and-energy-system-2026-11-26_en",
@@ -64,19 +77,6 @@
       "type": "Europees energie-evenement",
       "description": "The European Commission opened, on 4 November 2026, the registrations for the demand submission phase of the Biomethane Mechanism under the EU Energy and Raw Materials Platform.",
       "url": "https://energy.ec.europa.eu/events/webinar-biomethane-mechanism-first-matching-round-2026-11-26_en",
-      "language": "en"
-    },
-    {
-      "id": "eu-6aca9ab6ca67",
-      "source": "eu",
-      "sourceLabel": "Europese Commissie",
-      "title": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
-      "startAt": "2026-11-26T18:30:00",
-      "endAt": "2026-11-27T12:30:00",
-      "location": "Brussels, Belgium",
-      "type": "Europees energie-evenement",
-      "description": "10th meeting of the Equality Platform: Applying Gender Mainstreaming in the Energy Sector",
-      "url": "https://energy.ec.europa.eu/events/10th-meeting-equality-platform-applying-gender-mainstreaming-energy-sector-2026-11-26_en",
       "language": "en"
     },
     {
@@ -293,14 +293,14 @@
       "label": "Tweede Kamer",
       "status": "ok",
       "count": 17,
-      "updatedAt": "2026-11-20T01:45:53.016Z",
+      "updatedAt": "2026-11-20T09:58:54.131Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-20T01:45:53.017Z",
+      "updatedAt": "2026-11-20T09:58:54.131Z",
       "error": null
     }
   }
