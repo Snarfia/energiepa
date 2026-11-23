@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-23T02:43:10.575Z",
+  "updatedAt": "2026-11-23T14:32:55.862Z",
   "items": [
+    {
+      "id": "acm-027c7500739e",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "ACM: geen aanwijzingen dat gebruik prijssoftware door tankstations leidt tot hogere pompprijzen",
+      "description": "Er zijn nu geen aanwijzingen dat het gebruik van prijsalgoritmes door tankstations zorgt voor structureel hogere prijzen aan de pomp. Dat concludeert de ACM in een verkenning van het gebruik van prijsalgoritmes in de brandstofketen.",
+      "url": "https://www.acm.nl/nl/publicaties/acm-geen-aanwijzingen-dat-gebruik-prijssoftware-door-tankstations-leidt-tot-hogere-pompprijzen",
+      "publishedAt": "2026-11-23T12:00:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "rijksoverheid-c43683400798",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "€ 6,1 miljoen voor onderzoek kernenergie",
+      "description": "10 tot 15 promovendi en postdocs gaan de komende 4 jaar onderzoek doen naar nieuwe typen kernreactoren en splijtstoffen. NWO heeft daarvoor € 6,1 miljoen toegekend aan een consortium onder leiding van TU Delft.",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/61-miljoen-euro-voor-onderzoek-kernenergie",
+      "publishedAt": "2026-11-23T10:13:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "rijksoverheid-8eab8dd4774f",
+      "source": "rijksoverheid",
+      "sourceLabel": "Rijksoverheid",
+      "feed": "Rijksoverheid · duurzame energie",
+      "title": "Landelijke campagne Nieuwe Energie roept Nederlanders op stroompiek te vermijden",
+      "description": "Op 23 november start het ministerie van Economische Zaken en Klimaat de landelijke publiekscampagne die Nederlanders oproept de stroompiek tussen 16.00 en 21.00 uur te vermijden. Tijdens deze avondpiek gebruiken we veel stroom tegelijkertijd en is...",
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/landelijke-campagne-nieuwe-energie-roept-nederlanders-op-stroompiek-te-vermijden",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-29cfce8a4a08",
       "source": "eu",
@@ -255,17 +288,6 @@
       "language": "en"
     },
     {
-      "id": "acm-acf22cb3e95e",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Energiemonitor ACM: einde salderingsregeling goed moment om energiecontract te controleren",
-      "description": "Het einde van de salderingsregeling per 1 januari 2027 is een goed moment om te checken of je energiecontract nog passend is.",
-      "url": "https://www.acm.nl/nl/publicaties/energiemonitor-acm-einde-salderingsregeling-goed-moment-om-energiecontract-te-controleren",
-      "publishedAt": "2026-11-12T12:11:02.000Z",
-      "language": "nl"
-    },
-    {
       "id": "rijksoverheid-f74df790fd3a",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -462,28 +484,6 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/29/volgende-stap-om-nederland-weerbaar-te-houden-bij-klimaatverandering",
       "publishedAt": "2026-05-29T11:30:00.000Z",
       "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-0984404c2ae3",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · klimaatverandering",
-      "title": "Kabinet neemt helft van het Nationale Burgerberaad Klimaat meteen over",
-      "description": "Het kabinet neemt 41 van de voorstellen van het Nationaal Burgerberaad Klimaat over en zet deze om in beleid. De 175 gelote deelnemers van het burgerberaad hebben een antwoord gezocht op de vraag hoe we als Nederland kunnen eten, spullen gebruiken...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/29/kabinet-neemt-helft-van-het-nationale-burgerberaad-klimaat-meteen-over",
-      "publishedAt": "2026-05-29T11:30:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "rijksoverheid-fc583f515c76",
-      "source": "rijksoverheid",
-      "sourceLabel": "Rijksoverheid",
-      "feed": "Rijksoverheid · klimaatverandering",
-      "title": "Duurzame stappen van Buitenlandse Zaken",
-      "description": "Het ministerie van Buitenlandse Zaken werkte in 2025 weer op alle mogelijke manieren aan een duurzame toekomst. Zo werkte het ministerie aan een emissiereductie van 40% ten opzichte van 2022 en aan het optimaal hergebruiken van producten,...",
-      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/05/27/mission-sustainable-jaarverslag-2025-buitenlandse-zaken",
-      "publishedAt": "2026-05-27T08:00:00.000Z",
-      "language": "nl"
     }
   ],
   "sources": {
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-23T02:43:10.574Z",
+      "updatedAt": "2026-11-23T14:32:55.861Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-23T02:43:10.575Z",
+      "updatedAt": "2026-11-23T14:32:55.862Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-23T02:43:10.575Z",
+      "updatedAt": "2026-11-23T14:32:55.862Z",
       "failedFeeds": []
     }
   }
