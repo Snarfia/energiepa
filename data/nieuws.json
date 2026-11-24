@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:32:55.862Z",
+  "updatedAt": "2026-11-24T02:53:34.896Z",
   "items": [
     {
       "id": "acm-027c7500739e",
@@ -33,6 +33,17 @@
       "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/23/landelijke-campagne-nieuwe-energie-roept-nederlanders-op-stroompiek-te-vermijden",
       "publishedAt": "2026-11-23T08:00:00.000Z",
       "language": "nl"
+    },
+    {
+      "id": "eu-58050056a283",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "EU stood firm for ambition and implementation at COP31",
+      "description": "Yesterday at the COP31 UN Climate Change Conference in Antalya, the European Union and all 27 Member States in unity showed the world their firm stance to limit global warming through the Paris Agreement and their determination to implement climate…",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2538",
+      "publishedAt": "2026-11-22T23:00:00.000Z",
+      "language": "en"
     },
     {
       "id": "eu-29cfce8a4a08",
@@ -277,17 +288,6 @@
       "language": "nl"
     },
     {
-      "id": "eu-f303ed32a266",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Electricity Coordination Group considers EU electricity market prepared for the winter",
-      "description": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination…",
-      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
-      "publishedAt": "2026-11-15T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "rijksoverheid-f74df790fd3a",
       "source": "rijksoverheid",
       "sourceLabel": "Rijksoverheid",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-23T14:32:55.861Z",
+      "updatedAt": "2026-11-24T02:53:34.896Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-23T14:32:55.862Z",
+      "updatedAt": "2026-11-24T02:53:34.896Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-23T14:32:55.862Z",
+      "updatedAt": "2026-11-24T02:53:34.896Z",
       "failedFeeds": []
     }
   }
