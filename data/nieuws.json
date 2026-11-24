@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-24T02:53:34.896Z",
+  "updatedAt": "2026-11-24T14:49:51.953Z",
   "items": [
+    {
+      "id": "eu-5b3507102b5b",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Representatives of European regions and local communities gather in Dublin to accelerate adaptation to climate change",
+      "description": "Fifth EU Mission Forum on Adaptation to Climate Change to highlight importance of proactively preparing for climate risks, protecting people, and keeping Europe’s economy productive and competitive.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/representatives-european-regions-and-local-communities-gather-dublin-accelerate-adaptation-climate-2026-11-24-0_en",
+      "publishedAt": "2026-11-23T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "acm-027c7500739e",
       "source": "acm",
@@ -266,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-86f384595cbe",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · klimaat",
-      "title": "Registrations open for the Innovation Fund 2026 Info Days",
-      "description": "The Commission plans to launch five calls for proposals (grants and auctions) on 3 December. Three grant calls will include the regular net-zero technologies call, as well as two new calls for Small and Medium-sized Enterprise (SME) projects and maritime…",
-      "url": "https://cinea.ec.europa.eu/news-events/news/registrations-open-innovation-fund-2026-info-days-2026-11-17_en",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-c3541d103c88",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-24T02:53:34.896Z",
+      "updatedAt": "2026-11-24T14:49:51.952Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-24T02:53:34.896Z",
+      "updatedAt": "2026-11-24T14:49:51.953Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-24T02:53:34.896Z",
+      "updatedAt": "2026-11-24T14:49:51.953Z",
       "failedFeeds": []
     }
   }

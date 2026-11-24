@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-24T02:53:38.362Z",
+  "updatedAt": "2026-11-24T14:49:55.085Z",
   "items": [
-    {
-      "id": "nl-cc589b65b678",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Petitie ‘Houd de energietransitie in de buurt op gang’",
-      "startAt": "2026-11-24T13:15:00+01:00",
-      "endAt": "2026-11-24T13:30:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Petitie",
-      "description": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08396",
-      "language": "nl"
-    },
     {
       "id": "nl-439aa0fada08",
       "source": "nl",
@@ -292,15 +279,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 17,
-      "updatedAt": "2026-11-24T02:53:38.362Z",
+      "count": 16,
+      "updatedAt": "2026-11-24T14:49:55.085Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-24T02:53:38.362Z",
+      "updatedAt": "2026-11-24T14:49:55.085Z",
       "error": null
     }
   }
