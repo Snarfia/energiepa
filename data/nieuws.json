@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-24T14:49:51.953Z",
+  "updatedAt": "2026-11-25T00:40:21.009Z",
   "items": [
+    {
+      "id": "eu-9ba1415776c6",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Commissioner Jørgensen in Ireland to advance work on energy and housing affordability",
+      "description": "On 25–26 November, Commissioner for Energy and Housing Dan Jørgensen will be in Dublin, Ireland, to exchange with national and local policymakers on ways to tackle two of the most urgent issues affecting European citizens and businesses: housing and energy…",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-ireland-advance-work-energy-and-housing-affordability-2026-11-24_en",
+      "publishedAt": "2026-11-23T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-5b3507102b5b",
       "source": "eu",
@@ -266,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-a71b92d5886f",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "In focus: Industrial carbon management – how it works and why we need it",
-      "description": "Industrial carbon management is not a replacement for clean energy technologies. Rather, it offers solutions complementary to their rollout, and needed for the EU to become the world’s first climate-neutral continent by 2050.",
-      "url": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-c3541d103c88",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-24T14:49:51.952Z",
+      "updatedAt": "2026-11-25T00:40:21.008Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-24T14:49:51.953Z",
+      "updatedAt": "2026-11-25T00:40:21.009Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-24T14:49:51.953Z",
+      "updatedAt": "2026-11-25T00:40:21.009Z",
       "failedFeeds": []
     }
   }
