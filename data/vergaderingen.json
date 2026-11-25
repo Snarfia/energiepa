@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-25T11:13:25.706Z",
+  "updatedAt": "2026-11-25T21:38:40.528Z",
   "items": [
-    {
-      "id": "nl-b1cd5b376b32",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Netcongestie en elektriciteitsnet",
-      "startAt": "2026-11-25T10:00:00+01:00",
-      "endAt": "2026-11-25T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Klimaat en Groene Groei",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04028",
-      "language": "nl"
-    },
     {
       "id": "eu-7ba17ffdc1a3",
       "source": "eu",
@@ -135,7 +122,7 @@
       "id": "nl-f685c17ab5bc",
       "source": "nl",
       "sourceLabel": "Tweede Kamer",
-      "title": "Energieraad (formeel) d.d. 10 december 2026",
+      "title": "Energieraad (formeel) d.d. 10 december 2026 en klimaatonderwerpen Milieuraad (formeel) d.d. 11 december 2026”",
       "startAt": "2026-12-08T18:00:00+01:00",
       "endAt": "2026-12-08T21:00:00+01:00",
       "location": "Tweede Kamer, Den Haag",
@@ -266,15 +253,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 15,
-      "updatedAt": "2026-11-25T11:13:25.706Z",
+      "count": 14,
+      "updatedAt": "2026-11-25T21:38:40.528Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-25T11:13:25.706Z",
+      "updatedAt": "2026-11-25T21:38:40.528Z",
       "error": null
     }
   }
