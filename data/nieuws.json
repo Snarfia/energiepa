@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-26T04:07:51.953Z",
+  "updatedAt": "2026-11-26T13:51:12.608Z",
   "items": [
+    {
+      "id": "eu-c9bce41a0ee1",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · energie",
+      "title": "Mark your calendars: European Sustainable Energy Week 23-25 June 2027",
+      "description": "As Europe continues to strengthen its energy security, competitiveness and resilience, the European Sustainable Energy Week (EUSEW) will bring the clean energy community together to discuss key policy trends and perspectives.",
+      "url": "https://energy.ec.europa.eu/news/mark-your-calendars-european-sustainable-energy-week-23-25-june-2027-2026-11-26_en",
+      "publishedAt": "2026-11-25T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-faeb4f7b0201",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "2027 arrangements for the execution of transfers between the emission trading registries of the EU and Switzerland",
+      "description": "The 2027 arrangements for the transfers of emission allowances between the registries of the EU Emissions Trading System and the Swiss Emissions Trading System have been agreed, in application of the EU and Swiss Linking Agreement.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/2027-arrangements-execution-transfers-between-emission-trading-registries-eu-and-switzerland-2026-11-26_en",
+      "publishedAt": "2026-11-25T23:00:00.000Z",
+      "language": "en"
+    },
     {
       "id": "eu-9ba1415776c6",
       "source": "eu",
@@ -255,28 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-063b4a26c079",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission approves €9.5 billion Dutch State aid to support offshore wind energy",
-      "description": "The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2457",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
-      "language": "en"
-    },
-    {
-      "id": "eu-97b9ad711dbf",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "The Greek Dodecanese islands will be connected to the mainland grid thanks to a €228.9 million EU grant",
-      "description": "The EU is supporting an ambitious energy infrastructure project in Greece that will link its Dodecanese islands to the mainland electricity grid.",
-      "url": "https://cinea.ec.europa.eu/news-events/news/greek-dodecanese-islands-will-be-connected-mainland-grid-thanks-eur2289-million-eu-grant-2026-11-16_en",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-c3541d103c88",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-26T04:07:51.952Z",
+      "updatedAt": "2026-11-26T13:51:12.608Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-26T04:07:51.953Z",
+      "updatedAt": "2026-11-26T13:51:12.608Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-26T04:07:51.953Z",
+      "updatedAt": "2026-11-26T13:51:12.608Z",
       "failedFeeds": []
     }
   }

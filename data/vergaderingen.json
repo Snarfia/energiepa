@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:07:54.475Z",
+  "updatedAt": "2026-11-26T13:51:15.079Z",
   "items": [
     {
       "id": "eu-7ba17ffdc1a3",
@@ -77,19 +77,6 @@
       "type": "Petitie",
       "description": "vaste commissie voor Klimaat en Groene Groei",
       "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08538",
-      "language": "nl"
-    },
-    {
-      "id": "nl-5040d17c5eb3",
-      "source": "nl",
-      "sourceLabel": "Tweede Kamer",
-      "title": "Klimaat en voedsel",
-      "startAt": "2026-12-03T10:00:00+01:00",
-      "endAt": "2026-12-03T14:00:00+01:00",
-      "location": "Tweede Kamer, Den Haag",
-      "type": "Commissiedebat",
-      "description": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-      "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05314",
       "language": "nl"
     },
     {
@@ -253,15 +240,15 @@
     "nl": {
       "label": "Tweede Kamer",
       "status": "ok",
-      "count": 14,
-      "updatedAt": "2026-11-26T04:07:54.475Z",
+      "count": 13,
+      "updatedAt": "2026-11-26T13:51:15.078Z",
       "error": null
     },
     "eu": {
       "label": "Europese Commissie",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-26T04:07:54.475Z",
+      "updatedAt": "2026-11-26T13:51:15.079Z",
       "error": null
     }
   }
