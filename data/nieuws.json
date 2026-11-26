@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:51:12.608Z",
+  "updatedAt": "2026-11-26T22:58:02.271Z",
   "items": [
     {
       "id": "eu-c9bce41a0ee1",
@@ -21,6 +21,17 @@
       "description": "The 2027 arrangements for the transfers of emission allowances between the registries of the EU Emissions Trading System and the Swiss Emissions Trading System have been agreed, in application of the EU and Swiss Linking Agreement.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/2027-arrangements-execution-transfers-between-emission-trading-registries-eu-and-switzerland-2026-11-26_en",
       "publishedAt": "2026-11-25T23:00:00.000Z",
+      "language": "en"
+    },
+    {
+      "id": "eu-77cfe18b3b70",
+      "source": "eu",
+      "sourceLabel": "EU Commissie",
+      "feed": "Europese Commissie · klimaat",
+      "title": "Commission awards €477 million in grants to cleantech projects under the Innovation Fund",
+      "description": "Today, ten additional projects selected under the Innovation Fund 2024 call (IF24 Call) have signed Grant Agreements with the European Climate, Infrastructure and Environment Executive Agency (CINEA).",
+      "url": "https://cinea.ec.europa.eu/news-events/news/commission-awards-eur477-million-grants-cleantech-projects-under-innovation-fund-2026-11-25_en",
+      "publishedAt": "2026-11-24T23:00:00.000Z",
       "language": "en"
     },
     {
@@ -266,17 +277,6 @@
       "language": "en"
     },
     {
-      "id": "eu-1628092eda69",
-      "source": "eu",
-      "sourceLabel": "EU Commissie",
-      "feed": "Europese Commissie · energie",
-      "title": "Commission approves amended German State aid schemes for energy-intensive companies",
-      "description": "The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the…",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2456",
-      "publishedAt": "2026-11-16T23:00:00.000Z",
-      "language": "en"
-    },
-    {
       "id": "acm-c3541d103c88",
       "source": "acm",
       "sourceLabel": "ACM",
@@ -491,21 +491,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-26T13:51:12.608Z",
+      "updatedAt": "2026-11-26T22:58:02.271Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-26T13:51:12.608Z",
+      "updatedAt": "2026-11-26T22:58:02.271Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-26T13:51:12.608Z",
+      "updatedAt": "2026-11-26T22:58:02.271Z",
       "failedFeeds": []
     }
   }
