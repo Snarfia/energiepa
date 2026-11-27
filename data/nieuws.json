@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-11-27T08:22:26.413Z",
+  "updatedAt": "2026-11-27T19:27:14.605Z",
   "items": [
+    {
+      "id": "acm-67c21d43368a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Enexis elektriciteit 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van Enexis Netbeheer B.V. (Enexis) vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-enexis-elektriciteit-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-78fc478b3163",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Liander elektriciteit 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van Liander N.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-liander-elektriciteit-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-ba1e5b6d4bca",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit RENDO elektriciteit 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van N.V. RENDO vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-rendo-elektriciteit-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-f881c4900be6",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Stedin elektriciteit 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van Stedin Netbeheer B.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-stedin-elektriciteit-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-a484f2c3839c",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Westland elektriciteit 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van Westland Infra Netbeheer B.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-westland-elektriciteit-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-04c752c93cbc",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit elektriciteit Coteq 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van elektriciteit van Coteq Netbeheer B.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-elektriciteit-coteq-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-b5c6488d7581",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Coteq gas 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van gas van Coteq Netbeheer B.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-coteq-gas-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-dd52ba5d5c7b",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Enexis gas 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van gas van Enexis Netbeheer B.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-enexis-gas-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-a71d2018e59a",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit Liander gas 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van gas van Liander N.V. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-liander-gas-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
+    {
+      "id": "acm-206da4223623",
+      "source": "acm",
+      "sourceLabel": "ACM",
+      "feed": "ACM · energie",
+      "title": "Tarievenbesluit RENDO gas 2027",
+      "description": "Besluit van de ACM over de vaststelling van de maximale tarieven voor de distributie en het aansluiten van gas van N.V. RENDO. vanaf 1 januari 2027.",
+      "url": "https://www.acm.nl/nl/publicaties/tarievenbesluit-rendo-gas-2027",
+      "publishedAt": "2026-11-27T08:30:00.000Z",
+      "language": "nl"
+    },
     {
       "id": "eu-c9bce41a0ee1",
       "source": "eu",
@@ -55,17 +165,6 @@
       "url": "https://climate.ec.europa.eu/news-other-reads/news/representatives-european-regions-and-local-communities-gather-dublin-accelerate-adaptation-climate-2026-11-24-0_en",
       "publishedAt": "2026-11-23T23:00:00.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-027c7500739e",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "ACM: geen aanwijzingen dat gebruik prijssoftware door tankstations leidt tot hogere pompprijzen",
-      "description": "Er zijn nu geen aanwijzingen dat het gebruik van prijsalgoritmes door tankstations zorgt voor structureel hogere prijzen aan de pomp. Dat concludeert de ACM in een verkenning van het gebruik van prijsalgoritmes in de brandstofketen.",
-      "url": "https://www.acm.nl/nl/publicaties/acm-geen-aanwijzingen-dat-gebruik-prijssoftware-door-tankstations-leidt-tot-hogere-pompprijzen",
-      "publishedAt": "2026-11-23T12:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "rijksoverheid-c43683400798",
@@ -132,28 +231,6 @@
       "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
       "publishedAt": "2026-11-19T23:00:00.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-d4030e38579c",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Woo-besluit over TenneT en netcongestie",
-      "description": "De ACM stelt openbaarmakingsverzoek van alle documenten die betrekking hebben op TenneT en netcongestie voor de periode 2023 - 2026 buiten behandeling.",
-      "url": "https://www.acm.nl/nl/publicaties/woo-besluit-over-tennet-en-netcongestie",
-      "publishedAt": "2026-11-19T09:00:00.000Z",
-      "language": "nl"
-    },
-    {
-      "id": "acm-5ec6bd768ac1",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Voorstel codewijziging harmonisatie boetebeding balancering",
-      "description": "Voorstel van Netbeheer Nederland voor het wijzigen van de codes energie over de harmonisatie van het boetebeding voor het niet nakomen van verplichtingen voor het leveren van balanceringsdiensten.",
-      "url": "https://www.acm.nl/nl/publicaties/voorstel-codewijziging-harmonisatie-boetebeding-balancering",
-      "publishedAt": "2026-11-19T09:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "eu-6f520f2ed184",
@@ -275,17 +352,6 @@
       "url": "https://climate.ec.europa.eu/news-other-reads/news/commission-invites-public-shape-new-carbon-storage-certification-buildings-2026-11-18_en",
       "publishedAt": "2026-11-17T23:00:00.000Z",
       "language": "en"
-    },
-    {
-      "id": "acm-c3541d103c88",
-      "source": "acm",
-      "sourceLabel": "ACM",
-      "feed": "ACM · energie",
-      "title": "Kikker Energie voldoet weer aan vergunningsvoorwaarden na bindende aanwijzing",
-      "description": "Uit controles van de ACM blijkt dat Kikker Energie weer voldoet aan de wettelijke vergunningsvoorwaarden die gelden voor energieleveranciers.",
-      "url": "https://www.acm.nl/nl/publicaties/kikker-energie-voldoet-weer-aan-vergunningsvoorwaarden-na-bindende-aanwijzing",
-      "publishedAt": "2026-11-16T07:00:00.000Z",
-      "language": "nl"
     },
     {
       "id": "rijksoverheid-f74df790fd3a",
@@ -491,21 +557,21 @@
       "label": "Rijksoverheid",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-27T08:22:26.413Z",
+      "updatedAt": "2026-11-27T19:27:14.605Z",
       "failedFeeds": []
     },
     "acm": {
       "label": "ACM",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-11-27T08:22:26.413Z",
+      "count": 10,
+      "updatedAt": "2026-11-27T19:27:14.605Z",
       "failedFeeds": []
     },
     "eu": {
       "label": "EU Commissie",
       "status": "ok",
       "count": 20,
-      "updatedAt": "2026-11-27T08:22:26.413Z",
+      "updatedAt": "2026-11-27T19:27:14.605Z",
       "failedFeeds": []
     }
   }
